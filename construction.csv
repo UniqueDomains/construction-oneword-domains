@@ -1,10 +1,10 @@
 Domain,Status,Attractiveness,Demand,Length,Sectors,Created,Expires,Registrar
 ground.online,available,122,72%,6,"Construction,General",,,
 ground.so,available,122,72%,6,"Construction,General",,,
-flat.expert,available,116,92%,4,"Construction,Real Estate",,,
-flat.ai,resell,116,92%,4,"Construction,Real Estate",16/12/2017 04:49,28/06/2027 04:49,"NameCheap, Inc."
-flat.dev,available,116,92%,4,"Construction,Real Estate",,,
-flat.zone,resell,116,92%,4,"Construction,Real Estate",30/04/2014 16:00,30/04/2026 16:00,IONOS SE
+flat.expert,available,116,48%,4,"Construction,Real Estate",,,
+flat.ai,resell,116,48%,4,"Construction,Real Estate",16/12/2017 04:49,28/06/2027 04:49,"NameCheap, Inc."
+flat.dev,available,116,48%,4,"Construction,Real Estate",,,
+flat.zone,resell,116,48%,4,"Construction,Real Estate",30/04/2014 16:00,30/04/2026 16:00,IONOS SE
 metal.tech,available,114,88%,5,"Construction,Manufacturing",,,
 DIY.store,available,114,92%,3,"Construction,Media,Retail",,,
 metal.ninja,available,114,88%,5,"Construction,Manufacturing",,,
@@ -33,7 +33,6 @@ plat.space,expiring,106,80%,4,"Business,Construction,Real Estate",27/07/2022 13:
 plat.online,available,106,80%,4,"Business,Construction,Real Estate",,,
 material.cloud,available,106,92%,8,"Construction,Manufacturing,Retail",,,
 plat.app,expiring,106,80%,4,"Business,Construction,Real Estate",12/07/2021 11:23,12/07/2025 11:23,Squarespace Domains II LLC.
-material.space,available,106,92%,8,"Construction,Manufacturing,Retail",,,
 rubber.net,resell,105,80%,6,"Automotive,Construction,Manufacturing",03/12/1996 05:00,02/12/2025 05:00,Rebel Ltd
 rubber.cloud,available,105,80%,6,"Automotive,Construction,Manufacturing",,,
 rubber.expert,expired,105,80%,6,"Automotive,Construction,Manufacturing",28/04/2015 07:37,28/04/2025 07:37,Tucows Domains Inc.
@@ -64,7 +63,7 @@ flame.me,expiring,102,84%,5,"Construction,Media",17/07/2008 15:17,17/07/2025 15:
 duplex.me,resell,100,76%,6,"Construction,Real Estate,Technology",18/10/2010 07:05,18/10/2025 07:05,"GoDaddy.com, LLC"
 closet.tech,available,100,88%,6,"Construction,Retail",,,
 safety.so,resell,100,88%,6,"Construction,Healthcare,Transportation",21/08/2020 11:25,21/08/2025 11:25,NameCheap
-remove.so,available,100,72%,6,"Construction,Manufacturing,Technology",,,
+remove.so,sold,100,36%,6,"Construction,Manufacturing,Technology",22/07/2025 06:13,22/07/2026 06:13,SOSTEC TECHNOLOGIES_LR
 stopgap.pro,available,100,76%,7,"Business,Construction,Engineering",,,
 safety.tech,available,100,88%,6,"Construction,Healthcare,Transportation",,,
 duplex.space,available,100,76%,6,"Construction,Real Estate,Technology",,,
@@ -75,8 +74,9 @@ duplex.so,available,100,76%,6,"Construction,Real Estate,Technology",,,
 closet.me,resell,100,88%,6,"Construction,Retail",25/09/2011 18:31,25/09/2026 18:31,"GoDaddy.com, LLC"
 closet.online,available,100,88%,6,"Construction,Retail",,,
 gangway.ninja,available,100,84%,7,"Construction,Entertainment,Transportation",,,
+remove.xyz,resell,100,36%,6,"Construction,Manufacturing,Technology",13/02/2019 07:19,13/02/2026 23:59,"Unstoppable Domains, Inc."
 duplex.zone,available,100,76%,6,"Construction,Real Estate,Technology",,,
-remove.space,available,100,72%,6,"Construction,Manufacturing,Technology",,,
+remove.space,available,100,36%,6,"Construction,Manufacturing,Technology",,,
 contract.dev,available,98,80%,8,"Business,Construction,Law",,,
 floor.online,available,98,88%,5,"Construction,Real Estate,Retail",,,
 contract.it,resell,98,80%,8,"Business,Construction,Law",08/05/2021 09:00,08/05/2026 00:00,
@@ -463,7 +463,7 @@ stoop.us,expired,82,76%,5,"Construction,Real Estate",27/04/2024 20:18,27/04/2025
 floorboard.pro,available,82,76%,10,"Construction,Real Estate,Retail",,,
 chainsaw.com,expiring,82,84%,9,"Construction,Manufacturing,Retail",30/07/1995 04:00,29/07/2025 04:00,"CSC Corporate Domains, Inc."
 spout.net,premium,82,88%,5,"Construction,Engineering,Manufacturing",24/11/1998 05:00,23/11/2025 05:00,"eNom, LLC"
-alabaster.so,available,82,80%,9,"Construction,Retail",,,
+alabaster.so,available,82,36%,9,"Construction,Retail",,,
 plywood.at,available,82,80%,7,"Construction,Manufacturing,Retail",,,
 turnpike.expert,available,82,84%,8,"Construction,Real Estate,Transportation",,,
 facing.space,available,82,84%,6,"Construction,Manufacturing,Real Estate",,,
@@ -474,7 +474,7 @@ turf.space,available,82,80%,4,"Agriculture,Construction,Sports",,,
 backfill.so,available,82,80%,8,"Construction,Mining,Real Estate",,,
 floorboard.net,expired,82,76%,10,"Construction,Real Estate,Retail",03/07/2013 18:13,03/07/2025 18:13,Dynadot Inc
 spout.at,available,82,88%,5,"Construction,Engineering,Manufacturing",,,
-alabaster.cloud,available,82,80%,9,"Construction,Retail",,,
+alabaster.cloud,available,82,36%,9,"Construction,Retail",,,
 backdoor.cloud,resell,82,84%,9,"Construction,Real Estate,Technology",16/02/2025 19:31,16/02/2026 19:31,OVH sas
 turnpike.app,expiring,82,84%,8,"Construction,Real Estate,Transportation",19/07/2019 18:18,19/07/2025 18:18,Namecamp Limited
 movable.site,available,82,80%,7,"Construction,Manufacturing,Technology",,,
@@ -576,7 +576,7 @@ bulldozer.cloud,available,80,72%,9,"Construction,Engineering,Real Estate",,,
 mitre.space,available,80,84%,5,Construction,,,
 backsaw.co,available,80,72%,7,"Construction,Manufacturing,Real Estate",,,
 mend.expert,available,80,80%,4,Construction,,,
-yard.online,available,80,76%,4,"Construction,General",,,
+yard.online,available,80,44%,4,"Construction,General",,,
 tarmac.space,available,80,88%,6,Construction,,,
 birdnest.gg,available,80,80%,9,"Arts,Construction,Environment",,,
 anvil.cloud,resell,80,92%,5,"Construction,Engineering,Manufacturing",19/06/2018 13:40,19/06/2026 13:40,NAMECHEAP
@@ -624,6 +624,7 @@ anvil.online,available,80,92%,5,"Construction,Engineering,Manufacturing",,,
 sandbag.cloud,available,80,80%,7,"Construction,Environment,Military",,,
 varnish.ninja,available,80,84%,7,"Arts,Construction,Manufacturing",,,
 welt.gg,available,80,84%,4,"Construction,Fashion,Manufacturing",,,
+yard.zone,resell,80,44%,4,"Construction,General",27/11/2024 17:00,27/11/2025 17:00,"Sav.com, LLC - 43"
 belt.net,expiring,80,88%,4,"Automotive,Construction,Fashion,General",06/08/2001 10:36,06/08/2025 10:36,"GMO Internet Group, Inc. d/b/a Onamae.com"
 teak.store,available,80,88%,4,"Construction,Manufacturing,Retail",,,
 sweeping.store,available,80,84%,8,"Construction,Media,Real Estate",,,
@@ -659,7 +660,7 @@ mitre.so,available,80,84%,5,Construction,,,
 mitre.gg,available,80,84%,5,Construction,,,
 capstone.ai,resell,80,80%,8,"Business,Construction,Education",07/09/2021 17:17,07/09/2025 17:17,Dynadot Inc
 working.tech,available,80,84%,7,"Business,Construction,Technology",,,
-yard.at,sold,80,76%,4,"Construction,General",,,OVH GmbH ( https://nic.at/registrar/559 )
+yard.at,sold,80,44%,4,"Construction,General",,,OVH GmbH ( https://nic.at/registrar/559 )
 backsaw.cloud,available,80,72%,7,"Construction,Manufacturing,Real Estate",,,
 teak.zone,available,80,88%,4,"Construction,Manufacturing,Retail",,,
 curving.dev,available,80,76%,7,"Arts,Construction,Engineering",,,
@@ -667,7 +668,7 @@ fireengine.gg,available,80,76%,11,"Automotive,Construction",,,
 birdnest.so,available,80,80%,9,"Arts,Construction,Environment",,,
 keel.cloud,available,80,84%,4,"Construction,Engineering,Transportation",,,
 lathe.at,available,80,76%,5,"Construction,Engineering,Manufacturing",,,
-yard.so,resell,80,76%,4,"Construction,General",12/06/2021 09:08,12/06/2026 09:08,NameCheap
+yard.so,resell,80,44%,4,"Construction,General",12/06/2021 09:08,12/06/2026 09:08,NameCheap
 birdnest.io,resell,80,80%,9,"Arts,Construction,Environment",27/04/2021 14:31,27/04/2026 14:31,"NameCheap, Inc."
 backhoe.ai,available,80,76%,7,"Agriculture,Construction,Engineering",,,
 backhoe.co,available,80,76%,7,"Agriculture,Construction,Engineering",,,
@@ -675,7 +676,7 @@ shaper.io,resell,80,88%,6,"Construction,Manufacturing,Technology",23/05/2019 15:
 architect.expert,available,80,88%,9,Construction,,,
 mend.site,available,80,80%,4,Construction,,,
 keel.online,available,80,84%,4,"Construction,Engineering,Transportation",,,
-yard.io,available,80,76%,4,"Construction,General",,,
+yard.io,available,80,44%,4,"Construction,General",,,
 backsaw.xyz,available,80,72%,7,"Construction,Manufacturing,Real Estate",,,
 miter.space,available,80,80%,5,Construction,,,
 curving.online,available,80,76%,7,"Arts,Construction,Engineering",,,
@@ -771,7 +772,7 @@ mortise.app,available,78,72%,7,"Construction,Engineering,Manufacturing",,,
 hydraulic.store,available,78,80%,9,"Automotive,Construction,Engineering",,,
 upholster.org,resell,78,80%,9,"Construction,Hospitality,Retail",27/03/2015 14:30,27/03/2026 14:30,"GoDaddy.com, LLC"
 joggle.dev,available,78,88%,6,"Construction,Engineering,Manufacturing",,,
-adjacent.io,sold,78,80%,8,"Construction,Real Estate,Retail",02/02/2013 23:02,02/02/2026 23:02,"NameCheap, Inc."
+adjacent.io,sold,78,52%,8,"Construction,Real Estate,Retail",02/02/2013 23:02,02/02/2026 23:02,"NameCheap, Inc."
 sconce.co,expiring,78,76%,6,"Construction,Retail",16/07/2024 08:39,16/07/2025 08:39,Sav.com LLC
 unblock.dev,resell,78,88%,7,"Construction,Technology,Utilities",28/10/2019 08:52,28/10/2025 08:52,"GoDaddy.com, LLC"
 coak.store,available,78,72%,4,"Construction,Engineering,Manufacturing",,,
@@ -868,12 +869,13 @@ sealing.at,available,78,80%,7,"Construction,Engineering,Manufacturing",,,
 laydown.pro,available,76,72%,8,"Construction,Healthcare,Real Estate",,,
 divot.gg,available,76,80%,5,"Construction,Real Estate,Sports",,,
 fireretardant.store,available,76,80%,14,"Construction,Manufacturing,Technology",,,
+abrasive.us,resell,76,28%,8,"Construction,Manufacturing",20/11/2022 00:00,20/11/2025 00:00,Dynadot Inc
 paving.us,resell,76,80%,6,"Construction,Real Estate,Transportation",24/04/2002 14:13,23/04/2026 23:59,"Name.com, Inc."
 backsplash.pro,expiring,76,84%,10,"Construction,Real Estate,Retail",19/07/2024 17:00,19/07/2025 17:00,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság
 fireretardant.gg,available,76,80%,14,"Construction,Manufacturing,Technology",,,
 setup.store,available,76,88%,6,"Business,Construction,Technology",,,
 builder.space,available,76,88%,7,"Construction,Engineering,Real Estate",,,
-adhesive.site,available,76,84%,8,"Construction,Manufacturing,Technology",,,
+adhesive.site,available,76,36%,8,"Construction,Manufacturing,Technology",,,
 paving.co,expiring,76,80%,6,"Construction,Real Estate,Transportation",21/07/2010 22:06,20/07/2025 23:59,"eNom, LLC"
 drapes.ai,resell,76,32%,6,"Construction,General,Retail",05/04/2020 13:55,05/04/2026 13:55,Dynadot Inc
 woodshed.space,available,76,84%,8,"Construction,Environment,Manufacturing",,,
@@ -958,7 +960,7 @@ separateschool.expert,available,76,72%,15,"Construction,Education,Real Estate",,
 divot.space,available,76,80%,5,"Construction,Real Estate,Sports",,,
 roundhouse.store,available,76,88%,10,"Arts,Construction",,,
 surbase.cloud,available,76,72%,7,"Construction,Real Estate",,,
-adhesive.cloud,expiring,76,84%,8,"Construction,Manufacturing,Technology",21/07/2024 17:42,21/07/2025 17:42,"Chengdu West Dimension Digital Technology Co., LTD"
+adhesive.cloud,resell,76,36%,8,"Construction,Manufacturing,Technology",21/07/2024 17:42,21/07/2026 17:42,"Chengdu West Dimension Digital Technology Co., LTD"
 polyurethane.space,available,76,84%,12,"Construction,Manufacturing,Technology",,,
 perforate.cloud,available,76,80%,9,"Construction,Manufacturing",,,
 polyurethane.so,available,76,84%,12,"Construction,Manufacturing,Technology",,,
@@ -970,7 +972,7 @@ setup.cloud,available,76,88%,6,"Business,Construction,Technology",,,
 fasten.store,expiring,76,84%,6,"Construction,Manufacturing,Technology",17/07/2024 19:22,17/07/2025 23:59,West263 International Limited
 instal.cloud,available,76,80%,6,"Construction,Engineering,Technology",,,
 pole.online,available,76,84%,4,"Construction,Geography,Sports",,,
-adhesive.space,available,76,84%,8,"Construction,Manufacturing,Technology",,,
+adhesive.space,available,76,36%,8,"Construction,Manufacturing,Technology",,,
 divot.co,resell,76,80%,5,"Construction,Real Estate,Sports",06/03/2014 15:40,05/03/2026 23:59,1API GmbH
 joist.online,available,76,92%,5,Construction,,,
 mallet.so,available,76,88%,6,"Construction,Manufacturing,Sports",,,
@@ -1016,15 +1018,15 @@ woodcraft.zone,available,76,84%,9,"Arts,Construction,Manufacturing",,,
 cranny.store,available,76,80%,6,"Construction,Geography,Real Estate",,,
 spraypaint.pro,available,76,84%,11,"Arts,Construction,Retail",,,
 polyurethane.ninja,available,76,84%,12,"Construction,Manufacturing,Technology",,,
-abrasive.dev,available,76,80%,8,"Construction,Manufacturing",,,
+abrasive.dev,available,76,28%,8,"Construction,Manufacturing",,,
 pellet.so,available,76,72%,6,"Construction,Environment,Manufacturing",,,
 cornice.pro,available,76,76%,7,"Construction,Manufacturing,Real Estate",,,
 cinderblock.pro,available,76,88%,12,"Construction,Manufacturing,Real Estate",,,
 kindling.online,available,76,92%,8,"Construction,Environment,Retail",,,
 corbel.site,available,76,88%,6,"Construction,Engineering,Real Estate",,,
 laydown.it,resell,76,72%,8,"Construction,Healthcare,Real Estate",23/03/2010 00:54,11/04/2026 00:00,
-abrasive.app,expired,76,80%,8,"Construction,Manufacturing",04/06/2019 16:46,04/06/2025 16:46,"GoDaddy.com, LLC"
-adhesive.so,available,76,84%,8,"Construction,Manufacturing,Technology",,,
+abrasive.app,expired,76,28%,8,"Construction,Manufacturing",04/06/2019 16:46,04/06/2025 16:46,"GoDaddy.com, LLC"
+adhesive.so,available,76,36%,8,"Construction,Manufacturing,Technology",,,
 earthen.space,available,76,80%,7,"Arts,Construction,Environment",,,
 pellet.io,expiring,76,72%,6,"Construction,Environment,Manufacturing",30/07/2017 13:01,30/07/2025 13:01,Dynadot Inc
 freezeproof.gg,available,76,72%,11,"Construction,Retail,Technology",,,
@@ -1047,7 +1049,7 @@ laydown.expert,available,76,72%,8,"Construction,Healthcare,Real Estate",,,
 instal.net,resell,76,80%,6,"Construction,Engineering,Technology",19/10/2013 18:08,19/10/2025 18:08,"Wild West Domains, LLC"
 rustproof.zone,available,76,80%,9,"Automotive,Construction,Manufacturing",,,
 belting.cloud,available,76,68%,7,"Construction,Fashion,Manufacturing",,,
-abrasive.it,resell,76,80%,8,"Construction,Manufacturing",15/02/2010 14:29,14/02/2026 00:00,
+abrasive.it,resell,76,28%,8,"Construction,Manufacturing",15/02/2010 14:29,14/02/2026 00:00,
 fireretardant.tech,available,76,80%,14,"Construction,Manufacturing,Technology",,,
 rustproof.store,available,76,80%,9,"Automotive,Construction,Manufacturing",,,
 perforate.ninja,available,76,80%,9,"Construction,Manufacturing",,,
@@ -1059,7 +1061,7 @@ separateschool.ai,available,76,72%,15,"Construction,Education,Real Estate",,,
 counterweight.space,available,76,84%,13,"Construction,Engineering,Manufacturing",,,
 cornice.at,available,76,76%,7,"Construction,Manufacturing,Real Estate",,,
 fitout.net,resell,76,84%,7,"Construction,General,Retail",29/11/2007 19:05,29/11/2026 19:05,Dynadot Inc
-abrasive.online,available,76,80%,8,"Construction,Manufacturing",,,
+abrasive.online,available,76,28%,8,"Construction,Manufacturing",,,
 mallet.space,available,76,88%,6,"Construction,Manufacturing,Sports",,,
 spatter.online,available,76,80%,7,"Arts,Construction,Healthcare",,,
 mallet.cloud,available,76,88%,6,"Construction,Manufacturing,Sports",,,
@@ -1365,7 +1367,7 @@ pipe.gg,resell,72,84%,4,"Construction,Manufacturing,Utilities",,,Enrapture Limit
 stockade.ninja,available,72,84%,8,"Construction,Military",,,
 safetyfirst.expert,available,72,80%,12,"Construction,Manufacturing,Transportation",,,
 flooring.at,sold,70,80%,8,"Construction,Real Estate,Retail",,,HostProfis ISP Telekom GmbH ( https://nic.at/registrar/113 )
-abradant.pro,available,70,72%,8,"Construction,Manufacturing",,,
+abradant.pro,available,70,8%,8,"Construction,Manufacturing",,,
 doup.org,resell,70,76%,5,"Construction,Fashion,Real Estate",26/11/2023 15:15,26/11/2025 15:15,"NameSilo, LLC"
 multistorey.so,available,70,72%,12,"Construction,Real Estate",,,
 flaking.tech,available,70,68%,7,"Arts,Construction,Manufacturing",,,
@@ -1384,7 +1386,7 @@ multistorey.co,available,70,72%,12,"Construction,Real Estate",,,
 peg.pro,available,70,92%,3,"Construction,Retail,Technology",,,
 planning.tech,available,70,80%,8,"Business,Construction,Technology",,,
 multistorey.space,available,70,72%,12,"Construction,Real Estate",,,
-abradant.dev,available,70,72%,8,"Construction,Manufacturing",,,
+abradant.dev,available,70,8%,8,"Construction,Manufacturing",,,
 machinescrew.so,available,70,72%,13,"Construction,Manufacturing,Retail",,,
 latching.xyz,available,70,72%,8,"Construction,Engineering,Technology",,,
 balcony.org,resell,70,80%,7,"Construction,Hospitality,Real Estate",10/07/2001 23:52,10/07/2026 23:52,Dynadot Inc
@@ -1422,7 +1424,7 @@ groundlaying.at,available,70,4%,12,"Agriculture,Construction,General",,,
 unload.ninja,available,70,84%,6,"Construction,Retail,Transportation",,,
 planner.store,available,70,84%,7,"Business,Construction,Real Estate",,,
 flatten.so,available,70,84%,7,"Construction,Manufacturing,Technology",,,
-abradant.at,available,70,72%,8,"Construction,Manufacturing",,,
+abradant.at,available,70,8%,8,"Construction,Manufacturing",,,
 multistorey.tech,available,70,72%,12,"Construction,Real Estate",,,
 latching.net,available,70,72%,8,"Construction,Engineering,Technology",,,
 siting.cloud,available,70,72%,6,"Construction,Engineering,Real Estate",,,
@@ -1451,7 +1453,7 @@ siting.io,available,70,72%,6,"Construction,Engineering,Real Estate",,,
 steps.cloud,available,70,84%,5,"Construction,Real Estate",,,
 planning.me,expiring,70,80%,8,"Business,Construction,Technology",17/07/2008 15:00,17/07/2025 15:00,OVH SAS
 conduit.net,resell,70,92%,7,"Construction,Technology,Utilities",21/02/2000 12:57,21/02/2026 12:57,Dynadot Inc
-abradant.org,available,70,72%,8,"Construction,Manufacturing",,,
+abradant.org,available,70,8%,8,"Construction,Manufacturing",,,
 capoff.app,available,70,76%,7,"Business,Construction,Manufacturing",,,
 hiviz.cloud,available,70,80%,6,"Construction,Manufacturing",,,
 mechanicalengineer.cloud,available,70,88%,19,"Construction,Engineering,Technology",,,
@@ -1459,7 +1461,7 @@ greenroof.me,resell,70,72%,10,"Construction,Environment,Real Estate",08/11/2024 
 closeoff.zone,available,70,72%,9,"Business,Construction,Real Estate",,,
 planning.site,available,70,80%,8,"Business,Construction,Technology",,,
 heatproof.at,available,70,72%,9,"Construction,Manufacturing,Technology",,,
-abradant.so,available,70,72%,8,"Construction,Manufacturing",,,
+abradant.so,available,70,8%,8,"Construction,Manufacturing",,,
 plier.zone,available,70,80%,5,"Construction,Engineering,Manufacturing",,,
 latching.so,available,70,72%,8,"Construction,Engineering,Technology",,,
 pyramidal.so,available,70,80%,9,"Construction,Education,Science",,,
@@ -1963,13 +1965,12 @@ covering.zone,available,66,72%,8,"Construction,Real Estate,Retail",,,
 apartmentblock.store,available,66,76%,15,"Construction,Real Estate",,,
 smokedetector.dev,available,66,84%,14,"Construction,Real Estate,Technology",,,
 clearout.cloud,available,66,88%,9,"Construction,Real Estate,Retail",,,
-greatwall.xyz,resell,66,76%,10,"Construction,Travel",25/07/2014 14:59,25/07/2030 23:59,TLD Registrar Solutions Ltd
 humidify.expert,available,65,76%,8,"Construction,Health and Fitness,Technology",,,
 cleanout.expert,available,64,72%,9,"Construction,Real Estate,Retail",,,
 repave.me,available,64,80%,6,"Construction,Real Estate,Transportation",,,
 bridged.me,resell,64,80%,7,"Construction,Engineering,Technology",08/11/2024 13:20,08/11/2025 13:20,"Chengdu West Dimension Digital Technology Co., Ltd."
 tradecounter.dev,available,64,76%,13,"Business,Construction,Retail",,,
-rising.ninja,available,64,80%,6,"Construction,Manufacturing,Real Estate",,,
+rising.ninja,available,64,40%,6,"Construction,Manufacturing,Real Estate",,,
 hexkey.me,available,64,80%,7,"Automotive,Construction,Manufacturing",,,
 marble.ninja,available,64,92%,6,"Arts,Construction,Real Estate",,,
 plowahead.at,available,64,76%,10,"Agriculture,Business,Construction",,,
@@ -2067,7 +2068,7 @@ fastendown.cloud,available,64,72%,11,"Construction,General",,,
 statuary.us,resell,64,76%,8,"Arts,Construction,Real Estate",24/04/2002 14:07,23/04/2026 23:59,"GoDaddy.com, LLC"
 carveout.app,available,64,80%,9,"Business,Construction,Real Estate",,,
 spike.net,resell,64,88%,5,"Construction,Fashion,Sports",21/08/1997 04:00,20/08/2026 04:00,Dynadot Inc
-rising.xyz,sold,64,80%,6,"Construction,Manufacturing,Real Estate",18/12/2020 19:24,18/12/2029 23:59,Dynadot LLC
+rising.xyz,resell,64,40%,6,"Construction,Manufacturing,Real Estate",18/12/2020 19:24,18/12/2029 23:59,Dynadot LLC
 silotruck.co,available,64,72%,10,"Agriculture,Construction,Transportation",,,
 squaremetre.site,available,64,80%,12,"Construction,Engineering,Mathematics",,,
 pumpingstation.io,available,64,72%,15,"Construction,Energy,Utilities",,,
@@ -2246,7 +2247,7 @@ cleanout.cloud,available,64,72%,9,"Construction,Real Estate,Retail",,,
 gaslighter.so,available,64,84%,11,"Construction,Hospitality,Retail",,,
 boxcoat.us,available,64,72%,8,"Construction,Fashion,Retail",,,
 concreteart.tech,available,64,80%,12,"Arts,Construction,General",,,
-rising.store,available,64,80%,6,"Construction,Manufacturing,Real Estate",,,
+rising.store,available,64,40%,6,"Construction,Manufacturing,Real Estate",,,
 gypsum.it,resell,64,76%,6,"Construction,Manufacturing,Mining",01/05/2013 13:09,18/05/2026 00:00,
 domed.space,available,64,68%,5,"Construction,Real Estate",,,
 moveable.online,expiring,64,80%,8,"Construction,Manufacturing,Technology",30/07/2024 15:12,30/07/2025 23:59,Communigal Communications Ltd
@@ -2330,6 +2331,7 @@ utilitybelt.at,available,64,84%,12,"Construction,Engineering,Technology",,,
 mounted.it,resell,64,76%,7,"Construction,Manufacturing,Technology",31/08/2011 23:19,30/09/2025 00:00,
 encircle.space,available,64,76%,8,"Construction,Media,Technology",,,
 gazebo.so,available,64,76%,6,"Construction,Hospitality,Real Estate",,,
+rising.so,resell,64,40%,6,"Construction,Manufacturing,Real Estate",11/09/2023 15:59,11/09/2025 15:59,NameCheap
 axhandle.co,available,64,80%,9,"Construction,Manufacturing,Retail",,,
 screwdriver.com,resell,64,76%,11,"Construction,Manufacturing,Retail",01/04/2002 19:17,01/04/2026 18:17,Tucows Domains Inc.
 mounted.online,available,64,76%,7,"Construction,Manufacturing,Technology",,,
@@ -2401,7 +2403,7 @@ dropopen.com,resell,64,72%,9,"Construction,Retail,Technology",17/06/2024 20:29,1
 firehouse.xyz,available,64,80%,9,"Construction,Real Estate",,,
 firewood.store,available,64,80%,8,"Construction,Environment,Real Estate",,,
 stairs.zone,available,64,80%,6,"Construction,Real Estate",,,
-rising.me,resell,64,80%,6,"Construction,Manufacturing,Real Estate",27/09/2013 02:35,27/09/2025 02:35,Dynadot Inc
+rising.me,resell,64,40%,6,"Construction,Manufacturing,Real Estate",27/09/2013 02:35,27/09/2026 02:35,Dynadot Inc
 plumbing.so,available,64,72%,8,"Construction,Real Estate,Utilities",,,
 banding.co,available,64,68%,7,"Construction,Manufacturing",,,
 sinkin.me,available,64,72%,7,"Construction,Engineering,Media",,,
@@ -2498,7 +2500,7 @@ sheshed.ninja,available,62,80%,8,"Construction,Real Estate,Retail",,,
 retrofitting.so,available,62,76%,12,"Construction,Energy,Engineering",,,
 waterproofed.cloud,available,62,80%,12,"Construction,Retail,Technology",,,
 resurfacing.at,available,62,72%,11,"Automotive,Construction,Engineering",,,
-nail.io,expiring,62,84%,4,"Construction,Fashion,General,Retail",08/08/2014 00:30,08/08/2025 00:30,"humbly, LLC"
+nail.io,sold,62,48%,4,"Construction,Fashion,General,Retail",08/08/2014 00:30,08/08/2026 00:30,"humbly, LLC"
 divider.us,resell,62,72%,7,"Construction,Manufacturing,Technology",10/02/2025 18:49,10/02/2026 18:49,Dominet (HK) Limited
 dent.io,resell,62,80%,4,"Automotive,Construction,Manufacturing",10/05/2015 01:53,10/05/2026 01:53,Dynadot Inc
 encrust.io,available,62,72%,7,"Arts,Construction,Manufacturing",,,
@@ -2548,7 +2550,7 @@ revolvingdoor.dev,available,62,80%,14,"Construction,Hospitality,Real Estate",,,
 vent.tech,available,62,96%,4,"Construction,Engineering",,,
 liftscheme.so,available,62,72%,11,"Construction,Technology,Transportation",,,
 shrouding.online,available,62,72%,9,Construction,,,
-nail.online,available,62,84%,4,"Construction,Fashion,General,Retail",,,
+nail.online,available,62,48%,4,"Construction,Fashion,General,Retail",,,
 toolfriendly.io,available,62,72%,13,"Construction,Manufacturing,Technology",,,
 smoothing.dev,available,62,80%,9,"Arts,Construction,Manufacturing",,,
 chickenwire.ai,available,62,76%,12,"Agriculture,Construction",,,
@@ -2761,7 +2763,7 @@ stone.me,expiring,62,88%,5,"Arts,Construction,Retail",04/08/2008 11:12,04/08/202
 livable.io,resell,62,76%,7,"Construction,Environment,Real Estate",30/05/2020 14:30,30/05/2026 14:30,"NameCheap, Inc."
 keystone.xyz,sold,62,92%,8,"Business,Construction,Real Estate",29/10/2016 12:05,29/10/2030 23:59,Dynadot LLC
 swingdoor.expert,available,62,72%,10,"Construction,Hospitality,Real Estate",,,
-nail.net,expiring,62,84%,4,"Construction,Fashion,General,Retail",07/08/1996 04:00,06/08/2025 04:00,"NameCheap, Inc."
+nail.net,sold,62,48%,4,"Construction,Fashion,General,Retail",07/08/1996 04:00,06/08/2026 04:00,"NameCheap, Inc."
 landscaper.tech,available,62,72%,10,"Construction,Environment,Real Estate",,,
 remodeling.at,available,62,72%,10,"Construction,Media,Real Estate",,,
 swept.at,available,62,72%,5,"Construction,Media,Real Estate",,,
@@ -3885,7 +3887,6 @@ dualcarriageway.space,available,60,72%,16,"Construction,Transportation",,,
 towerblock.zone,available,60,72%,11,"Construction,Real Estate",,,
 Venetianblind.space,available,60,72%,14,"Construction,Real Estate,Retail",,,
 allwelded.site,available,60,72%,10,"Construction,Engineering,Manufacturing",,,
-ebonise.io,available,60,72%,7,"Arts,Construction,Manufacturing",,,
 dehumidify.xyz,available,59,84%,10,"Construction,Manufacturing,Technology",,,
 dehumidify.site,available,59,84%,10,"Construction,Manufacturing,Technology",,,
 perforated.online,available,59,72%,10,"Construction,Manufacturing",,,
@@ -6816,7 +6817,6 @@ coldtap.pro,available,56,80%,8,"Construction,Real Estate,Utilities",,,
 blastfurnace.ninja,available,56,76%,13,"Construction,Engineering,Manufacturing",,,
 gargoyle.ninja,available,56,80%,8,"Arts,Construction,Entertainment",,,
 dampdry.online,available,56,72%,8,"Construction,Retail",,,
-copperwork.us,available,56,68%,10,"Arts,Construction,Manufacturing",,,
 guycable.expert,available,55,72%,9,"Construction,Technology,Telecommunications",,,
 guyrope.at,available,55,72%,8,"Construction,Technology,Telecommunications",,,
 roughin.online,available,55,72%,8,"Construction,Engineering,Manufacturing",,,
@@ -7969,7 +7969,7 @@ slategrey.co,available,52,72%,10,"Arts,Construction,Fashion",,,
 semihighway.tech,available,52,72%,12,"Construction,Engineering,Transportation",,,
 backstairs.xyz,available,52,72%,11,Construction,,,
 backstairs.online,available,52,72%,11,Construction,,,
-airless.at,available,52,80%,7,"Construction,Utilities",,,
+airless.at,available,52,32%,7,"Construction,Utilities",,,
 poplar.io,expiring,52,76%,6,"Agriculture,Construction,Environment",17/07/2018 10:20,17/07/2025 10:20,"GoDaddy.com, LLC"
 toughened.cloud,available,52,76%,9,"Construction,Engineering,Manufacturing",,,
 companionway.app,available,52,72%,12,"Construction,Engineering,Transportation",,,
@@ -8537,7 +8537,7 @@ scaffolder.site,available,52,76%,10,"Construction,Engineering,Real Estate",,,
 chaincable.ninja,available,52,72%,11,"Construction,Transportation",,,
 commonax.gg,available,52,72%,9,Construction,,,
 tightening.pro,available,52,72%,10,"Construction,Engineering,Finance",,,
-airless.ninja,available,52,80%,7,"Construction,Utilities",,,
+airless.ninja,available,52,32%,7,"Construction,Utilities",,,
 toughened.xyz,available,52,76%,9,"Construction,Engineering,Manufacturing",,,
 perdurable.ninja,available,52,76%,10,"Construction,Manufacturing",,,
 slatygrey.app,available,52,72%,10,"Arts,Construction,Fashion",,,
@@ -8671,7 +8671,7 @@ bogoak.tech,available,52,8%,7,"Construction,Environment,General",,,
 boulder.ninja,available,52,80%,7,"Construction,Environment,Geography",,,
 tarp.store,available,52,88%,4,Construction,,,
 bogoak.app,available,52,8%,7,"Construction,Environment,General",,,
-airless.so,available,52,80%,7,"Construction,Utilities",,,
+airless.so,available,52,32%,7,"Construction,Utilities",,,
 earthwax.online,available,52,76%,9,"Construction,Manufacturing,Retail",,,
 lacewood.dev,available,52,72%,8,Construction,,,
 cordwood.ninja,available,52,72%,8,"Construction,Manufacturing,Real Estate",,,
