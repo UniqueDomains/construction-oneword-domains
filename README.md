@@ -1,17 +1,17 @@
 
-# **Construction One-Word Domain Names**: Daily Updated List of Available Domains
+# **construction One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Construction one-word domains.
+This regularly updated dataset includes the latest available construction one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/construction-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Construction one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **construction one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Construction domains.
+- **Domain Name**: High-quality, single-word construction domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Construction one-wo
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar        | sectors                  |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------- | ------------------------ |
-| ground.online   | available | 122            | 72     | 6      |                  |                  |                  | Construction,General     |
-| ground.so       | available | 122            | 72     | 6      |                  |                  |                  | Construction,General     |
-| flat.hiphop     | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.day        | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.tools      | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.ventures   | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.exposed    | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.casa       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.loans      | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.living     | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.vacations  | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.boo        | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.ong        | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.republican | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.properties | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.im         | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.shiksha    | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.shoes      | resell    | 116            | 24     | 4      | 22/07/2015 16:00 | 22/07/2026 16:00 | Dynadot Inc      | Construction,Real Estate |
-| flat.codes      | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.sexy       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.parts      | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.engineer   | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.golf       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.earth      | resell    | 116            | 24     | 4      | 10/12/2015 16:33 | 09/12/2025 23:59 | GoDaddy.com, LLC | Construction,Real Estate |
-| flat.wine       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.navy       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.spot       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.help       | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.vegas      | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate |
-| flat.pics       | resell    | 116            | 24     | 4      | 29/07/2025 20:59 | 29/07/2026 23:59 | Dynadot LLC      | Construction,Real Estate |
+| domain                 | status    | attractiveness | demand | length | created          | expires          | registrar                                 | sectors                               |
+| ---------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ----------------------------------------- | ------------------------------------- |
+| brief.construction     | available | 124            | 19     | 5      |                  |                  |                                           | Business,Education,General,Law        |
+| second.construction    | available | 120            | 23     | 6      |                  |                  |                                           | General,Mathematics                   |
+| equal.construction     | available | 116            | 19     | 5      |                  |                  |                                           | Education,General,Law                 |
+| flat.construction      | available | 116            | 24     | 4      |                  |                  |                                           | Construction,Real Estate              |
+| tenth.construction     | available | 116            | 7      | 5      |                  |                  |                                           | Mathematics                           |
+| tonic.construction     | available | 114            | 22     | 5      |                  |                  |                                           | Health and Fitness,Medicine,Science   |
+| acute.construction     | available | 112            | 9      | 5      |                  |                  |                                           | Mathematics,Medicine,Science          |
+| above.construction     | available | 112            | 22     | 5      |                  |                  |                                           | Business                              |
+| hotshot.construction   | available | 112            | 14     | 7      |                  |                  |                                           | Business,Entertainment,Sports         |
+| zero.construction      | expiring  | 112            | 49     | 4      | 31/08/2020 02:48 | 31/08/2025 02:48 | GMO Internet Group, Inc. d/b/a Onamae.com | Mathematics                           |
+| abiding.construction   | available | 106            | 5      | 7      |                  |                  |                                           | General,Religion                      |
+| active.construction    | available | 104            | 27     | 6      |                  |                  |                                           | Health and Fitness,Sports,Travel      |
+| teen.construction      | available | 104            | 14     | 4      |                  |                  |                                           | Education,Entertainment,Healthcare    |
+| captive.construction   | available | 102            | 14     | 7      |                  |                  |                                           | Entertainment,Hospitality,Technology  |
+| absent.construction    | available | 102            | 8      | 6      |                  |                  |                                           | Business,Education,Technology         |
+| extra.construction     | available | 102            | 26     | 5      |                  |                  |                                           | Fashion,Retail,Technology             |
+| eight.construction     | available | 102            | 23     | 5      |                  |                  |                                           | General,Mathematics                   |
+| whiz.construction      | available | 100            | 12     | 4      |                  |                  |                                           | Business,Education,Technology         |
+| abrupt.construction    | available | 100            | 3      | 6      |                  |                  |                                           | Medicine,Science                      |
+| crack.construction     | available | 100            | 20     | 5      |                  |                  |                                           | Sports                                |
+| eighth.construction    | available | 100            | 6      | 6      |                  |                  |                                           | Mathematics                           |
+| remove.construction    | available | 100            | 13     | 6      |                  |                  |                                           | Construction,Manufacturing,Technology |
+| ninth.construction     | available | 100            | 9      | 5      |                  |                  |                                           | Mathematics                           |
+| third.construction     | available | 100            | 16     | 5      |                  |                  |                                           | Mathematics                           |
+| adjunct.construction   | available | 100            | 5      | 7      |                  |                  |                                           | Education                             |
+| sixth.construction     | available | 100            | 8      | 5      |                  |                  |                                           | Mathematics                           |
+| whizz.construction     | available | 98             | 11     | 5      |                  |                  |                                           | Business,Education,Technology         |
+| doable.construction    | available | 96             | 9      | 6      |                  |                  |                                           | Business,Education,Technology         |
+| forgiving.construction | available | 96             | 3      | 9      |                  |                  |                                           | Healthcare,Religion                   |
+| alamode.construction   | available | 96             | 12     | 9      |                  |                  |                                           | Fashion                               |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/construction-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/construction-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
