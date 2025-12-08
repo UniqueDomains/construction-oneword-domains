@@ -1,62 +1,62 @@
 
-# List of Construction One Word Domain Names (14,992)
+# List of .CONSTRUCTION One Word Domain Names (4,588)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Construction-oneword-domains.svg?style=flat)]() [![14,992 Construction one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-14%2C992-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/construction-oneword-domains.svg?style=flat)]() [![4,588 .CONSTRUCTION one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-4%2C588-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Construction one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .CONSTRUCTION one-word domains still available to buy.
 
-This dataset contains 1,000 Construction one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,864 .CONSTRUCTION one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Construction one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.top) (14,992) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.CONSTRUCTION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.top) (4,588) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (14.99K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.csv"><b>⬇️ CSV (4.86K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.json"><b>⬇️ JSON (4.86K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.59K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar                                                        | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ---------------------------------------------------------------- | ---------------- | ---------------- |
-| construction.at     | sold      | 66       | 88%    | 12     | World4You Internet Services GmbH ( https://nic.at/registrar/61 ) |                  |                  |
-| construction.expert | resell    | 66       | 88%    | 12     | Sav.com, LLC - 22                                                | 02/01/2025 15:15 | 02/01/2026 15:15 |
-| construction.it     | resell    | 66       | 88%    | 12     |                                                                  | 21/02/2012 23:05 | 05/03/2026 00:00 |
-| construction.me     | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.online | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.site   | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.space  | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.store  | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.tech   | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.xyz    | premium   | 66       | 88%    | 12     |                                                                  |                  |                  |
-| construction.zone   | resell    | 66       | 88%    | 12     | Sav.com, LLC - 25                                                | 19/06/2024 15:15 | 19/06/2026 15:15 |
-| installation.app    | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.at     | sold      | 64       | 76%    | 12     | A1 Telekom Austria AG ( https://nic.at/registrar/16 )            |                  |                  |
-| installation.cloud  | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.co     | expiring  | 64       | 76%    | 12     | Hello Internet Corp.                                             | 20/07/2010 18:00 | 19/07/2025 23:59 |
-| installation.dev    | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.expert | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.gg     | available | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.io     | resell    | 64       | 76%    | 12     | Dynadot Inc                                                      | 08/06/2014 18:18 | 08/06/2026 18:18 |
-| installation.me     | expiring  | 64       | 76%    | 12     | Key-Systems GmbH                                                 | 18/07/2008 13:37 | 18/07/2025 13:37 |
-| installation.net    | expiring  | 64       | 76%    | 12     | GoDaddy.com, LLC                                                 | 30/07/2002 20:33 | 30/07/2025 20:33 |
-| installation.online | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.site   | resell    | 64       | 76%    | 12     | GoDaddy Online Services Cayman Islands Ltd.                      | 14/10/2015 21:41 | 14/10/2025 23:59 |
-| installation.so     | available | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.space  | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.store  | premium   | 64       | 76%    | 12     |                                                                  |                  |                  |
-| installation.tech   | resell    | 64       | 76%    | 12     | GoDaddy Online Services Cayman Islands Ltd.                      | 07/12/2015 12:10 | 07/12/2025 23:59 |
-| installation.zone   | available | 64       | 76%    | 12     |                                                                  |                  |                  |
-| renovation.ai       | resell    | 68       | 80%    | 10     | SeaArea Group Limited                                            | 08/06/2021 17:44 | 08/06/2027 17:44 |
-| renovation.app      | resell    | 68       | 80%    | 10     | GoDaddy.com, LLC                                                 | 07/10/2024 23:21 | 07/10/2025 23:21 |
+| Domain                  | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ----------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaron.construction      | premium   | 88       | 28%    | 5      |           |         |         |
+| abactinal.construction  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.construction      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.construction  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.construction    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.construction     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.construction   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.construction     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.construction    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.construction   | available | 50       | 1%     | 8      |           |         |         |
+| abc.construction        | premium   | 102      | 39%    | 3      |           |         |         |
+| abdicable.construction  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.construction  | available | 82       | 5%     | 9      |           |         |         |
+| abdominous.construction | available | 56       | 1%     | 10     |           |         |         |
+| abducens.construction   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.construction   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.construction  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.construction    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.construction | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.construction   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.construction    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.construction  | available | 54       | 3%     | 9      |           |         |         |
+| abide.construction      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.construction    | available | 106      | 5%     | 7      |           |         |         |
+| abient.construction     | available | 54       | 1%     | 6      |           |         |         |
+| ability.construction    | available | 92       | 16%    | 7      |           |         |         |
+| abit.construction       | available | 66       | 12%    | 5      |           |         |         |
+| abject.construction     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.construction     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.construction  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (14.99K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.csv"><b>⬇️ CSV (4.86K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.json"><b>⬇️ JSON (4.86K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.59K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Construction one word 
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [Construction one word 
 | Travel             | 10,248       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 9,832        | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/construction-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.image)
         
