@@ -118,6 +118,12 @@ c6eab0f0-7197-4b44-8ae7-10b75aa018a5,stonework.space,available,56,80,9,,,
 55ba85d4-118d-415e-a406-da7c2653e638,stonework.store,available,56,80,9,,,
 c36b25c4-471a-41c2-9530-a25e71c384f8,stonework.tech,available,56,80,9,,,
 9db87d84-b2be-45d2-a79d-dcf111bd5d95,stonework.zone,available,56,80,9,,,
+1ba6f785-eedb-48e8-ba6f-c0571e316e43,building.jetzt,available,74,28,8,,,
+bbacdf43-15b6-48eb-afc7-79ab5e9b3c0e,building.jewelry,available,74,28,8,,,
+d8015c4f-8d2f-4482-8b78-0a84e617982e,building.juegos,available,74,28,8,,,
+ef139b87-806b-4506-b135-c5beb15f83fb,building.kaufen,available,74,28,8,,,
+547851f1-8874-411c-a87a-512d2081defd,building.kids,premium,74,28,8,,,
+230e6b5e-db28-4605-b80a-4c08fddbe873,building.kim,available,74,28,8,,,
 c45016f6-de47-4ced-8dd2-3faba010bc2e,building.la,resell,74,28,8,"GoDaddy.com, Inc.",09/07/2013 16:48,09/07/2026 23:59
 dcfac709-a010-48f1-bf0c-1b811eac1e04,building.lawyer,premium,74,28,8,,,
 5bbb9659-1fa8-46c1-aefa-791d098b2f2d,building.lease,premium,74,28,8,,,
@@ -462,12 +468,6 @@ e07d72a0-cfd1-4298-abb0-a9abc9d54173,building.info,resell,74,28,8,"Domain Regist
 c564f3bf-3f1d-4a70-a311-9014e432b230,building.ink,expired,74,28,8,"Spaceship, Inc.",02/12/2024 15:44,02/12/2025 15:44
 58d46056-31ce-4041-83a9-f0c0e15cc2e2,building.investments,available,74,28,8,,,
 d5089dd3-6955-4371-9a62-f3d564e799c4,building.irish,available,74,28,8,,,
-1ba6f785-eedb-48e8-ba6f-c0571e316e43,building.jetzt,available,74,28,8,,,
-bbacdf43-15b6-48eb-afc7-79ab5e9b3c0e,building.jewelry,available,74,28,8,,,
-d8015c4f-8d2f-4482-8b78-0a84e617982e,building.juegos,available,74,28,8,,,
-ef139b87-806b-4506-b135-c5beb15f83fb,building.kaufen,available,74,28,8,,,
-547851f1-8874-411c-a87a-512d2081defd,building.kids,premium,74,28,8,,,
-230e6b5e-db28-4605-b80a-4c08fddbe873,building.kim,available,74,28,8,,,
 faf0531b-ec53-40d8-9666-d2ffa94ad4a5,roofing.at,available,58,84,7,,,
 0b320a7d-ef57-4b01-bafe-b77f607dbd0b,roofing.it,resell,58,84,7,,14/03/2021 16:00,16/06/2026 00:00
 02613736-e629-4a59-8e6b-8955aa8bbe2f,roofing.me,resell,58,84,7,Porkbun LLC,09/07/2008 17:08,09/07/2026 17:08
