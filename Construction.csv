@@ -118,6 +118,14 @@ c6eab0f0-7197-4b44-8ae7-10b75aa018a5,stonework.space,available,56,80,9,,,
 55ba85d4-118d-415e-a406-da7c2653e638,stonework.store,available,56,80,9,,,
 c36b25c4-471a-41c2-9530-a25e71c384f8,stonework.tech,available,56,80,9,,,
 9db87d84-b2be-45d2-a79d-dcf111bd5d95,stonework.zone,available,56,80,9,,,
+4d59bb16-40bd-47d3-905a-f2d440b323fa,building.immo,resell,74,28,8,"Sav.com, LLC",02/12/2024 15:04,02/12/2026 15:04
+0d5cfcc6-8761-40c1-aa62-33a4e7edca39,building.immobilien,available,74,28,8,,,
+d1af9b1b-d43c-4cac-92e2-f39f0ce4e886,building.industries,premium,74,28,8,,,
+e07d72a0-cfd1-4298-abb0-a9abc9d54173,building.info,resell,74,28,8,"Domain Registration Services, Inc. dba dotEarth.com",13/07/2002 19:26,13/07/2026 19:26
+69967009-4746-4bba-b260-91bf19d8d15c,building.ing,premium,74,28,8,,,
+c564f3bf-3f1d-4a70-a311-9014e432b230,building.ink,expired,74,28,8,"Spaceship, Inc.",02/12/2024 15:44,02/12/2025 15:44
+58d46056-31ce-4041-83a9-f0c0e15cc2e2,building.investments,available,74,28,8,,,
+d5089dd3-6955-4371-9a62-f3d564e799c4,building.irish,available,74,28,8,,,
 1ba6f785-eedb-48e8-ba6f-c0571e316e43,building.jetzt,available,74,28,8,,,
 bbacdf43-15b6-48eb-afc7-79ab5e9b3c0e,building.jewelry,available,74,28,8,,,
 d8015c4f-8d2f-4482-8b78-0a84e617982e,building.juegos,available,74,28,8,,,
@@ -133,6 +141,7 @@ f74b43cd-b6d6-425f-a63e-fc784e006e0a,building.lgbt,available,74,28,8,,,
 c967e577-813d-4794-89ea-b399016f9bae,building.limited,available,74,28,8,,,
 6a32348c-b54c-4311-ae72-a4667ddf5c1a,building.limo,available,74,28,8,,,
 4ad8a3ee-2295-4413-91ac-7fcddb708439,building.link,premium,74,28,8,,,
+c6eddd9b-344e-4756-b62f-7e91a579e242,building.live,expiring,74,28,8,SafeNames Ltd.,11/01/2017 17:44,11/01/2026 17:44
 6999cfd6-a096-4dcd-894f-4d20e5dd2005,building.living,available,74,28,8,,,
 02194c20-d3ed-4060-9d29-4d3e73c605cc,building.loan,premium,74,28,8,,,
 dcce1636-8d2b-494c-98a5-38f83dbaf693,building.loans,premium,74,28,8,,,
@@ -171,6 +180,7 @@ e81538c9-dd3f-4bf1-9e30-b974f53d3893,building.observer,premium,74,28,8,,,
 c01c371b-4c11-451d-809c-d9a52ac2e531,building.ong,premium,74,28,8,,,
 ae6bf02a-5052-4a44-8cdd-2abb808ef982,building.onl,available,74,28,8,,,
 2e45349f-0bda-4bdf-a148-b7156b1c273b,building.ooo,available,74,28,8,,,
+85a4224e-2890-496a-8ebe-2f69f07c51f4,building.org,resell,74,28,8,"eNom, LLC",19/09/1995 04:00,18/09/2026 04:00
 02ee7aaf-aca8-4bc9-a7ee-82d6d34f3aea,building.organic,available,74,28,8,,,
 4f87b3ea-63e0-4bae-9178-7b82ea0ac7f6,building.osaka,available,74,28,8,,,
 f066b46b-7d71-4af9-af57-89140b6870eb,building.page,premium,74,28,8,,,
@@ -233,7 +243,7 @@ af75194b-d75b-4732-a4d2-4acb06af9f0e,building.singles,available,74,28,8,,,
 1e081368-1b47-4f8b-8dfd-039f59019159,building.ski,premium,74,28,8,,,
 88c8dc85-aa82-4317-ac4b-f672650abfa3,building.skin,available,74,28,8,,,
 425e92fd-a146-4751-94ba-e513b70226bb,building.soccer,available,74,28,8,,,
-b7f8fc3e-89b9-4337-a26d-0fdb27610199,building.social,resell,74,28,8,"Sav.com, LLC",13/01/2021 08:20,13/01/2026 08:20
+b7f8fc3e-89b9-4337-a26d-0fdb27610199,building.social,expiring,74,28,8,"Sav.com, LLC",13/01/2021 08:20,13/01/2026 08:20
 d573c094-1ae5-4f6f-9e4d-d5377bd21b4c,building.solar,available,74,28,8,,,
 1a73f521-05c2-49e8-b1e5-b059a9a7b2ce,building.soy,premium,74,28,8,,,
 a9138dd1-5202-4fe0-b7df-107a380dcf0b,building.space,premium,74,28,8,,,
@@ -252,7 +262,7 @@ d2a17819-f328-4bbb-9410-8d47817c8058,building.surgery,available,74,28,8,,,
 204dfca7-1273-4249-aa8f-664b178cc18f,building.tattoo,available,74,28,8,,,
 0f0ca33e-d50e-4f6f-aea7-d940b204c8a9,building.tax,premium,74,28,8,,,
 988c99e3-4aee-4d49-bd65-73ed0c2f6bd6,building.taxi,available,74,28,8,,,
-305ce93d-f8d1-4726-88a3-8436ed43c4c0,building.technology,expiring,74,28,8,"GoDaddy.com, LLC",13/12/2022 09:46,13/12/2025 09:46
+305ce93d-f8d1-4726-88a3-8436ed43c4c0,building.technology,sold,74,28,8,"GoDaddy.com, LLC",13/12/2022 09:46,13/12/2026 09:46
 8822ebba-fdd8-46f9-a70f-409453955b9b,building.tel,premium,74,28,8,,,
 155d26a2-9d6a-4cfd-881f-9ffe331dd587,building.tennis,available,74,28,8,,,
 7b53b9b7-2f6f-4861-bf36-05ec0cf1aab2,building.theater,available,74,28,8,,,
@@ -260,6 +270,7 @@ c342cef1-b5bf-4a77-9083-f1dac4cbfcbc,building.theatre,available,74,28,8,,,
 d4620cb5-8699-4574-a4c7-a054ee977096,building.tickets,available,74,28,8,,,
 54ade7e6-1899-4c53-a837-31e069c375ae,building.tienda,available,74,28,8,,,
 22118060-cd2e-4e60-82f1-79050d926df7,building.tires,available,74,28,8,,,
+ba0e534a-7b15-406b-bec4-e163421bc279,building.to,resell,74,28,8,NAMECHEAP,08/07/2023 02:27,01/08/2026 00:00
 ad56230c-40a1-4955-af18-846f89d1e813,building.tools,premium,74,28,8,,,
 7c5e697f-ea7f-43b7-ad42-17e8bb9b34df,building.top,expiring,74,28,8,阿里云计算有限公司,06/01/2020 11:37,06/01/2026 11:37
 96c3e97f-dc25-4736-acce-56db7b40ab43,building.tours,available,74,28,8,,,
@@ -352,10 +363,11 @@ f2d4ef59-e268-471e-a4c8-1526cf6b76e5,building.cfd,resell,74,28,8,"Global Domains
 c7725e90-dd0e-443c-974d-38f66f348b35,building.cheap,available,74,28,8,,,
 fa9bc08c-ed6d-4082-9a28-224e5b5f2fd1,building.christmas,available,74,28,8,,,
 08d94229-9d85-4985-a18f-9388d5f11c7c,building.city,expiring,74,28,8,"Chengdu West Dimension Digital Technology Co., Ltd.",24/12/2019 08:44,24/12/2025 08:44
-9f0c3665-981b-44a1-9354-d13270240250,building.cleaning,expired,74,28,8,"GoDaddy.com, LLC",28/09/2018 16:46,28/09/2025 16:46
+9f0c3665-981b-44a1-9354-d13270240250,building.cleaning,premium,74,28,8,,,
 355de231-1019-4a79-8882-f17f03e21986,building.clothing,available,74,28,8,,,
 f54f7928-bd99-41be-b0bc-9649b326d062,building.club,premium,74,28,8,,,
 89ecbc5b-850f-40ef-b64c-f78e990c3173,building.college,available,74,28,8,,,
+0205e030-65f2-484e-bb8c-035255c03fb2,building.com,resell,74,28,8,"eNom, LLC",08/02/1995 05:00,09/02/2026 05:00
 081c8144-01e2-4b11-b216-998dbafcb1b0,building.company,resell,74,28,8,"Spaceship, Inc.",26/06/2015 21:09,26/06/2026 21:09
 1e720f05-6432-471a-b564-531cccfbc5f3,building.condos,premium,74,28,8,,,
 b07c80d9-7973-4160-9c11-2da4e0a780f7,building.consulting,premium,74,28,8,,,
@@ -395,11 +407,11 @@ d1041f77-40b2-479e-9091-343878e44aa6,building.education,expired,74,28,8,"GoDaddy
 e34bbb38-f1c3-4989-8976-a21004f82d45,building.engineering,available,74,28,8,,,
 b748ae9d-ad3a-410d-ad8f-7a8b8225d39d,building.equipment,resell,74,28,8,"GoDaddy.com, LLC",27/09/2021 01:01,27/09/2026 01:01
 fec67c39-ebbf-442f-81ac-34fee229f937,building.esq,premium,74,28,8,,,
-147e4cec-ba90-4c6a-9f2f-641c952369ce,building.eu,premium,74,28,8,,,
+147e4cec-ba90-4c6a-9f2f-641c952369ce,building.eu,sold,74,28,8,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,
 11f0ed69-b615-4af9-b59d-03fc3a490a98,building.events,premium,74,28,8,,,
 eb2f25a6-30a3-4ebf-ae88-0cbe0e397065,building.exchange,premium,74,28,8,,,
 579b6998-b90f-409f-9b94-daabaa6ca338,building.express,premium,74,28,8,,,
-46ad385b-1913-40c5-b1ed-569d2c90f0c3,building.fail,premium,74,28,8,,,
+46ad385b-1913-40c5-b1ed-569d2c90f0c3,building.fail,sold,74,28,8,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,12/12/2025 15:15,12/12/2026 15:15
 ef3ce79a-d1ec-44bf-9ade-3d2238a1cd6c,building.faith,premium,74,28,8,,,
 7d67e8cb-4af1-41b7-b22d-19f3ec6ef7ff,building.family,premium,74,28,8,,,
 6b9f7926-8316-4150-82b7-6b3cfe64a84d,building.fan,available,74,28,8,,,
@@ -460,14 +472,6 @@ bce566c8-736c-48b2-8df8-bedfcdfd4cd4,building.hosting,available,74,28,8,,,
 53668ad8-ab72-4f38-9011-95196e64eec3,building.hot,premium,74,28,8,,,
 f78fc689-4068-47fb-8419-3c3a026c61db,building.how,premium,74,28,8,,,
 e4e2af69-909b-4958-b317-0cd37bacf316,building.im,premium,74,28,8,,,
-4d59bb16-40bd-47d3-905a-f2d440b323fa,building.immo,resell,74,28,8,"Sav.com, LLC",02/12/2024 15:04,02/12/2026 15:04
-0d5cfcc6-8761-40c1-aa62-33a4e7edca39,building.immobilien,available,74,28,8,,,
-d1af9b1b-d43c-4cac-92e2-f39f0ce4e886,building.industries,premium,74,28,8,,,
-e07d72a0-cfd1-4298-abb0-a9abc9d54173,building.info,resell,74,28,8,"Domain Registration Services, Inc. dba dotEarth.com",13/07/2002 19:26,13/07/2026 19:26
-69967009-4746-4bba-b260-91bf19d8d15c,building.ing,premium,74,28,8,,,
-c564f3bf-3f1d-4a70-a311-9014e432b230,building.ink,expired,74,28,8,"Spaceship, Inc.",02/12/2024 15:44,02/12/2025 15:44
-58d46056-31ce-4041-83a9-f0c0e15cc2e2,building.investments,available,74,28,8,,,
-d5089dd3-6955-4371-9a62-f3d564e799c4,building.irish,available,74,28,8,,,
 faf0531b-ec53-40d8-9666-d2ffa94ad4a5,roofing.at,available,58,84,7,,,
 0b320a7d-ef57-4b01-bafe-b77f607dbd0b,roofing.it,resell,58,84,7,,14/03/2021 16:00,16/06/2026 00:00
 02613736-e629-4a59-8e6b-8955aa8bbe2f,roofing.me,resell,58,84,7,Porkbun LLC,09/07/2008 17:08,09/07/2026 17:08
@@ -995,7 +999,3 @@ f0505b83-995f-4a4f-bd4b-017c0a1d2e18,services.band,available,72,24,8,,,
 a8edda00-e6fd-4f4c-b644-ad2845ca84f9,services.bayern,available,72,24,8,,,
 8fc60820-843c-4c9e-8775-c110351f70ca,services.beauty,premium,72,24,8,,,
 6a64be33-85b7-498e-a5e6-7ee36b94981a,services.beer,available,72,24,8,,,
-48e4e3cd-dcce-4e3f-8032-514218d9ef63,services.berlin,premium,72,24,8,,,
-220c79d4-0141-4786-a3dd-6a8c0cb315e4,services.best,resell,72,24,8,"Sav.com, LLC",21/09/2025 13:30,21/09/2026 23:59
-6765d38d-cf7d-4674-9a54-0f9902aa70f1,services.bid,premium,72,24,8,,,
-bc00e10f-8cf9-47e3-9a84-c371e5905557,services.bike,available,72,24,8,,,
