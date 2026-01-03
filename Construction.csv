@@ -446,6 +446,7 @@ c6eab0f0-7197-4b44-8ae7-10b75aa018a5,stonework.space,available,56,80,9,,,
 55ba85d4-118d-415e-a406-da7c2653e638,stonework.store,available,56,80,9,,,
 c36b25c4-471a-41c2-9530-a25e71c384f8,stonework.tech,available,56,80,9,,,
 9db87d84-b2be-45d2-a79d-dcf111bd5d95,stonework.zone,available,56,80,9,,,
+e4e2af69-909b-4958-b317-0cd37bacf316,building.im,premium,74,28,8,,,
 4d59bb16-40bd-47d3-905a-f2d440b323fa,building.immo,resell,74,28,8,"Sav.com, LLC",02/12/2024 15:04,02/12/2026 15:04
 0d5cfcc6-8761-40c1-aa62-33a4e7edca39,building.immobilien,available,74,28,8,,,
 d1af9b1b-d43c-4cac-92e2-f39f0ce4e886,building.industries,premium,74,28,8,,,
@@ -799,7 +800,6 @@ bbec555c-9659-4e61-b37e-92e95d4b66ec,building.host,premium,74,28,8,,,
 bce566c8-736c-48b2-8df8-bedfcdfd4cd4,building.hosting,available,74,28,8,,,
 53668ad8-ab72-4f38-9011-95196e64eec3,building.hot,premium,74,28,8,,,
 f78fc689-4068-47fb-8419-3c3a026c61db,building.how,premium,74,28,8,,,
-e4e2af69-909b-4958-b317-0cd37bacf316,building.im,premium,74,28,8,,,
 faf0531b-ec53-40d8-9666-d2ffa94ad4a5,roofing.at,available,58,84,7,,,
 0b320a7d-ef57-4b01-bafe-b77f607dbd0b,roofing.it,resell,58,84,7,,14/03/2021 16:00,16/06/2026 00:00
 02613736-e629-4a59-8e6b-8955aa8bbe2f,roofing.me,resell,58,84,7,Porkbun LLC,09/07/2008 17:08,09/07/2026 17:08
