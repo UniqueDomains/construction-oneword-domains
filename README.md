@@ -1,62 +1,62 @@
 
-# List of Construction One Word Domain Names (25,702)
+# List of .CONSTRUCTION One Word Domain Names (9,209)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Construction-oneword-domains.svg?style=flat)]() [![25,702 Construction one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-25%2C702-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/construction-oneword-domains.svg?style=flat)]() [![9,209 .CONSTRUCTION one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-9%2C209-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Construction one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .CONSTRUCTION one-word domains still available to buy.
 
-This dataset contains 1,000 Construction one word domains with availability, attractiveness and demand scores.
+This dataset contains 9,186 .CONSTRUCTION one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Construction one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.top) (25,702) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.CONSTRUCTION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.top) (9,209) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (25.7K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.csv"><b>⬇️ CSV (9.19K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.json"><b>⬇️ JSON (9.19K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.21K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                   | Status    | Attract. | Demand | Length | Registrar                                                        | Created          | Expires          |
-| ------------------------ | --------- | -------- | ------ | ------ | ---------------------------------------------------------------- | ---------------- | ---------------- |
-| construction.accountants | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.actor       | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.adult       | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.airforce    | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.archi       | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.art         | resell    | 66       | 30%    | 12     | Spaceship, Inc.                                                  | 24/07/2025 19:36 | 24/07/2026 23:59 |
-| construction.associates  | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.at          | sold      | 66       | 30%    | 12     | World4You Internet Services GmbH ( https://nic.at/registrar/61 ) |                  |                  |
-| construction.attorney    | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.auction     | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.audio       | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.auto        | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.autos       | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.baby        | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.band        | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.bar         | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.bargains    | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.bayern      | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.beer        | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.berlin      | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.best        | resell    | 66       | 30%    | 12     | Dynadot LLC                                                      | 31/07/2025 17:13 | 31/07/2026 23:59 |
-| construction.bid         | resell    | 66       | 30%    | 12     | NameCheap, Inc.                                                  | 05/03/2019 05:48 | 05/03/2032 05:48 |
-| construction.bike        | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.bingo       | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.biz         | resell    | 66       | 30%    | 12     | Network Solutions, LLC                                           | 27/04/2019 00:01 | 27/04/2026 00:01 |
-| construction.blackfriday | available | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.blog        | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.boats       | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.boo         | premium   | 66       | 30%    | 12     |                                                                  |                  |                  |
-| construction.boutique    | available | 66       | 30%    | 12     |                                                                  |                  |                  |
+| Domain                  | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ----------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaron.construction      | premium   | 88       | 27%    | 5      |           |         |         |
+| abactinal.construction  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.construction      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.construction  | available | 58       | 12%    | 9      |           |         |         |
+| abashed.construction    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.construction     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.construction   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.construction     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.construction    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.construction   | available | 50       | 1%     | 8      |           |         |         |
+| abc.construction        | premium   | 102      | 39%    | 3      |           |         |         |
+| abdicable.construction  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.construction  | available | 82       | 3%     | 9      |           |         |         |
+| abdominous.construction | available | 56       | 1%     | 10     |           |         |         |
+| abducens.construction   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.construction   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.construction  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.construction    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.construction | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.construction   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.construction    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.construction  | available | 54       | 2%     | 9      |           |         |         |
+| abide.construction      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.construction    | available | 106      | 7%     | 7      |           |         |         |
+| abient.construction     | available | 54       | 1%     | 6      |           |         |         |
+| ability.construction    | available | 92       | 14%    | 7      |           |         |         |
+| abit.construction       | available | 66       | 12%    | 5      |           |         |         |
+| abject.construction     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.construction     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.construction  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/Construction.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (25.7K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.csv"><b>⬇️ CSV (9.19K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/construction-oneword-domains/blob/main/construction.json"><b>⬇️ JSON (9.19K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.21K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [Construction one word 
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,940       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,068       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 31,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,417       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,575,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -171,7 +171,7 @@ If you want to search & filters the complete database of [Construction one word 
 | .CENTER        | 8,208        | [Github](https://github.com/UniqueDomains/center-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
 | .CEO           | 9,226        | [Github](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
 | .CFD           | 9,549        | [Github](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
-| .CHANNEL       | 0            | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
+| .CHANNEL       | 240          | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
 | .CHARITY       | 9,479        | [Github](https://github.com/UniqueDomains/charity-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
 | .CHAT          | 7,344        | [Github](https://github.com/UniqueDomains/chat-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
 | .CHEAP         | 9,362        | [Github](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
@@ -247,7 +247,7 @@ If you want to search & filters the complete database of [Construction one word 
 | .DOMAINS       | 8,939        | [Github](https://github.com/UniqueDomains/domains-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
 | .DOWNLOAD      | 9,698        | [Github](https://github.com/UniqueDomains/download-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
 | .EARTH         | 6,419        | [Github](https://github.com/UniqueDomains/earth-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
-| .ECO           | 0            | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
+| .ECO           | 378          | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
 | .EDUCATION     | 8,285        | [Github](https://github.com/UniqueDomains/education-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
 | .EMAIL         | 6,638        | [Github](https://github.com/UniqueDomains/email-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
 | .ENERGY        | 8,363        | [Github](https://github.com/UniqueDomains/energy-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
@@ -366,7 +366,7 @@ If you want to search & filters the complete database of [Construction one word 
 | .KIDS          | 9,513        | [Github](https://github.com/UniqueDomains/kids-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
-| .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
+| .KIWI          | 399          | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
 | .LA            | 7,906        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
@@ -616,7 +616,7 @@ If you want to search & filters the complete database of [Construction one word 
 | .WTF           | 7,715        | [Github](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
 | .XN--3DS443G   | 0            | [Github](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
 | .XN--6FRZ82G   | 0            | [Github](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
-| .XXX           | 0            | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
+| .XXX           | 347          | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
 | .XYZ           | 55,913       | [Github](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
 | .YACHTS        | 9,447        | [Github](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
 | .YOGA          | 9,181        | [Github](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
@@ -671,11 +671,11 @@ If you want to search & filters the complete database of [Construction one word 
 | Travel             | 24,293       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,862       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Construction-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/construction-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=description.image)
         
