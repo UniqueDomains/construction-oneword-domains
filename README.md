@@ -1,29 +1,29 @@
-# Available .CONSTRUCTION One-Word Domains (12,171)
+# Construction Keyword Domains (13,541)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C171%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C541%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .construction one-word domains from Unique Domains.
+This selection contains 13,532 domains tied to construction-related terms across 505 TLDs. Updated daily. Median ask is 687, so comparisons should focus on TLD quality, naming clarity, and renewal exposure rather than headline price alone.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,171 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,541 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,171 domains · **Median ask:** $20.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 13,541 domains · **Median ask:** $688.35 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-05-11  
-**Canonical page:** `https://unique.domains/domains/tld/construction`  
+**Canonical page:** `https://unique.domains/domains/sector/Construction`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/construction?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/Construction?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./construction.csv">CSV</a> / <a href="./construction.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ Daily-updated public extract of available and resale .construction one-word doma
 
 ---
 
-➡️ **Investors:** [Create a Radar from this .CONSTRUCTION search](https://unique.domains/domains/tld/construction?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this .CONSTRUCTION search](https://unique.domains/domains/tld/construction?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Construction?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Construction?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for Unique Domains' .CONSTRUCTION one-word domain catalog.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Construction`.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| agents.construction     | available | $15.99    | —             | 56             | 50     | 6      | name.com       |
-| leasing.construction    | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc. |
-| homes.construction      | premium   | $123.75   | —             | 86             | 34     | 5      | name.com       |
-| skills.construction     | available | $15.99    | —             | 58             | 47     | 6      | name.com       |
-| has.construction        | premium   | $123.75   | —             | 60             | 26     | 3      | name.com       |
-| shortcuts.construction  | available | $15.99    | —             | 48             | 41     | 10     | name.com       |
-| loans.construction      | premium   | $78.54    | $78.54        | 58             | 24     | 5      | namesilo       |
-| whynot.construction     | available | $15.99    | —             | 74             | 39     | 7      | name.com       |
-| workers.construction    | premium   | $123.75   | —             | 60             | 20     | 7      | name.com       |
-| WiFi.construction       | available | $50.98    | —             | 83             | 37     | 5      | namecheap      |
-| smiths.construction     | premium   | $78.54    | $78.54        | 50             | 16     | 6      | namesilo       |
-| partners.construction   | available | $15.99    | —             | 61             | 32     | 8      | name.com       |
-| underwater.construction | premium   | $500      | —             | 64             | 15     | 11     | name.com       |
-| cams.construction       | available | $15.99    | —             | 52             | 29     | 4      | name.com       |
-| brands.construction     | available | $15.99    | —             | 62             | 28     | 6      | name.com       |
-| comics.construction     | available | $15.99    | —             | 68             | 24     | 6      | name.com       |
-| toys.construction       | available | $15.99    | —             | 60             | 24     | 4      | name.com       |
-| whats.construction      | available | $15.99    | —             | 58             | 24     | 5      | name.com       |
-| boats.construction      | available | $15.99    | —             | 52             | 24     | 5      | name.com       |
-| holidays.construction   | available | $15.99    | —             | 78             | 23     | 8      | name.com       |
+| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| building.ryukyu    | available | $22.98     | —             | 78             | 32     | 8      | namecheap                                           |
+| building.net       | resell    | $86,250    | $23.99        | 74             | 31     | 8      | GoDaddy.com, LLC                                    |
+| building.shop      | premium   | $625       | —             | 78             | 31     | 8      | name.com                                            |
+| building.xxx       | available | $154.98    | —             | 78             | 31     | 8      | namecheap                                           |
+| building.me        | resell    | $28,621.20 | $27.99        | 74             | 31     | 8      | Spaceship, Inc.                                     |
+| building.paris     | premium   | $363.21    | —             | 78             | 31     | 8      | name.com                                            |
+| building.vacations | available | $9.99      | —             | 78             | 31     | 8      | name.com                                            |
+| construction.farm  | resell    | $49.98     | —             | 66             | 31     | 12     | Spaceship, Inc.                                     |
+| building.mobile    | premium   | $1,250     | —             | 78             | 31     | 8      | name.com                                            |
+| building.trading   | available | $19.99     | —             | 78             | 31     | 8      | name.com                                            |
+| engineering.info   | resell    | $34,385    | $35.99        | 74             | 28     | 11     | Dynadot Inc                                         |
+| building.eco       | premium   | $1,875     | —             | 78             | 31     | 8      | name.com                                            |
+| building.sex       | available | $154.98    | —             | 78             | 31     | 8      | namecheap                                           |
+| engineering.gg     | resell    | $70.98     | —             | 74             | 28     | 11     | Spaceship, Inc (https://www.spaceship.com)          |
+| building.channel   | premium   | $623.75    | —             | 78             | 31     | 8      | name.com                                            |
+| building.moi       | available | $39.99     | —             | 78             | 31     | 8      | name.com                                            |
+| building.today     | resell    | —          | —             | 78             | 31     | 8      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| building.zip       | premium   | $167.70    | $167.70       | 74             | 31     | 8      | namecheap                                           |
+| building.kiwi      | available | $35.68     | —             | 78             | 31     | 8      | namecheap                                           |
+| building.boats     | resell    | —          | —             | 78             | 31     | 8      | Dynadot LLC                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,171 live domains                        |
+| 1,000-row public sample | 13,541 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/tld/construction?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/construction?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/Construction?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Construction?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .construction domains. That makes it relevant for founders who want a clear industry signal and for investors who care about niche positioning and realistic entry price. The range here spans functional words, personal names, and more unusual terms such as become.construction, jenny.construction, animal.construction, and lab.construction. When comparing these domains, start with semantic fit: does the word strengthen a construction-related business or feel forced beside the extension? Then weigh memorability, spelling clarity, and whether the ask leaves enough room for long-term holding costs. In this set, precision matters more than novelty.
+These domains center on construction-related keywords and span a very wide TLD mix. That matters because the same root word can carry very different commercial value depending on extension, renewal profile, and buyer trust. In this set, a practical comparison starts with whether the name reads cleanly, matches a construction use case, and sits on a TLD you would be comfortable holding or operating on. Examples here range from tighter pairings like tower.pro to more speculative combinations like concrete.moe or built.ryukyu. For founders, the goal is a memorable shortlist with transparent carrying cost. For investors, the focus is buy-in discipline, resale realism, and extension liquidity.
 
-- Prioritize words that pair naturally with .construction
-- Check if the word is easy to say, spell, and recall
-- Use the 20.64 median ask as a pricing reality check
-- Be careful with names that feel generic but weak in context
+- Median ask is 687 across 13,532 construction-related domains
+- TLD spread is wide: 505 extensions are represented here
+- Match keyword clarity with a credible extension for the sector
+- Check renewal risk before treating a low ask as a strong buy
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Construction Keyword Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live .CONSTRUCTION page](https://unique.domains/domains/tld/construction?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/Construction?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_api_docs)
