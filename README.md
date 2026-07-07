@@ -1,29 +1,29 @@
-# Available .CONSTRUCTION One-Word Domains (12,171)
+# One-Word Construction Domain Names (155,845)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C171%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-155%2C845%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .construction one-word domains from Unique Domains.
+This selection covers 155,845 one-word construction-related domain names across 506 TLDs, with a median asking price near $698. Updated daily, it offers a concrete snapshot of pricing and TLD coverage for evaluating options in this niche.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,171 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **155,845 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,171 domains · **Median ask:** $21.03 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 155,845 domains · **Median ask:** $697.53 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-07-07
-**Canonical page:** `https://unique.domains/domains/tld/construction`
+**Canonical page:** `https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/construction?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./construction.csv">CSV</a> / <a href="./construction.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ Daily-updated public extract of available and resale .construction one-word doma
 
 ---
 
-➡️ **Investors:** [Create a Radar from this .CONSTRUCTION search](https://unique.domains/domains/tld/construction?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this .CONSTRUCTION search](https://unique.domains/domains/tld/construction?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for Unique Domains' .CONSTRUCTION one-word domain catalog.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction`.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| NWO.construction   | available | $15.99    | —             | medium         | low    | 3      | name.com                   |
-| arco.construction  | resell    | —         | —             | medium         | low    | 4      | Squarespace Domains II LLC |
-| arm.construction   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
-| UPC.construction   | available | $15.99    | —             | high           | low    | 3      | name.com                   |
-| base.construction  | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC               |
-| ate.construction   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| ahuh.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
-| earth.construction | resell    | —         | —             | medium         | medium | 5      | Sav.com, LLC - 10          |
-| awe.construction   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
-| asia.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
-| elite.construction | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC               |
-| bra.construction   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                   |
-| avon.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
-| paper.construction | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
-| cap.construction   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| beam.construction  | available | $15.99    | —             | medium         | medium | 4      | name.com                   |
-| smart.construction | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.            |
-| des.construction   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
-| both.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
-| texas.construction | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC           |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| air.realty        | available | $109.99   | $299          | high           | medium | 3      | namesilo        |
+| art.builders      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| art.construction  | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap       |
+| saw.ryukyu        | available | $22.98    | —             | medium         | low    | 3      | namecheap       |
+| base.construction | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC    |
+| art.contractors   | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap       |
+| base.contractors  | available | $9.99     | —             | medium         | medium | 4      | name.com        |
+| form.digital      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
+| art.shop          | premium   | $12,500   | —             | high           | medium | 3      | name.com        |
+| pipe.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap       |
+| home.estate       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| out.builders      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| real.contractors  | available | $9.99     | —             | high           | medium | 4      | name.com        |
+| home.house        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| out.construction  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| room.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com        |
+| home.place        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| home.archi        | premium   | $1,875    | —             | high           | medium | 4      | name.com        |
+| soil.construction | available | $15.99    | $50.99        | high           | low    | 4      | name.com        |
+| home.properties   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,171 live domains                        |
+| 1,000-row public sample | 155,845 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/tld/construction?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/construction?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set of one-word .construction domains ranges from literal trade phrases like mealsonwheels and gearup to playful or pop-culture picks like dogsick and WonderWoman. Tones vary from practical to brandable, giving founders and investors a wide field to compare within a single TLD. Because pricing sits at a low median across the set, evaluating brandability, spelling ease, and trademark exposure matters more than budget alone.
+This is a set of one-word domain names built around construction-related vocabulary, spread across 506 different TLD extensions rather than one fixed ending. Names such as engineer.express, complex.boats, parcel.me, and style.tires illustrate the range of endings represented. The median asking price across the set sits near $698, giving a practical benchmark before comparing individual listings on length, TLD, and how directly each word signals a construction-industry meaning.
 
-- 12,171 one-word .construction domain names in this set
-- Median ask around $21 across the selection
-- Styles range from literal trade terms to brandable phrases
-- Some names carry trademark risk — check before buying
+- 506 TLDs covered, giving broad diversification across endings
+- Median ask near $698 across this one-word construction set
+- One-word names like engineer.express, parcel.me, style.tires
+- Updated daily to reflect current pricing across TLDs
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Construction Domain Names*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live .CONSTRUCTION page](https://unique.domains/domains/tld/construction?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/Construction?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*construction&utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_construction_oneword_domains&utm_content=top_api_docs)
