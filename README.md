@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .construction one-word doma
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,171 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,171 domains · **Median ask:** $20.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,171 domains · **Median ask:** $21.03 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/construction`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/construction`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CONSTRUCTION one-word
 
 ### Files
 
-- `construction.csv` — public CSV extract (1,000 rows)
-- `construction.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `construction.csv`, public CSV extract (1,000 rows)
+- `construction.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| agents.construction     | available | $15.99    | —             | 56             | 50     | 6      | name.com       |
-| leasing.construction    | resell    | —         | —             | 70             | 19     | 7      | Name.com, Inc. |
-| homes.construction      | premium   | $123.75   | —             | 86             | 34     | 5      | name.com       |
-| skills.construction     | available | $15.99    | —             | 58             | 47     | 6      | name.com       |
-| has.construction        | premium   | $123.75   | —             | 60             | 26     | 3      | name.com       |
-| whynot.construction     | available | $15.99    | —             | 74             | 44     | 7      | name.com       |
-| loans.construction      | premium   | $78.54    | $78.54        | 58             | 24     | 5      | namesilo       |
-| shortcuts.construction  | available | $15.99    | —             | 48             | 41     | 10     | name.com       |
-| workers.construction    | premium   | $123.75   | —             | 60             | 20     | 7      | name.com       |
-| WiFi.construction       | available | $50.98    | —             | 83             | 37     | 5      | namecheap      |
-| smiths.construction     | premium   | $78.54    | $78.54        | 50             | 16     | 6      | namesilo       |
-| partners.construction   | available | $15.99    | —             | 61             | 31     | 8      | name.com       |
-| underwater.construction | premium   | $500      | —             | 64             | 15     | 11     | name.com       |
-| cams.construction       | available | $15.99    | —             | 52             | 29     | 4      | name.com       |
-| brands.construction     | available | $15.99    | —             | 62             | 28     | 6      | name.com       |
-| inhouse.construction    | available | $15.99    | —             | 70             | 24     | 8      | name.com       |
-| toys.construction       | available | $15.99    | —             | 60             | 24     | 4      | name.com       |
-| whats.construction      | available | $15.99    | —             | 58             | 24     | 5      | name.com       |
-| boats.construction      | available | $15.99    | —             | 52             | 24     | 5      | name.com       |
-| holidays.construction   | available | $15.99    | —             | 78             | 23     | 8      | name.com       |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| NWO.construction   | available | $15.99    | —             | medium         | low    | 3      | name.com                   |
+| arco.construction  | resell    | —         | —             | medium         | low    | 4      | Squarespace Domains II LLC |
+| arm.construction   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
+| UPC.construction   | available | $15.99    | —             | high           | low    | 3      | name.com                   |
+| base.construction  | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC               |
+| ate.construction   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| ahuh.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
+| earth.construction | resell    | —         | —             | medium         | medium | 5      | Sav.com, LLC - 10          |
+| awe.construction   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| asia.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
+| elite.construction | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC               |
+| bra.construction   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                   |
+| avon.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
+| paper.construction | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
+| cap.construction   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| beam.construction  | available | $15.99    | —             | medium         | medium | 4      | name.com                   |
+| smart.construction | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.            |
+| des.construction   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| both.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
+| texas.construction | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .construction domains. That makes it relevant for founders who want a clear industry signal and for investors who care about niche positioning and realistic entry price. The range here spans functional words, personal names, and more unusual terms such as become.construction, jenny.construction, animal.construction, and lab.construction. When comparing these domains, start with semantic fit: does the word strengthen a construction-related business or feel forced beside the extension? Then weigh memorability, spelling clarity, and whether the ask leaves enough room for long-term holding costs. In this set, precision matters more than novelty.
+This set of one-word .construction domains ranges from literal trade phrases like mealsonwheels and gearup to playful or pop-culture picks like dogsick and WonderWoman. Tones vary from practical to brandable, giving founders and investors a wide field to compare within a single TLD. Because pricing sits at a low median across the set, evaluating brandability, spelling ease, and trademark exposure matters more than budget alone.
 
-- Prioritize words that pair naturally with .construction
-- Check if the word is easy to say, spell, and recall
-- Use the 20.64 median ask as a pricing reality check
-- Be careful with names that feel generic but weak in context
+- 12,171 one-word .construction domain names in this set
+- Median ask around $21 across the selection
+- Styles range from literal trade terms to brandable phrases
+- Some names carry trademark risk — check before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
