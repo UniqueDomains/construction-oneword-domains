@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .construction one-word doma
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,043 domains · **Median ask:** $28.10 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/construction`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| come.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
 | ass.construction   | available | $15.99    | $50.99        | low            | low    | 3      | name.com                   |
 | arco.construction  | resell    | —         | —             | low            | low    | 4      | Squarespace Domains II LLC |
 | arm.construction   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
@@ -77,13 +78,12 @@ print(df.head())
 | paper.construction | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
 | bra.construction   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                   |
 | upc.construction   | available | $15.99    | —             | high           | low    | 3      | name.com                   |
-| smart.construction | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.            |
+| smart.construction | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.            |
 | cap.construction   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
 | achy.construction  | available | $15.99    | $50.99        | low            | low    | 4      | name.com                   |
 | texas.construction | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC           |
 | des.construction   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
 | ahuh.construction  | available | $15.99    | —             | high           | low    | 4      | name.com                   |
-| under.construction | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
