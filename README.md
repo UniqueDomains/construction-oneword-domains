@@ -1,10 +1,10 @@
-# Available .CONSTRUCTION One-Word Domains (23,475)
+# Available .CONSTRUCTION One-Word Domains (25,550)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C475%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C550%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .construction one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,475 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,550 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,475 domains · **Median ask:** $32.35 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 25,550 domains · **Median ask:** $32.80 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/construction`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aar.construction     | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo         |
-| school.construction  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
-| ado.construction     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| atp.construction     | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| studio.construction  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
-| ano.construction     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
-| aum.construction     | available | $38.99    | $38.99        | high           | low    | 3      | namesilo         |
-| auction.construction | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
-| but.construction     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
-| nmr.construction     | available | $38.99    | $38.99        | high           | low    | 3      | namesilo         |
-| eta.construction     | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap        |
-| usb.construction     | available | $40.98    | $50.98        | high           | low    | 3      | namecheap        |
-| fat.construction     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| abel.construction    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo         |
-| hat.construction     | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
-| ably.construction    | available | $15.99    | $50.99        | medium         | low    | 4      | name.com         |
-| hop.construction     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| acre.construction    | available | $15.99    | —             | high           | low    | 4      | name.com         |
-| hug.construction     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| acts.construction    | available | $15.99    | —             | high           | low    | 4      | name.com         |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aar.construction         | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo         |
+| school.construction      | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| ado.construction         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| atp.construction         | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare       |
+| studio.construction      | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| ano.construction         | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
+| aum.construction         | available | $38.99    | $38.99        | high           | low    | 3      | namesilo         |
+| auction.construction     | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| but.construction         | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
+| bor.construction         | available | $38.99    | $38.99        | high           | low    | 3      | namesilo         |
+| residential.construction | resell    | —         | —             | high           | low    | 11     | —                |
+| der.construction         | premium   | $72.60    | $72.60        | medium         | low    | 3      | dynadot          |
+| mta.construction         | available | $40.98    | $50.98        | high           | low    | 3      | namecheap        |
+| eta.construction         | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap        |
+| nmr.construction         | available | $38.99    | $38.99        | high           | low    | 3      | namesilo         |
+| fat.construction         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| usb.construction         | available | $40.98    | $50.98        | high           | low    | 3      | namecheap        |
+| hat.construction         | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
+| ably.construction        | available | $15.99    | $50.99        | medium         | low    | 4      | name.com         |
+| hop.construction         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,475 live domains                        |
+| 1,000-row public sample | 25,550 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONSTRUCTION One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
