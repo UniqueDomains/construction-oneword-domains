@@ -1,22 +1,27 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+1dd89fa5-d267-44b8-88b9-8840b8762680,pasadena.construction,available,8.75,31.41,high,low,8,porkbun,,,29/09/2026 19:55
 61549141-549d-4145-bba3-de69a205d2b9,bartholin.construction,available,38.99,38.99,medium,low,9,namesilo,,,22/09/2026 09:14
 a0a316bd-ec63-4186-8b08-2ff929a8784f,choral.construction,available,15.99,50.99,high,low,6,name.com,,,12/08/2026 07:03
+781651c9-6e4e-46b8-88ac-34a0bd09aa73,rendering.construction,available,8.75,31.41,high,low,9,porkbun,,,29/09/2026 19:21
 f43b7129-5eaf-4de7-8e8c-21b9bc99a132,collector.construction,available,40.98,50.98,high,low,9,namecheap,,,16/09/2026 23:18
 4cc25afe-f959-42ab-989f-1e6c13597b75,troika.construction,available,15.99,50.99,high,low,6,name.com,,,
 64173058-4118-4e3e-ac75-45f223589cbf,sabine.construction,available,38.99,38.99,high,medium,6,namesilo,,,09/09/2026 20:34
-ba457aef-2496-49c8-89b9-c2e42bc79ea7,canonic.construction,available,15.99,50.99,medium,low,7,name.com,,,11/08/2026 17:22
+ba457aef-2496-49c8-89b9-c2e42bc79ea7,canonic.construction,available,15.99,50.99,high,low,7,name.com,,,11/08/2026 17:22
 a6649b22-71b8-48cf-91dd-ea140b420ae3,halls.construction,available,8.75,31.41,high,low,5,porkbun,,,28/09/2026 13:17
 3d7817c4-a73d-4905-8e44-17e4d74795d1,till.construction,available,31.25,31.25,high,low,4,spaceship,,,28/09/2026 05:18
 f0ae36f1-047d-4a35-b9f3-5d21c95e6b4f,bernoulli.construction,available,38.99,38.99,medium,low,9,namesilo,,,23/09/2026 09:57
 5b177566-685b-48b9-88c9-9e36797eebf4,alkaloid.construction,available,38.99,38.99,medium,low,8,namesilo,,,18/09/2026 08:21
 f6440024-bdd7-4d75-a285-fc1431ac91dd,thief.construction,available,15.99,,high,low,5,name.com,,,
+caad2474-4653-4ab3-9fb7-63cc93ceb67f,rowing.construction,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 20:14
 8381cd38-081e-40d6-a1e2-173b51fa8a3c,efforts.construction,available,38.99,38.99,medium,low,7,namesilo,,,27/09/2026 22:23
 72f8bf69-f32d-47ed-a866-7af712eab4b2,benzene.construction,available,40.98,50.98,high,low,7,namecheap,,,23/09/2026 08:52
 4e845118-e298-4604-a991-512e82f9e3e4,veracious.construction,available,38.99,38.99,high,low,9,namesilo,,,13/09/2026 02:19
 2d842f16-c9bc-4d9d-a7c4-8a40a94dc4a8,below.construction,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 12:01
+d0cdbd04-3700-4e57-8b4d-dc7b60722cfc,peaches.construction,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 11:22
 19544e77-4f33-4a92-98f1-30f6156734ad,waterloo.construction,available,40.98,50.98,high,low,8,namecheap,,,22/09/2026 16:19
+067c9c2d-044b-4267-bd9d-d3e51da5e7a7,sprung.construction,available,38.99,38.99,high,low,6,namesilo,,,29/09/2026 14:17
 4297e5c3-1dd4-4bc1-9f34-cdf1f0288267,amsonia.construction,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 00:00
-4a4f05a0-639a-47a1-b5b3-62ce098c6ee0,alaric.construction,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 01:52
+4a4f05a0-639a-47a1-b5b3-62ce098c6ee0,alaric.construction,available,38.99,38.99,high,low,6,namesilo,,,18/09/2026 01:52
 9e0cb213-1469-49ec-8d63-01114bb075ea,diazo.construction,available,15.99,50.99,medium,low,5,name.com,,,14/08/2026 06:23
 fdc54a98-0104-42a5-aa26-ef2c05a1d6c7,cultures.construction,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 23:32
 28d6499e-eea5-4c25-95aa-0b29371394fa,chances.construction,available,38.99,38.99,medium,low,7,namesilo,,,25/09/2026 16:56
@@ -26,9 +31,11 @@ fdc54a98-0104-42a5-aa26-ef2c05a1d6c7,cultures.construction,available,30.2,30.2,m
 9450eb99-7df6-43bc-9901-b6a4ff91e812,racine.construction,available,38.99,38.99,high,low,6,namesilo,,,28/09/2026 02:12
 b52f16dd-d5db-4140-8e8d-3fc02daef5b5,strap.construction,available,38.99,38.99,high,low,5,namesilo,,,28/09/2026 10:12
 d8284f15-4b49-4211-9f0b-a90b9e3739b7,okey.construction,available,38.99,38.99,medium,low,4,namesilo,,,03/09/2026 23:19
+77beb826-916f-4ebc-9c90-248dd801f87b,pods.construction,available,38.99,38.99,medium,low,4,namesilo,,,30/09/2026 00:30
 2b3485ca-9efa-4bbe-a74f-7d46016ddaaa,pertinence.construction,available,40.98,50.98,medium,low,10,namecheap,,,19/09/2026 21:52
 8a0518d3-644e-4ddf-b40b-583f771cd139,privy.construction,available,15.99,50.99,high,low,5,name.com,,,09/09/2026 02:12
-d914e347-cc3e-433f-9e99-3fdc121ed507,pathology.construction,available,31.25,31.25,medium,low,9,spaceship,,,29/09/2026 01:49
+d914e347-cc3e-433f-9e99-3fdc121ed507,pathology.construction,available,31.25,31.25,high,low,9,spaceship,,,29/09/2026 01:49
+040412c4-b383-4801-be32-37cc50bd1035,dividing.construction,available,31.25,31.25,medium,low,8,spaceship,,,29/09/2026 08:50
 257af339-3fc4-4ac3-ada8-56888fba0535,available.construction,available,38.99,38.99,high,low,9,namesilo,,,22/09/2026 14:22
 bfe72007-3fd0-4a4c-8356-cd26985d68d0,barbican.construction,available,38.99,38.99,medium,low,8,namesilo,,,22/09/2026 04:18
 bd862e60-fbd0-4f18-831e-7ee98da05111,triune.construction,available,40.98,50.98,medium,low,6,namecheap,,,11/09/2026 20:12
@@ -38,21 +45,23 @@ fd1a4aa0-3128-43df-a37b-a27aadb62a17,attender.construction,available,15.99,50.99
 e1818985-bec0-4c45-9a30-71e3c5997fc2,embodied.construction,available,15.99,50.99,high,low,8,name.com,,,16/08/2026 09:35
 6db9fdc6-0e1b-48bd-bba7-8489dd86ff46,ranked.construction,available,15.99,50.99,high,low,6,name.com,,,20/08/2026 17:38
 0b6ad6cf-a1e1-43ce-8b77-442e2ee1debd,ailing.construction,available,15.99,50.99,high,low,6,name.com,,,
+a234e4fa-20d7-4499-9772-9c9db7fdcf2f,tactic.construction,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 07:31
 33848b07-36ca-4870-9adc-6ab61206eb49,motional.construction,available,15.99,50.99,medium,low,8,name.com,,,25/08/2026 07:22
-a62de464-9b55-421e-a55e-52f72f5e1afc,bonk.construction,available,38.99,38.99,medium,low,4,namesilo,,,22/09/2026 10:31
+a62de464-9b55-421e-a55e-52f72f5e1afc,bonk.construction,available,38.99,38.99,high,low,4,namesilo,,,22/09/2026 10:31
 19fbd558-0176-4bf7-80e2-0d407dceaad8,domination.construction,available,40.98,50.98,high,low,10,namecheap,,,24/09/2026 23:26
 2ae05497-cb2e-46ca-af80-f58c7a824286,cultivars.construction,available,38.99,38.99,low,low,9,namesilo,,,28/09/2026 00:23
 5fb4b327-a355-4fba-8bf6-7d9f2cf8d0e6,agencies.construction,available,30.2,30.2,low,low,8,cloudflare,,,28/09/2026 23:07
+e1a8ecb3-5e6c-4219-ab3b-18fec16c88a0,hue.construction,premium,,,high,low,3,,,,29/09/2026 18:19
 5406851a-3942-4b89-9ccc-9a9840989331,males.construction,available,38.99,38.99,medium,low,5,namesilo,,,18/09/2026 00:29
 92534a71-db0f-4f9c-be9a-10e289b4e3a1,bilberry.construction,available,38.99,38.99,medium,low,8,namesilo,,,23/09/2026 15:37
 d9fbeed1-c35b-4d49-aa6a-07f2df796a34,dispersed.construction,available,15.99,50.99,medium,low,9,name.com,,,14/08/2026 11:56
 cda66c6a-6774-433a-b710-45516e941cfb,forgiveness.construction,available,8.75,31.41,high,low,11,porkbun,,,28/09/2026 08:15
 80d21cef-ff4e-4ed3-8555-010f62835216,beachhead.construction,available,40.98,50.98,medium,low,9,namecheap,,,22/09/2026 19:08
-07efbb6a-b184-4724-ba97-992a5d5ea62c,xvii.construction,available,38.99,38.99,medium,low,4,namesilo,,,21/09/2026 11:53
+07efbb6a-b184-4724-ba97-992a5d5ea62c,xvii.construction,available,38.99,38.99,high,low,4,namesilo,,,21/09/2026 11:53
 f9af2bc1-58cf-4183-bfc7-90ea74449734,cantonal.construction,available,15.99,50.99,medium,low,8,name.com,,,11/08/2026 17:44
 7791b449-f4a5-48c5-bad0-1a10bafc17d1,leukaemia.construction,available,38.99,38.99,medium,low,9,namesilo,,,24/09/2026 11:59
 ccefc2d2-b3d6-4462-a23f-adb205848374,ellipse.construction,available,15.99,50.99,high,low,7,name.com,,,04/09/2026 19:52
-10eb345a-828d-4f97-8407-3275875f0d20,guitar.construction,available,15.99,,high,low,6,name.com,,,
+10eb345a-828d-4f97-8407-3275875f0d20,guitar.construction,available,8.75,31.41,high,low,6,porkbun,,,29/09/2026 21:44
 b36f5480-792b-414b-a5e1-5b253d8fef3f,commix.construction,available,15.99,50.99,medium,low,6,name.com,,,
 c684caa8-697b-4364-b1e6-7ce711befa13,zymotic.construction,available,38.99,38.99,medium,low,7,namesilo,,,13/09/2026 15:57
 b5454ffc-5b89-4ee9-bafa-6ce417949b59,credible.construction,available,15.99,50.99,high,low,8,name.com,,,09/08/2026 12:56
@@ -67,17 +76,21 @@ e8d90712-7a24-489a-af58-74a25118225a,westerly.construction,available,38.99,38.99
 12fefd2b-71c4-47b2-bcbf-5c98e22c5a8c,beautician.construction,available,40.98,50.98,high,low,10,namecheap,,,22/09/2026 22:22
 448637a2-f31a-4a4e-82ff-fbe88b7f5158,ado.construction,premium,78.54,78.54,high,low,3,namesilo,,,17/09/2026 09:17
 e756080a-5960-4f11-8251-ebf6f99382ef,textbook.construction,available,38.99,38.99,high,low,8,namesilo,,,23/09/2026 13:09
+99434866-04af-4bfb-8fce-82e42d743e7b,factors.construction,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 10:49
 47016316-ceb5-4eeb-a2f6-08c5ec02df0d,amplifying.construction,available,40.98,50.98,medium,low,10,namecheap,,,17/09/2026 20:45
-13aad30a-5164-4c8f-8bc6-c4c7ec652c7c,byzantine.construction,available,15.99,50.99,medium,low,9,name.com,,,11/08/2026 12:12
+13aad30a-5164-4c8f-8bc6-c4c7ec652c7c,byzantine.construction,available,15.99,50.99,high,low,9,name.com,,,11/08/2026 12:12
 782e22a2-4f33-4c08-99ed-27c95b8aaa74,arng.construction,available,40.98,50.98,medium,low,4,namecheap,,,20/09/2026 08:02
 bfe4bf2b-df91-4000-baf6-969f8f4716c8,hits.construction,available,38.99,38.99,high,low,4,namesilo,,,19/09/2026 23:53
-e13acd11-9cd3-4f1c-b991-63d3ef155b9f,treats.construction,available,38.99,38.99,medium,low,6,namesilo,,,28/09/2026 05:00
+e13acd11-9cd3-4f1c-b991-63d3ef155b9f,treats.construction,available,38.99,38.99,high,low,6,namesilo,,,28/09/2026 05:00
 0a889059-31eb-4d6d-bfc3-71eb3c4d48ca,swap.construction,available,40.98,50.98,high,medium,4,namecheap,,,29/09/2026 01:19
-4b73068b-1787-4666-bd9b-7ad52cfc90bd,friendly.construction,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 05:51
+4b73068b-1787-4666-bd9b-7ad52cfc90bd,friendly.construction,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 08:43
 b06ef20e-5444-41b3-9d78-4f00adf062fb,topmost.construction,available,38.99,38.99,medium,low,7,namesilo,,,11/09/2026 17:46
 1eb4268d-79f8-493f-b261-63dffbd9110a,laurie.construction,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 17:15
-d0742c18-6862-497e-bc82-ceeeea5ce7fb,jelly.construction,available,15.99,,high,low,5,name.com,,,
+66517163-da51-4b7a-a04b-8808daa222e7,majorities.construction,available,38.99,38.99,medium,low,10,namesilo,,,29/09/2026 05:40
+d0742c18-6862-497e-bc82-ceeeea5ce7fb,jelly.construction,available,40.98,50.98,high,low,5,namecheap,,,30/09/2026 00:47
+1b6263a7-9cb3-40a5-9c98-19c4cc6c0c68,elam.construction,available,38.99,38.99,medium,low,4,namesilo,,,30/09/2026 01:29
 17935b7c-74ed-4d0d-9a6e-7b42313eb4dc,holdup.construction,available,38.99,38.99,medium,low,6,namesilo,,,20/09/2026 06:37
+c413b4e8-9bda-4571-8d19-d8eef7eb629c,petals.construction,available,38.99,38.99,medium,low,6,namesilo,,,29/09/2026 17:41
 67cab189-c0e3-448b-898f-319f025ebb6c,tape.construction,available,15.99,,high,low,4,name.com,,,
 f4a6dd21-76ac-461f-9eb6-840276e9420a,sailed.construction,available,40.98,50.98,high,low,6,namecheap,,,17/09/2026 07:33
 874f10ca-9f35-4cc2-be19-cb1d2bbbcf4c,formulary.construction,available,15.99,50.99,high,low,9,name.com,,,18/08/2026 12:20
@@ -93,20 +106,21 @@ e5970389-0b13-4382-9e3d-c997daf8cc42,haply.construction,available,38.99,38.99,me
 39012e58-e44f-45bd-af48-1b626901b792,list.construction,available,38.99,38.99,high,low,4,namesilo,,,25/09/2026 13:18
 872fbfc5-ea64-4995-b9e3-ba1a039e1c18,capsulate.construction,available,15.99,50.99,medium,low,9,name.com,,,11/08/2026 18:10
 f077b1f9-649d-4478-b04a-891719c4c39b,fatigued.construction,available,15.99,50.99,medium,low,8,name.com,,,14/08/2026 14:49
-402615ea-5955-4ac3-bf40-cb56ba0ae567,stemmed.construction,available,15.99,50.99,medium,low,7,name.com,,,11/08/2026 22:33
+402615ea-5955-4ac3-bf40-cb56ba0ae567,stemmed.construction,available,15.99,50.99,high,low,7,name.com,,,11/08/2026 22:33
 cec6ad9b-5a63-4d2f-9379-5892386e09fe,keychains.construction,available,38.99,38.99,medium,low,9,namesilo,,,21/09/2026 02:44
 44755b1d-39e8-48c7-bb9d-88e1e3904b9e,gromyko.construction,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 04:28
 c22a056d-7fb0-45e6-8452-4d06b8613ba9,lawyers.construction,available,40.98,50.98,medium,low,7,namecheap,,,25/09/2026 20:58
 3eb74ee7-fdf3-4492-8da1-84a714093901,piston.construction,available,15.99,,high,low,6,name.com,,,
 1109bb00-24c8-48f9-90d4-9e72057f2ee4,bumbling.construction,available,15.99,50.99,medium,low,8,name.com,,,11/08/2026 09:34
 90f3e665-70fb-4092-a580-13ad29e75003,astrakhan.construction,available,38.99,38.99,medium,low,9,namesilo,,,20/09/2026 17:31
-3c7a55f3-147f-4b14-8c12-c7b5c6c6c667,preference.construction,available,15.99,,high,low,10,name.com,,,
+3c7a55f3-147f-4b14-8c12-c7b5c6c6c667,preference.construction,available,38.99,38.99,high,low,10,namesilo,,,29/09/2026 16:57
 b5148b30-dc6c-4385-8dcf-4a9ad0f34c68,loose.construction,available,38.99,38.99,medium,low,5,namesilo,,,22/09/2026 10:42
 9d4bd1ed-d6b0-4eda-9530-7ce0012fe37b,curtis.construction,premium,78.54,78.54,high,low,6,namesilo,,,25/09/2026 04:28
 f4d30bdc-6e61-4622-9c61-b308df158b4a,curly.construction,available,15.99,50.99,high,low,5,name.com,,,13/08/2026 11:23
 ecca2d2e-1b68-49ab-b3cd-dbbf859e4684,anopheles.construction,available,40.98,50.98,medium,low,9,namecheap,,,19/09/2026 11:39
 f65fbe9b-ae7d-4a9d-8800-fb9640e103f1,dreamer.construction,available,38.99,38.99,high,low,7,namesilo,,,24/09/2026 23:59
 7ec57e6d-8b69-4764-ad7e-6e36b93e89cc,resists.construction,available,40.98,50.98,medium,low,7,namecheap,,,18/09/2026 10:58
+4926e182-e11e-4d33-a0c5-58b9931c833b,hla.construction,available,8.78,32.21,high,low,3,dynadot,,,29/09/2026 09:14
 27a466e5-79e8-43b5-a702-c56a8b7754a1,prepared.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 11:20
 a9c93fb8-9d58-47c6-b4d3-249e82151edf,fleeing.construction,available,31.25,31.25,medium,low,7,spaceship,,,29/09/2026 03:23
 3d68bf75-ad68-44be-9598-4be470525e55,trollope.construction,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 13:43
@@ -122,14 +136,17 @@ cf7f09dd-a5c1-4103-8a1a-1c4103ee3d8c,ghetto.construction,available,31.25,31.25,h
 52ce6842-18f1-4092-9cd5-96a832c4a833,unaware.construction,available,15.99,50.99,medium,low,7,name.com,,,22/08/2026 01:38
 0fc2bcef-c3b3-4ea0-b4b9-e3757c676359,oversewn.construction,available,38.99,38.99,medium,low,8,namesilo,,,04/09/2026 21:48
 726236c0-0184-4abe-a1fb-459276114240,participate.construction,available,8.75,31.41,high,low,11,porkbun,,,28/09/2026 07:01
+194cdcf1-8f86-4390-a3f9-f6f2e6c60ff4,malden.construction,available,30.2,30.2,medium,low,6,cloudflare,,,29/09/2026 15:07
 3173d06c-6cab-4aa7-ab51-6e2ba046212f,assigning.construction,available,38.99,38.99,high,low,9,namesilo,,,20/09/2026 16:26
 a562953b-6843-4ad6-baae-f01e87006dc1,oriental.construction,available,40.98,50.98,high,low,8,namecheap,,,04/09/2026 17:51
-1da401a0-48a9-409d-bdab-1689dd035820,ropeway.construction,available,40.98,50.98,medium,low,7,namecheap,,,17/09/2026 12:50
+1da401a0-48a9-409d-bdab-1689dd035820,ropeway.construction,available,40.98,50.98,high,low,7,namecheap,,,17/09/2026 12:50
 5f0b0778-4d11-4efa-85c9-d80ff1952f0c,blank.construction,available,40.98,50.98,high,medium,5,namecheap,,,22/09/2026 21:48
 7967157e-3a60-4263-8581-ea51c6586ba5,acedia.construction,available,38.99,38.99,medium,low,6,namesilo,,,16/09/2026 23:26
 a423a3d7-b3f8-4677-abf1-e0ce43d60fb4,diocese.construction,available,40.98,50.98,high,low,7,namecheap,,,23/09/2026 21:58
 89ca906e-4bab-4fab-9695-7e2176fadf05,strip.construction,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 05:53
+45893e41-e93b-49cd-b9ea-a8495b68e688,macquarie.construction,available,31.25,31.25,high,low,9,spaceship,,,29/09/2026 09:16
 0fd960ca-9693-4c8b-95c7-c12ee7dbc74b,sealed.construction,available,31.25,31.25,high,low,6,spaceship,,,27/09/2026 18:59
+a3e6d0f6-076e-4830-9302-56dcfd019aa0,converting.construction,available,31.25,31.25,medium,low,10,spaceship,,,29/09/2026 23:06
 d478ff80-a1a8-4c07-9d18-3e3127cf6837,systemic.construction,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 06:46
 e1c613ef-b9a1-47c0-8a04-8588d438600b,mutinous.construction,available,38.99,38.99,medium,low,8,namesilo,,,03/09/2026 11:55
 78801e12-47fb-464f-9785-2f45b7f46b06,cartagena.construction,available,38.99,38.99,medium,low,9,namesilo,,,29/09/2026 00:21
@@ -138,12 +155,12 @@ e1c613ef-b9a1-47c0-8a04-8588d438600b,mutinous.construction,available,38.99,38.99
 bb1d4d39-63f1-43ca-9429-ff53da18f1b3,obsessive.construction,available,38.99,38.99,high,low,9,namesilo,,,25/09/2026 23:45
 2125127b-5238-450d-b7ba-53fe2f4cf3fb,campsite.construction,available,40.98,50.98,high,low,8,namecheap,,,24/09/2026 11:55
 9fbf820d-b69e-4405-b76b-4d549ca37609,shia.construction,available,40.98,50.98,medium,low,4,namecheap,,,29/09/2026 02:12
-9a13bd1c-e8bd-458f-855a-0acfc9300829,junky.construction,available,38.99,38.99,medium,low,5,namesilo,,,17/09/2026 06:52
+9a13bd1c-e8bd-458f-855a-0acfc9300829,junky.construction,available,38.99,38.99,high,low,5,namesilo,,,17/09/2026 06:52
 6228c5d0-6eea-4b87-864a-6a687e093452,recluse.construction,available,38.99,38.99,high,low,7,namesilo,,,09/09/2026 11:38
 ccb5220b-cda5-4e18-8428-281b28d05a64,tamil.construction,available,38.99,38.99,high,low,5,namesilo,,,11/09/2026 07:48
 d404b6ec-df8d-42a4-b5d8-380993869c8e,forsooth.construction,available,40.98,50.98,low,low,8,namecheap,,,14/09/2026 19:55
 d91a0c00-8667-4049-8f79-8bcdc76fc173,disadvantage.construction,available,15.99,,high,low,12,name.com,,,
-0614b36e-6caf-4803-bc78-f696978fe613,polythene.construction,available,15.99,,medium,low,9,name.com,,,
+0614b36e-6caf-4803-bc78-f696978fe613,polythene.construction,available,15.99,,high,low,9,name.com,,,
 1047c7f5-b6bc-4500-b639-4149e40f0bea,actuate.construction,available,38.99,38.99,high,low,7,namesilo,,,09/09/2026 03:15
 d684436c-feaa-42e2-b979-4fe018662840,ionised.construction,available,15.99,50.99,medium,low,7,name.com,,,22/08/2026 09:33
 d762cc82-8ca7-4a43-98c0-0b8afacab228,soursop.construction,available,40.98,50.98,high,low,7,namecheap,,,19/09/2026 10:36
@@ -152,35 +169,41 @@ d762cc82-8ca7-4a43-98c0-0b8afacab228,soursop.construction,available,40.98,50.98,
 147499eb-8db4-4be1-abcc-96891fffe865,whipple.construction,available,40.98,50.98,medium,low,7,namecheap,,,28/09/2026 16:10
 f7c9ab36-cbc5-437e-b802-ef11bd4d67f8,barrack.construction,available,38.99,38.99,high,low,7,namesilo,,,22/09/2026 07:48
 e9e684aa-d240-46a8-8c3c-30b568be0a83,four.construction,available,38.99,38.99,high,low,4,namesilo,,,21/09/2026 13:11
-235a2b28-6070-4c09-8068-1792177bd1ff,religion.construction,available,15.99,,high,low,8,name.com,,,
+ed918dde-d0fb-4d3d-9aa1-fa87fb25a9cd,bumped.construction,available,30.2,30.2,medium,low,6,cloudflare,,,29/09/2026 21:29
+235a2b28-6070-4c09-8068-1792177bd1ff,religion.construction,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 18:54
 f6e86733-21ed-4754-88a2-43e32b2759b2,alchemist.construction,available,38.99,38.99,high,low,9,namesilo,,,18/09/2026 03:58
 7b373b90-c821-4ce5-b43c-1333fb43fa39,skint.construction,available,15.99,50.99,medium,low,5,name.com,,,11/08/2026 05:21
 526f1999-ce18-4295-ba73-209b77debdbe,fifties.construction,available,38.99,38.99,high,low,7,namesilo,,,16/09/2026 12:10
 41f5a801-dc8f-422b-9775-60f958070b11,touchdowns.construction,available,38.99,38.99,medium,low,10,namesilo,,,19/09/2026 23:06
 e189eb50-aead-422a-bd40-77009f75878f,flexible.construction,available,40.98,50.98,high,low,8,namecheap,,,23/09/2026 18:12
 ca51b94b-4529-49b4-8724-79f9383c3847,mirrors.construction,available,40.98,50.98,medium,low,7,namecheap,,,28/09/2026 12:55
-78486f48-829d-4517-91c7-42ddcd8ebe01,boreas.construction,available,40.98,50.98,medium,low,6,namecheap,,,03/09/2026 21:36
+78486f48-829d-4517-91c7-42ddcd8ebe01,boreas.construction,available,40.98,50.98,high,low,6,namecheap,,,03/09/2026 21:36
 c1671360-4635-4a2e-8118-6707ae5c1211,certify.construction,available,15.99,50.99,high,low,7,name.com,,,24/08/2026 15:04
 f7fce8d1-ae50-480a-8ce5-3dac585c8193,portuguese.construction,available,38.99,38.99,high,low,10,namesilo,,,25/09/2026 15:43
+a6b4c82f-751c-48f2-ba35-d6e2bb5fcbac,jingle.construction,available,38.99,38.99,high,low,6,namesilo,,,29/09/2026 06:41
+27e6f3cb-c525-4d5e-af70-15db4492c7c1,zola.construction,available,38.99,38.99,high,low,4,namesilo,,,29/09/2026 12:10
 949091ee-2076-41dd-bedb-37c77b68aa83,stocky.construction,available,15.99,50.99,high,low,6,name.com,,,21/08/2026 05:33
 cadcd901-7dac-4b6b-8f45-0d898b7ff11a,beatable.construction,available,15.99,50.99,medium,low,8,name.com,,,09/08/2026 05:37
 adb80807-faea-4a47-8633-4864dd7c6121,suffer.construction,available,31.25,31.25,medium,low,6,spaceship,,,28/09/2026 17:46
 f4359f32-2200-47c3-a661-25899f1896b0,hitherto.construction,available,38.99,38.99,medium,low,8,namesilo,,,13/09/2026 21:48
 bde84f07-f3d9-401b-b681-76aa4dd24f29,hebraic.construction,available,15.99,50.99,medium,low,7,name.com,,,21/08/2026 05:40
-06e69802-58c7-471f-92c8-5d9eb5b16ed6,tantrik.construction,available,38.99,38.99,medium,low,7,namesilo,,,11/09/2026 08:07
+06e69802-58c7-471f-92c8-5d9eb5b16ed6,tantrik.construction,available,38.99,38.99,high,low,7,namesilo,,,11/09/2026 08:07
 838325c8-4f51-4e66-b6eb-075483fc1ba9,taking.construction,available,15.99,50.99,high,low,6,name.com,,,18/08/2026 02:22
 65fc2406-451c-4c4a-b187-002b91054b99,designed.construction,available,40.98,50.98,high,low,8,namecheap,,,24/09/2026 06:34
-43d421cc-7b3e-4b60-88e8-a42a99c4ebc1,divorce.construction,available,15.99,50.99,medium,low,7,name.com,,,14/08/2026 11:12
-7928e792-7570-466d-948c-832a2f5386a9,guests.construction,available,38.99,38.99,medium,low,6,namesilo,,,25/09/2026 17:02
+43d421cc-7b3e-4b60-88e8-a42a99c4ebc1,divorce.construction,available,15.99,50.99,high,low,7,name.com,,,14/08/2026 11:12
+7928e792-7570-466d-948c-832a2f5386a9,guests.construction,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 17:02
+ed94908e-5c9b-4747-a7e4-461cf0e7b6c5,repeats.construction,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 17:30
 0ca9cbec-724d-4530-8437-bffa1a711ce5,adducent.construction,available,15.99,50.99,medium,low,8,name.com,,,
+7ed89ec1-c0b3-4fd7-87bf-dd802e18f42a,advertise.construction,available,8.75,31.41,high,low,9,porkbun,,,29/09/2026 20:39
 67d540ba-9760-4486-8b34-803178cc9995,natality.construction,available,40.98,50.98,medium,low,8,namecheap,,,23/09/2026 21:04
 04acba78-984a-490b-a55d-2388a4b37090,bihari.construction,available,38.99,38.99,medium,low,6,namesilo,,,23/09/2026 15:31
 60992c96-6806-4147-b39b-9cb7e6bedb7b,quirky.construction,available,15.99,50.99,high,low,6,name.com,,,17/08/2026 22:23
 00172104-b939-4d0d-83f2-0fcac58e2ebb,bakshish.construction,available,40.98,50.98,medium,low,8,namecheap,,,21/09/2026 15:53
 ffe536da-eae1-4a5f-ab4d-05a5bb2b7402,horrified.construction,available,15.99,50.99,medium,low,9,name.com,,,21/08/2026 14:14
 1f30f8d4-4415-4f1f-8ec5-e308ed41cbc5,nonpareil.construction,available,15.99,50.99,high,low,9,name.com,,,24/08/2026 17:02
-5d084a50-a0ed-4789-b003-1e1126a031c8,treating.construction,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 08:47
+5d084a50-a0ed-4789-b003-1e1126a031c8,treating.construction,available,30.2,30.2,high,low,8,cloudflare,,,28/09/2026 08:47
 c9b4dc88-0f4a-4621-8438-2da7817a7b12,overflow.construction,available,15.99,,high,low,8,name.com,,,
+d39de1dd-3666-41c0-9be7-3d8ccc84b1dc,chico.construction,available,40.98,50.98,high,low,5,namecheap,,,29/09/2026 18:18
 65428b63-0485-4933-9c07-0959c6ac219a,aspect.construction,available,38.99,38.99,high,low,6,namesilo,,,28/09/2026 22:41
 373bf954-ffcd-4a17-934e-11732f820bc9,tortured.construction,available,15.99,50.99,medium,low,8,name.com,,,
 a3e8a895-155b-4b02-b1d8-f7d51db53605,cartesian.construction,available,15.99,50.99,high,low,9,name.com,,,11/08/2026 19:49
@@ -188,6 +211,7 @@ a5e1d924-f520-4124-a889-2caba2e57a29,gari.construction,available,38.99,38.99,hig
 bc09cba4-1515-4b3b-a539-2d5e0f85c8a8,fecal.construction,available,15.99,50.99,medium,low,5,name.com,,,17/08/2026 20:38
 0b053e3b-7864-43e8-8d43-c1ff8511bd14,zoom.construction,available,30.2,30.2,high,medium,4,cloudflare,,,28/09/2026 15:12
 183acb80-a8a9-49f6-8353-0c1c7897c9fa,meteor.construction,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 01:39
+c2cc12e3-96d6-4750-a0a2-cb2e765a39b6,lilian.construction,available,8.75,31.41,medium,low,6,porkbun,,,29/09/2026 22:03
 3acac051-133b-4138-ae5d-6f62bf023b63,went.construction,available,15.99,,high,low,4,name.com,,,
 9ac28563-0b4c-4969-b61d-c5438b24a9ae,amphibious.construction,available,15.99,50.99,medium,low,10,name.com,,,
 368f719e-2930-4c8a-850d-656659adc98f,alarmingly.construction,available,38.99,38.99,low,low,10,namesilo,,,13/09/2026 18:33
@@ -199,17 +223,18 @@ a8178593-22ab-47b4-be3f-7789c2d7126c,actor.construction,available,31.25,31.25,hi
 1362c702-eec5-4d6b-8a7f-1b6b4e0a47f0,soldier.construction,available,15.99,,high,low,7,name.com,,,
 614fe60d-9761-4e86-8e80-48d32df23d21,somebody.construction,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 17:05
 1036132c-b5e2-4f4e-b40a-d4bfded5e67f,remarkable.construction,available,15.99,50.99,high,low,10,name.com,,,09/09/2026 13:42
-e9b374fc-3e65-4c62-b845-0e46936c29dd,brits.construction,premium,118.8,118.8,medium,low,5,namesilo,,,11/08/2026 04:46
+e9b374fc-3e65-4c62-b845-0e46936c29dd,brits.construction,premium,118.8,118.8,high,low,5,namesilo,,,11/08/2026 04:46
 a094cc6b-09fb-4884-9393-8ebb62f9d22a,movingly.construction,available,38.99,38.99,medium,low,8,namesilo,,,15/09/2026 15:35
 02dfadd0-579e-4eef-a36a-59ce7c939c4c,aberrant.construction,available,15.99,50.99,high,low,8,name.com,,,
 669e8b3b-bcdc-4020-a50b-17b26bf2a147,stalled.construction,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 17:27
 da854fc4-0981-4c0c-bac4-d0ec74a009af,import.construction,available,40.98,50.98,high,low,6,namecheap,,,25/09/2026 18:33
+8bfb90de-c87b-4415-b582-4ccdcbd590f8,gareth.construction,available,8.78,32.21,high,low,6,dynadot,,,29/09/2026 21:28
 fefa48fe-e533-4a89-84e8-f18538dd7730,assuring.construction,available,15.99,50.99,medium,low,8,name.com,,,07/08/2026 08:31
 7f83514d-3106-4c4c-a47b-7f2239f47c66,avocado.construction,available,38.99,38.99,high,low,7,namesilo,,,22/09/2026 14:34
 43da3fcc-3642-4b0d-880d-c845d6790c0f,transmit.construction,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 04:29
 6e3016f9-27f1-4d55-a59f-926d63aee14a,aditi.construction,available,40.98,50.98,medium,low,5,namecheap,,,17/09/2026 08:22
 afb4e264-af3d-4a1b-a69d-d548c9314261,shaken.construction,available,38.99,38.99,high,low,6,namesilo,,,10/09/2026 05:44
-bbd25b10-3424-4c50-906f-f8edb1fa2214,deflation.construction,available,15.99,,medium,low,9,name.com,,,
+bbd25b10-3424-4c50-906f-f8edb1fa2214,deflation.construction,available,38.99,38.99,medium,low,9,namesilo,,,29/09/2026 13:36
 6bc802f3-b634-47e7-a66f-981f139e3ff9,impersonal.construction,available,15.99,50.99,medium,low,10,name.com,,,21/08/2026 22:13
 514cf5ab-2fc5-46f4-ab1f-ba8cf631e8cb,lammas.construction,available,40.98,50.98,medium,low,6,namecheap,,,21/09/2026 03:43
 52b9b744-a57d-46d1-ad10-40781fc4afde,turning.construction,available,38.99,38.99,high,low,7,namesilo,,,26/09/2026 00:27
@@ -218,12 +243,13 @@ cf8749b8-8d03-44e2-b491-7fca100d7348,aramean.construction,available,15.99,50.99,
 a9e8e877-8eae-4ba5-8006-dd9e8e0ffd33,reusable.construction,available,38.99,38.99,high,low,8,namesilo,,,09/09/2026 11:33
 dab07bab-71fd-454f-ad00-9b552e3f6636,awesome.construction,available,38.99,38.99,high,medium,7,namesilo,,,22/09/2026 15:04
 0c2f7241-ac1b-450b-aeaa-95907f4c4150,tears.construction,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 02:29
+7a99fed1-0897-41c1-8a15-002d07ed8878,leone.construction,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 19:32
 6f50f7c5-099a-408f-98c0-e997bf573358,ideas.construction,available,15.99,,high,low,5,name.com,,,
 25efa350-0946-4203-8c43-8c26cd4dd8ac,bilgewater.construction,available,38.99,38.99,medium,low,10,namesilo,,,21/09/2026 23:46
-b708d000-a6bb-4942-bd71-faf189cbe61b,offhand.construction,available,15.99,50.99,medium,low,7,name.com,,,
+b708d000-a6bb-4942-bd71-faf189cbe61b,offhand.construction,available,15.99,50.99,high,low,7,name.com,,,
 f34576e2-14af-4414-9b03-5ef85d3c0738,dais.construction,available,38.99,38.99,high,low,4,namesilo,,,18/09/2026 17:12
 9c96dce6-9a6c-42df-b1c0-f19a6e32a185,capital.construction,premium,118.8,118.8,high,medium,7,namesilo,,,28/09/2026 05:00
-25f01137-b53f-44ed-9b2c-e81a34f5c815,manuscript.construction,available,31.25,31.25,medium,low,10,spaceship,,,28/09/2026 10:05
+25f01137-b53f-44ed-9b2c-e81a34f5c815,manuscript.construction,available,31.25,31.25,high,low,10,spaceship,,,28/09/2026 10:05
 0484e4f4-8aa8-4c10-9b9e-d015f41504dc,broiled.construction,available,15.99,50.99,medium,low,7,name.com,,,11/08/2026 05:19
 8bbbab8a-bbb2-4ab3-b6bc-07a122a1138f,gifted.construction,available,15.99,50.99,high,low,6,name.com,,,18/08/2026 23:27
 0ffae188-a752-41e9-bc39-68cd0976f98e,resurgent.construction,available,38.99,38.99,high,low,9,namesilo,,,09/09/2026 13:53
@@ -241,7 +267,7 @@ f1081c7c-f02f-4478-a51e-dc2eece7bd15,berceuse.construction,available,40.98,50.98
 38e6f602-823f-47ab-adbd-a702fbbc9309,morley.construction,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 05:08
 0fe0481e-793d-4b11-94ce-e0e8f68aa498,arizonan.construction,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 06:05
 21f5baa2-ee01-4398-b914-4d4bdce63c6d,sudanese.construction,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 01:05
-7dd89a7a-e87b-4f7f-b9a5-06cd78652415,knowingly.construction,available,38.99,38.99,medium,low,9,namesilo,,,15/09/2026 10:35
+7dd89a7a-e87b-4f7f-b9a5-06cd78652415,knowingly.construction,available,38.99,38.99,high,low,9,namesilo,,,15/09/2026 10:35
 9026e709-bea0-4a5a-8ac5-4e64b90ed8a4,mario.construction,available,15.99,,high,low,5,name.com,,,
 4c321009-fe55-4e96-beee-36ca50d35971,pediatrist.construction,available,40.98,50.98,high,low,10,namecheap,,,21/09/2026 13:27
 74bf34f7-bd76-483a-8539-7e49c1a7f9d1,amalgamate.construction,available,40.98,50.98,high,low,10,namecheap,,,22/09/2026 03:01
@@ -253,6 +279,7 @@ c6aaffa2-c450-479c-b6e9-82f421f00e80,flossy.construction,available,15.99,50.99,m
 c5aee0ee-5bd2-4edf-a589-8b25b4bc9d46,boxy.construction,available,15.99,50.99,high,low,4,name.com,,,10/08/2026 23:58
 c3bb3910-5f11-4707-b4bc-50aa42bf87a7,six.construction,premium,128.7,128.7,high,low,3,namecheap,,,21/09/2026 13:17
 e090150d-1748-4825-bfc0-f22f2ffea91c,boomer.construction,available,38.99,38.99,high,low,6,namesilo,,,21/09/2026 13:18
+99370952-d16b-432c-95a7-77aeddf75db8,earthquakes.construction,available,38.99,38.99,medium,low,11,namesilo,,,29/09/2026 23:17
 0a50600b-a9a3-49fa-bb6d-01f9c72521b6,superstar.construction,available,8.75,31.41,high,low,9,porkbun,,,28/09/2026 17:57
 6c72e8c7-eb23-422b-8726-5a472a0c4978,antithetic.construction,available,15.99,50.99,medium,low,10,name.com,,,05/08/2026 19:49
 695aab01-1c9b-4c75-b76f-1c53ef26eb97,chomsky.construction,available,40.98,50.98,medium,low,7,namecheap,,,16/09/2026 12:59
@@ -266,7 +293,7 @@ edd2b6e6-8cf2-4d55-ae49-a25aa8323050,newsfeed.construction,available,15.99,50.99
 7b33ba91-d5b8-4eb8-974e-89dce2c90aeb,dominated.construction,available,38.99,38.99,medium,low,9,namesilo,,,24/09/2026 11:35
 62f1fceb-e7a2-47d5-bbd4-8581c5500242,collarbone.construction,available,15.99,,medium,low,11,name.com,,,
 b00f8853-8064-4930-b8f9-a9b35240ddec,shadowy.construction,available,38.99,38.99,medium,low,7,namesilo,,,10/09/2026 05:28
-b80057db-0c29-4c53-93ec-db856cdb2f9e,curtain.construction,available,15.99,,high,low,7,name.com,,,
+b80057db-0c29-4c53-93ec-db856cdb2f9e,curtain.construction,available,8.78,32.21,high,low,7,dynadot,,,29/09/2026 13:08
 2e9e9a03-7968-4db0-b33c-77b458a6f411,sluggish.construction,available,38.99,38.99,medium,low,8,namesilo,,,10/09/2026 11:29
 2331cf8f-96f8-4b74-967f-be7f9c5b2b36,surrogate.construction,available,38.99,38.99,high,low,9,namesilo,,,22/09/2026 02:27
 af6a593b-0b9a-45ca-bcf5-20e58a0e70cd,school.construction,resell,,,high,medium,6,Dynadot Inc,22/02/2026 18:02,22/02/2027 18:02,28/09/2026 04:04
@@ -283,6 +310,7 @@ bd9346ed-b5bc-47fa-bf4c-982ed2c23372,considerable.construction,available,31.25,3
 bef77872-83b3-4a5e-985c-5babf67d926e,roundel.construction,available,15.99,50.99,high,low,7,name.com,,,19/09/2026 11:05
 e28ade1f-bd62-4c93-8d7d-16257288f441,remedial.construction,available,38.99,38.99,high,low,8,namesilo,,,22/09/2026 02:24
 c1ee7696-56da-42cf-8313-0003cac7c128,pacifist.construction,available,38.99,38.99,high,low,8,namesilo,,,04/09/2026 22:35
+5d533acc-a613-4b59-ac4a-8bdc2c1863eb,fascism.construction,available,38.99,38.99,medium,low,7,namesilo,,,30/09/2026 01:35
 34d8c996-0b7d-47a7-8e68-56e944faea83,but.construction,premium,128.7,128.7,high,low,3,namecheap,,,25/09/2026 12:23
 36f5b2d2-a9a8-4c06-92ba-7ab506b22233,dished.construction,available,15.99,50.99,medium,low,6,name.com,,,14/08/2026 10:52
 40d664bd-ef88-4813-a82f-28179a839d3e,chinchy.construction,available,15.99,50.99,low,low,7,name.com,,,12/08/2026 05:42
@@ -293,17 +321,21 @@ dae8e14e-7ad4-4272-8758-46e5dbc6d5cf,annam.construction,available,38.99,38.99,me
 221ca708-7729-4961-b198-89d14c76ca11,ano.construction,premium,128.7,128.7,high,low,3,namecheap,,,16/09/2026 18:45
 3c7cc4af-68f1-42d7-a089-05e23e2b5187,charivari.construction,available,38.99,38.99,medium,low,9,namesilo,,,23/09/2026 06:08
 48824798-96c6-43c7-9fb1-3695770a97e0,hydrogen.construction,available,38.99,38.99,high,low,8,namesilo,,,20/09/2026 21:53
+2cac51b4-0e68-4503-abe0-aa44e8629785,curzon.construction,available,38.99,38.99,medium,low,6,namesilo,,,29/09/2026 22:25
 70090aae-2cec-4b07-802d-dedab43c6c48,stepwise.construction,available,15.99,50.99,high,low,8,name.com,,,10/08/2026 07:12
 b9bbd177-772d-453c-8d6d-6f88f43fe31b,hardened.construction,available,15.99,50.99,high,low,8,name.com,,,11/08/2026 20:01
+0264d5db-f6fd-4c43-a5a8-129622c2370d,neilson.construction,available,31.25,31.25,medium,low,7,spaceship,,,29/09/2026 22:20
 5d0b57f7-65bd-4ba7-a8c5-10d66a4cbd38,coeliac.construction,available,15.99,50.99,medium,low,7,name.com,,,12/08/2026 15:21
 401059ef-e7ea-4591-aa99-07e037bb1b50,dorsal.construction,available,15.99,50.99,high,low,6,name.com,,,
 737f6f7f-f0c3-4fb1-8c7e-791d616c0ced,gracious.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 00:42
-d872ff20-a817-470f-a537-98f5b2879a9f,mount.construction,available,15.99,,high,low,5,name.com,,,
+d872ff20-a817-470f-a537-98f5b2879a9f,mount.construction,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 10:06
+0509b19f-ddd3-4f0a-97b9-4b2f58594623,homosexuality.construction,available,38.99,38.99,high,low,13,namesilo,,,29/09/2026 10:16
+87d81dbe-8b0c-4db5-887d-ff339c2a2e8a,mentality.construction,available,38.99,38.99,high,low,9,namesilo,,,29/09/2026 06:09
 aa58d700-fad3-429f-ac81-561e8703b991,terrifying.construction,available,59.99,59.99,medium,low,10,godaddy,,,28/09/2026 02:19
 89900792-ebae-4632-b6e8-95b22ca9372b,helpfully.construction,available,38.99,38.99,medium,low,9,namesilo,,,15/09/2026 00:07
 efc8112c-b68d-416c-abc4-72fcd819b863,penumbral.construction,available,38.99,38.99,medium,low,9,namesilo,,,08/09/2026 15:25
 154af325-36f8-49a0-ad24-ad3bdde1a222,danielle.construction,available,31.25,31.25,medium,low,8,spaceship,,,28/09/2026 08:28
-202ee6ab-0d01-48b2-a3fa-39d2aff79d6b,destroyer.construction,available,31.25,31.25,medium,low,9,spaceship,,,28/09/2026 05:31
+202ee6ab-0d01-48b2-a3fa-39d2aff79d6b,destroyer.construction,available,31.25,31.25,high,low,9,spaceship,,,28/09/2026 05:31
 26fe5ccd-12a8-4ee4-a8c8-06e49d6d957d,snuff.construction,available,15.99,50.99,high,low,5,name.com,,,12/08/2026 07:39
 aafc1131-e7be-4600-9d18-8585c2bfc84c,spicebush.construction,available,38.99,38.99,high,low,9,namesilo,,,18/09/2026 20:40
 2fc03e27-13fd-4c0e-93a1-c515464f3e12,norwalk.construction,premium,78.54,78.54,medium,low,7,namesilo,,,28/09/2026 12:08
@@ -313,25 +345,26 @@ cb755408-67b2-4d0b-9606-c5d4f8ec6ce6,ipsus.construction,available,40.98,50.98,me
 b65a99dd-c774-48b9-ace0-d64adf2ded9b,whorehouse.construction,available,40.98,50.98,medium,low,10,namecheap,,,21/09/2026 18:13
 8ea24dd1-8c9b-4da1-a74f-ce8099d77eb0,comp.construction,available,40.98,50.98,high,low,4,namecheap,,,23/09/2026 17:59
 9a59d38c-c6df-4807-89d2-cdd538b64989,scratch.construction,available,38.99,38.99,high,low,7,namesilo,,,16/09/2026 16:58
+5e6ca15a-615d-4ed4-b348-2c788c38a3a9,rss.construction,premium,102.67,102.67,high,low,3,spaceship,,,29/09/2026 21:06
 4bb5a74d-bcea-420c-9a70-f0347eb78bce,hodges.construction,available,40.98,50.98,medium,low,6,namecheap,,,25/09/2026 19:37
 5fd7dddb-7df0-4e1e-b358-8c841b89d6ec,acridid.construction,available,38.99,38.99,medium,low,7,namesilo,,,17/09/2026 02:59
 7a889c56-1093-40dc-a497-5f68b7d8522f,ambystoma.construction,available,38.99,38.99,medium,low,9,namesilo,,,18/09/2026 17:36
 b7935bf2-3e96-4d0e-a7c4-56b5545e88fd,lutecium.construction,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 23:39
 2ba72ce8-0f6a-472c-9350-082440a86c2e,justify.construction,available,38.99,38.99,high,low,7,namesilo,,,28/09/2026 11:05
 ef327e39-a9a6-4f61-819f-fa678aa06781,unlaced.construction,available,38.99,38.99,medium,low,7,namesilo,,,12/09/2026 14:37
-6164eea8-9347-4030-b8e6-1d8edc1cd7ee,slacking.construction,available,15.99,,medium,low,8,name.com,,,
+6164eea8-9347-4030-b8e6-1d8edc1cd7ee,slacking.construction,available,40.98,50.98,medium,low,8,namecheap,,,29/09/2026 20:57
 3813cf22-ea84-4f6f-aa28-5e15f65943af,homes.construction,premium,118.8,118.8,high,low,5,namesilo,,,18/09/2026 16:52
-acb1c57c-cf7f-40aa-8bbd-a319da5e5c57,mordant.construction,available,15.99,50.99,medium,low,7,name.com,,,13/08/2026 02:11
+acb1c57c-cf7f-40aa-8bbd-a319da5e5c57,mordant.construction,available,15.99,50.99,high,low,7,name.com,,,13/08/2026 02:11
 97a617f7-fb29-42e1-8202-0763552b933c,flat.construction,available,38.99,38.99,high,low,4,namesilo,,,21/09/2026 12:19
 1589655d-b889-4c77-88b1-39e452adc91c,slimy.construction,available,15.99,50.99,medium,low,5,name.com,,,14/08/2026 04:03
 be0d9a4f-2f52-483a-9157-7b5d2718b1fe,studded.construction,available,38.99,38.99,high,low,7,namesilo,,,10/09/2026 22:57
 1a468c2a-7695-45a6-8fee-8abeda719499,torn.construction,available,40.98,50.98,high,low,4,namecheap,,,25/09/2026 16:39
 79535ceb-ac06-4f81-aa9b-122a9e8e73b8,bulging.construction,available,15.99,50.99,medium,low,7,name.com,,,09/08/2026 13:41
 39468e01-699b-4972-bf6f-5d711e2c1d96,scruffy.construction,available,38.99,38.99,medium,low,7,namesilo,,,10/09/2026 00:25
-edf4b8a5-dd42-483e-812e-98d14c3ce51b,want.construction,available,15.99,,high,low,4,name.com,,,
+edf4b8a5-dd42-483e-812e-98d14c3ce51b,want.construction,available,8.75,31.41,high,low,4,porkbun,,,29/09/2026 13:33
 b7f7c414-a9f1-4ba2-a483-05156e4b301a,lapsed.construction,available,15.99,50.99,medium,low,6,name.com,,,22/08/2026 19:47
 83ec19b2-775c-462b-95f0-a04b19103e19,strengthen.construction,available,15.99,,high,low,10,name.com,,,
-a279a9cb-5d40-4768-b2c1-a50322744dec,bandung.construction,premium,78.54,78.54,medium,low,7,namesilo,,,22/09/2026 01:32
+a279a9cb-5d40-4768-b2c1-a50322744dec,bandung.construction,premium,78.54,78.54,high,low,7,namesilo,,,22/09/2026 01:32
 1a447981-c4c6-4db9-83ab-f320096d9e90,laotian.construction,available,15.99,50.99,medium,low,7,name.com,,,22/08/2026 19:36
 4ded280f-a5f5-4fc5-ac98-0e9c8059e901,festival.construction,available,38.99,38.99,high,low,8,namesilo,,,19/09/2026 17:31
 3f53a416-e1de-4b9b-9e7d-98f62aabf795,agnomen.construction,available,38.99,38.99,medium,low,7,namesilo,,,17/09/2026 18:44
@@ -341,7 +374,7 @@ b54edd72-e960-4315-b8af-0e99be8a9665,attempted.construction,available,15.99,50.9
 160e44d1-0f4d-4d10-b082-a2e0fb1a440b,squanderer.construction,available,38.99,38.99,medium,low,10,namesilo,,,09/09/2026 02:39
 5fb8755c-4d40-4566-8a81-b6f086f93a5b,azonal.construction,available,15.99,50.99,medium,low,6,name.com,,,08/08/2026 02:27
 6b0fb916-3837-436f-96ad-6ec1079c785e,jokes.construction,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 11:35
-f6daf5f1-0d0e-49d0-95b3-b2f38bf13d84,diligently.construction,available,38.99,38.99,medium,low,10,namesilo,,,14/09/2026 12:40
+f6daf5f1-0d0e-49d0-95b3-b2f38bf13d84,diligently.construction,available,38.99,38.99,high,low,10,namesilo,,,14/09/2026 12:40
 1a90f4fc-be6e-40eb-ac7b-066f1182f602,greyed.construction,available,15.99,50.99,medium,low,6,name.com,,,20/08/2026 20:04
 22e4d9f3-ba79-4f9b-ad66-ab8d7131e3d3,empty.construction,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 13:56
 0cbd96db-d3d8-43b6-ab3f-56005298059e,mesmeric.construction,available,15.99,50.99,medium,low,8,name.com,,,24/08/2026 21:13
@@ -359,13 +392,15 @@ b9407a5f-359d-4eba-9b02-24c3085e3c6d,banter.construction,available,8.75,31.41,hi
 b384fa23-d397-407b-a609-a7199c08dc70,keyed.construction,available,15.99,50.99,medium,low,5,name.com,,,22/08/2026 15:42
 2b881618-352e-4a59-9b60-beb559ad9a19,ratter.construction,available,15.99,50.99,low,low,6,name.com,,,06/08/2026 04:00
 1fab170e-bbbc-4870-8449-a3f1cdf12024,acetamide.construction,available,38.99,38.99,medium,low,9,namesilo,,,16/09/2026 23:49
-98efbfb3-f113-4bda-88c6-db42ab21de17,crosswise.construction,available,15.99,50.99,medium,low,9,name.com,,,13/08/2026 08:23
+98efbfb3-f113-4bda-88c6-db42ab21de17,crosswise.construction,available,15.99,50.99,high,low,9,name.com,,,13/08/2026 08:23
+b2f1e826-d0ae-408c-8ab4-48d3975665a9,commissioned.construction,available,8.78,32.21,high,low,12,dynadot,,,29/09/2026 23:15
 e63278fa-182b-4697-9873-84cca1b75c66,morphine.construction,available,31.25,31.25,medium,low,8,spaceship,,,28/09/2026 10:27
-769be824-712a-462f-b615-b800ee46abe7,cuddles.construction,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 08:38
+769be824-712a-462f-b615-b800ee46abe7,cuddles.construction,available,38.99,38.99,high,low,7,namesilo,,,21/09/2026 08:38
 d6d84c97-6385-4d84-b7a7-7adb28f86e36,gush.construction,available,15.99,50.99,high,low,4,name.com,,,22/08/2026 13:07
 dcd7f58f-6c2e-4df1-816b-0461aeae54b5,prowess.construction,available,38.99,38.99,high,low,7,namesilo,,,20/09/2026 11:56
 6cc3dbba-44ec-4499-81c1-15ec31fb0028,visualise.construction,available,38.99,38.99,high,low,9,namesilo,,,24/09/2026 16:40
 4ad5e66f-8599-491e-bc7e-ae596732075e,revocation.construction,available,40.98,50.98,medium,low,10,namecheap,,,19/09/2026 11:02
+c885295d-96bd-404c-b37b-2798dea4a075,cigars.construction,available,38.99,38.99,medium,low,6,namesilo,,,29/09/2026 05:22
 f641f1f2-1df6-49dc-bc94-904cb136eca5,puff.construction,available,38.99,38.99,high,low,4,namesilo,,,09/09/2026 05:34
 115075d4-1a78-460f-87a7-a2069784c892,ensure.construction,available,,,high,low,6,,,,
 b2938515-0c6d-4b64-bdf7-c6e65bb90daf,downhill.construction,available,15.99,50.99,medium,low,8,name.com,,,13/08/2026 21:49
@@ -382,13 +417,14 @@ d8c9f958-af9a-4e8b-b59c-7dc2b0ee052e,andalucia.construction,available,38.99,38.9
 92db53a1-8f63-47c3-8417-150632641a81,profundity.construction,available,40.98,50.98,medium,low,10,namecheap,,,16/09/2026 18:38
 c4f66e88-0f5b-4c5b-be6a-74cd6cb70c1f,sire.construction,available,31.25,31.25,high,low,4,spaceship,,,28/09/2026 14:08
 e4e4a8a6-e55e-426b-8790-7ff9a7125d29,demonic.construction,available,15.99,50.99,medium,low,7,name.com,,,14/08/2026 01:26
-e1ed8a7c-7a40-4181-a845-8f76ee629331,pensive.construction,available,15.99,50.99,medium,low,7,name.com,,,11/08/2026 06:00
-a67b5910-1e80-49e8-b249-525667787a86,coffee.construction,available,15.99,,high,medium,6,name.com,,,
+e1ed8a7c-7a40-4181-a845-8f76ee629331,pensive.construction,available,15.99,50.99,high,low,7,name.com,,,11/08/2026 06:00
+a67b5910-1e80-49e8-b249-525667787a86,coffee.construction,available,31.25,31.25,high,medium,6,spaceship,,,29/09/2026 10:14
 aae0e725-fd33-4957-9a61-a471e654b8ac,organizers.construction,available,31.25,31.25,medium,low,10,spaceship,,,28/09/2026 10:11
 8a0896d9-c699-4fe0-8c2b-0524a495019d,propel.construction,available,38.99,38.99,high,low,6,namesilo,,,09/09/2026 03:16
 54062689-3c12-46a0-ba3e-f50413d67391,severely.construction,available,31.25,31.25,medium,low,8,spaceship,,,28/09/2026 13:15
 b01dc953-025d-4d4b-894e-41d130187887,drummond.construction,available,38.99,38.99,medium,low,8,namesilo,,,25/09/2026 15:26
 1a2f5372-73f7-4753-b011-20787194eac7,chow.construction,available,31.25,31.25,high,low,4,spaceship,,,29/09/2026 00:25
+1ed063c7-dc0e-4322-a318-7c9f8466e11e,tighter.construction,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 14:55
 e40a75d1-d9e3-4a30-940f-172c3bb51a52,alphabetic.construction,available,38.99,38.99,high,low,10,namesilo,,,22/09/2026 02:10
 981f4f66-6944-4bb8-bf54-5d4994bd3041,volute.construction,available,15.99,50.99,high,low,6,name.com,,,12/08/2026 16:14
 aeb68053-1220-4e44-89a7-418e5f80da02,brief.construction,available,40.98,50.98,high,low,5,namecheap,,,21/09/2026 13:42
@@ -396,7 +432,7 @@ aeb68053-1220-4e44-89a7-418e5f80da02,brief.construction,available,40.98,50.98,hi
 6c2749ca-f278-471b-8315-a3421bf22b3b,pedro.construction,available,8.75,31.41,high,low,5,porkbun,,,28/09/2026 03:54
 fb9846b3-aa2a-4775-9978-fe2436f5f692,laden.construction,available,15.99,50.99,medium,low,5,name.com,,,22/08/2026 18:30
 d758fae6-4931-4499-a1f6-792a9cf69106,targeted.construction,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 21:29
-cfbd3aca-27ba-434b-b941-07bbb64ec90f,zoologist.construction,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 08:43
+cfbd3aca-27ba-434b-b941-07bbb64ec90f,zoologist.construction,available,38.99,38.99,high,low,9,namesilo,,,19/09/2026 08:43
 b86df5f9-291f-48fc-bf16-1a6da435e66c,supersonic.construction,available,38.99,38.99,high,low,10,namesilo,,,11/09/2026 02:25
 f3191639-30d9-4d37-bd44-89d5b49f6137,incubation.construction,available,15.99,50.99,high,low,10,name.com,,,11/08/2026 06:10
 8a117511-6243-4a99-ba77-084e7e64cf92,headache.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 13:37
@@ -404,25 +440,29 @@ e11c629d-c6b7-45fd-97d4-5e2552621901,adoring.construction,available,38.99,38.99,
 b973d2b7-c992-4474-b784-cd437c1155b2,northern.construction,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 23:11
 9c39c7a9-f603-4764-8b45-b90c75c82b35,chopped.construction,available,15.99,50.99,high,low,7,name.com,,,12/08/2026 06:57
 a6c727fb-0008-4a00-99e0-a55bb90f3bb3,althea.construction,available,40.98,50.98,medium,low,6,namecheap,,,18/09/2026 14:54
-f0d42299-01ce-4b99-b560-0fb8bd8bea2e,endocrine.construction,available,15.99,50.99,medium,low,9,name.com,,,17/08/2026 01:00
+f0d42299-01ce-4b99-b560-0fb8bd8bea2e,endocrine.construction,available,15.99,50.99,high,low,9,name.com,,,17/08/2026 01:00
 dc252313-ee1c-4c78-9385-f83780e41c91,urges.construction,available,38.99,38.99,medium,low,5,namesilo,,,16/09/2026 09:15
 31188ab6-c75d-4e42-a53d-d74ec258c7a6,dourly.construction,available,38.99,38.99,low,low,6,namesilo,,,14/09/2026 13:56
 942eadf5-4555-4c8e-b8cb-93d57789b541,flashy.construction,available,15.99,50.99,high,low,6,name.com,,,18/08/2026 06:33
 6c86ec23-f78a-4b33-ba32-b9499426ebab,strips.construction,available,40.98,50.98,medium,low,6,namecheap,,,20/09/2026 02:09
-34403fb6-cede-475e-8527-7d9226eea3cb,backrest.construction,available,40.98,50.98,medium,low,8,namecheap,,,21/09/2026 15:47
+34403fb6-cede-475e-8527-7d9226eea3cb,backrest.construction,available,40.98,50.98,high,low,8,namecheap,,,21/09/2026 15:47
+2c0a95b1-f070-47d9-b972-ca4bff459dbe,theology.construction,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 14:03
 777e917b-a977-4d0d-baa5-63a1b175a1be,enmeshed.construction,available,15.99,50.99,medium,low,8,name.com,,,17/08/2026 09:39
 6ba616f3-79bf-422d-819a-b362b954b66b,focusing.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 13:33
-42fa0faa-cf6c-49c2-abd8-ff8852710765,amble.construction,available,38.99,38.99,medium,low,5,namesilo,,,18/09/2026 16:54
+42fa0faa-cf6c-49c2-abd8-ff8852710765,amble.construction,available,38.99,38.99,high,low,5,namesilo,,,18/09/2026 16:54
 a1e0aa6b-31ad-4871-a316-4394abaacdf1,bawdyhouse.construction,available,40.98,50.98,medium,low,10,namecheap,,,21/09/2026 18:21
 7d6d718a-6d56-4a53-818b-d22bb7fec8b8,assamese.construction,available,15.99,50.99,medium,low,8,name.com,,,07/08/2026 05:38
+9b9a0589-d0b5-4094-a50c-da05831e3fee,belknap.construction,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 15:05
 833ef1e4-781b-41a3-934c-64c161be9a3e,fellowships.construction,available,38.99,38.99,medium,low,11,namesilo,,,21/09/2026 08:52
+2601ed15-072c-413f-ba4f-9bb9991554a9,circumstance.construction,available,38.99,38.99,high,low,12,namesilo,,,29/09/2026 08:31
+5dadf3b6-964c-4228-99a9-fe1e62bde486,reeves.construction,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 09:55
 552dc5e8-eccf-476b-93c3-269dcaac39b6,amperage.construction,available,38.99,38.99,high,low,8,namesilo,,,18/09/2026 23:07
 63024746-b76f-4898-bd41-bce4d7c67765,gushy.construction,available,15.99,50.99,medium,low,5,name.com,,,20/08/2026 21:03
 5cdaf76d-9a11-4d52-a058-a7dd9c9cb410,grumbling.construction,available,15.99,50.99,medium,low,9,name.com,,,20/08/2026 20:33
-948ae553-b02a-4b23-8dbe-290137cffdff,fading.construction,available,38.99,38.99,medium,low,6,namesilo,,,21/09/2026 01:33
+948ae553-b02a-4b23-8dbe-290137cffdff,fading.construction,available,38.99,38.99,high,low,6,namesilo,,,21/09/2026 01:33
 f9dd80e0-8cd1-4b28-9b98-413b669ce411,memorise.construction,available,15.99,,high,low,8,name.com,,,
 f45b7806-13f9-4864-b25a-70348a949e24,mucky.construction,available,15.99,50.99,medium,low,5,name.com,,,10/08/2026 17:06
-bf24fb67-7b63-495b-8deb-77bf7606bc2e,vacuum.construction,available,15.99,,high,low,6,name.com,,,
+bf24fb67-7b63-495b-8deb-77bf7606bc2e,vacuum.construction,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 23:00
 68312a16-bbce-45f9-86e8-75693b96c433,ampere.construction,available,38.99,38.99,high,low,6,namesilo,,,18/09/2026 23:06
 84cf00d9-1a5b-44a8-8f6f-ea07ea05cfc4,war.construction,premium,118.8,118.8,high,low,3,namesilo,,,26/09/2026 00:24
 5cb95b9a-ce80-4541-95cc-7ed456536c79,anatomy.construction,available,40.98,50.98,high,low,7,namecheap,,,28/09/2026 21:14
@@ -439,8 +479,10 @@ a2f28192-988d-41e1-a2a2-ef221ad69948,transeunt.construction,available,40.98,50.9
 3f64332b-4bbc-4569-b904-2f12705a76e0,galangal.construction,available,15.99,50.99,medium,low,8,name.com,,,18/09/2026 14:03
 53965812-10b0-4841-af04-d2e28fd135f6,decolour.construction,available,38.99,38.99,medium,low,8,namesilo,,,24/09/2026 05:11
 6fd423b4-c5f4-4308-8794-8c4c911aa627,exposit.construction,available,15.99,50.99,medium,low,7,name.com,,,15/08/2026 23:47
+c73efa1f-29b2-4153-8140-5b56b8c7f061,scenarios.construction,available,31.25,31.25,medium,low,9,spaceship,,,29/09/2026 17:21
 97443d90-a58f-407d-ba03-9b4ef115f65b,sagging.construction,available,15.99,50.99,medium,low,7,name.com,,,14/08/2026 19:45
 73f0de7f-b7ce-4291-ad01-f2a624da7429,ineffably.construction,available,38.99,38.99,medium,low,9,namesilo,,,15/09/2026 07:55
+83fb7aef-58c3-4452-a428-df72eac2006c,semen.construction,available,31.25,31.25,medium,low,5,spaceship,,,29/09/2026 18:24
 b9d2e7ab-a1aa-4fbc-8417-763a68eb6130,aum.construction,available,38.99,38.99,high,low,3,namesilo,,,21/09/2026 04:10
 a4e1807b-c667-4a77-a954-011f72498263,cloudless.construction,available,15.99,50.99,high,low,9,name.com,,,12/08/2026 12:32
 cfd6e50d-d080-481c-b771-3e299adeb5f7,dangers.construction,available,38.99,38.99,medium,low,7,namesilo,,,18/09/2026 04:42
@@ -449,6 +491,7 @@ eb3efb26-65d3-45e7-a21d-d40c688c47b7,vixenish.construction,available,38.99,38.99
 cffb3e10-c1d0-469b-b846-b438947ad533,unladylike.construction,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 14:39
 b80f1489-078f-43a8-a3c3-0324ea0757d4,youngest.construction,available,15.99,,high,low,8,name.com,,,
 0cf00f95-b0c2-410f-975a-17f96e82c3e1,natty.construction,available,15.99,50.99,medium,low,5,name.com,,,13/08/2026 17:29
+95446996-b466-4374-9baa-05eeb6cf40a4,postcard.construction,available,8.75,31.41,high,low,8,porkbun,,,29/09/2026 13:21
 3653c406-76be-4f9a-9206-7387c9d9964f,breaker.construction,available,40.98,50.98,high,low,7,namecheap,,,24/09/2026 08:24
 d5835869-ccdd-4563-8aff-aebba722d02c,mta.construction,available,40.98,50.98,high,low,3,namecheap,,,28/09/2026 21:38
 04803711-92c2-4013-b060-99e02c45487d,accusative.construction,available,15.99,50.99,high,low,10,name.com,,,
@@ -462,10 +505,14 @@ d78a68a2-3eea-40c1-bed0-445a77109fc4,traded.construction,available,31.25,31.25,m
 70525dd6-35f6-4d8b-b338-0a1d41ab6a38,penial.construction,available,38.99,38.99,medium,low,6,namesilo,,,08/09/2026 14:23
 eabd654d-a830-4930-a5fe-d906cb0fe724,doug.construction,available,38.99,38.99,high,low,4,namesilo,,,25/09/2026 13:24
 3cc38720-c177-4db9-9f88-bd9596af3b52,strapless.construction,available,38.99,38.99,high,low,9,namesilo,,,10/09/2026 21:55
+c252ba4a-79cd-4e5a-b31d-4ae9cb2ccf15,folklore.construction,available,59.99,59.99,high,low,8,godaddy,,,30/09/2026 01:40
 6932f687-de59-486e-b662-e409764dc597,saurian.construction,available,15.99,50.99,medium,low,7,name.com,,,22/08/2026 17:55
+6c2780d6-b972-4833-aa7a-cc1e349f8859,cadets.construction,available,31.25,31.25,medium,low,6,spaceship,,,30/09/2026 00:49
 e553c874-2d62-49b6-886e-f0cbf8df8f68,cowboys.construction,available,38.99,38.99,high,low,7,namesilo,,,28/09/2026 12:01
+c444549e-b59d-45dc-b4ed-9e81954178f9,conn.construction,available,31.25,31.25,high,low,4,spaceship,,,29/09/2026 14:12
 17b3db03-0cc3-4eeb-ac24-81dd2f078e94,equivalent.construction,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 14:50
 8658a59c-9e73-4e32-9857-817b3fbda308,mon.construction,premium,78.54,78.54,high,low,3,namesilo,,,
+ed3f1857-a61e-473d-b556-1c6954c49dcd,thanked.construction,available,30.2,30.2,medium,low,7,cloudflare,,,29/09/2026 05:27
 bc4a1153-2a6f-40db-9485-1ab8d688c7fb,silkily.construction,available,38.99,38.99,medium,low,7,namesilo,,,16/09/2026 01:51
 f024e821-9c70-4d8b-a764-e24a1654df10,mistakenly.construction,available,38.99,38.99,medium,low,10,namesilo,,,14/09/2026 16:00
 fd43fb99-5e01-4981-9623-e805e2eb4f89,neighborly.construction,available,38.99,38.99,high,low,10,namesilo,,,03/09/2026 15:16
@@ -475,24 +522,29 @@ cad9d23c-6fa8-414a-9d7b-691b4c300930,laptops.construction,available,38.99,38.99,
 c1bdb909-2d76-4daa-950f-c5047583de03,pies.construction,available,15.99,,medium,low,4,name.com,,,
 1d7f1335-2b67-419a-acf8-c465755bfa75,abrupt.construction,available,15.99,50.99,high,low,6,name.com,,,
 c62b270b-52cc-4399-90e3-db33a27b4b4b,footling.construction,available,15.99,50.99,medium,low,8,name.com,,,18/08/2026 03:30
-01016264-32b0-45ab-927f-ff7f77574846,vermillion.construction,available,15.99,50.99,medium,low,10,name.com,,,12/08/2026 05:47
-0eb69d65-40c1-4820-9546-d877aaa9dcff,dazzled.construction,available,15.99,50.99,medium,low,7,name.com,,,13/08/2026 18:57
+01016264-32b0-45ab-927f-ff7f77574846,vermillion.construction,available,15.99,50.99,high,low,10,name.com,,,12/08/2026 05:47
+0eb69d65-40c1-4820-9546-d877aaa9dcff,dazzled.construction,available,15.99,50.99,high,low,7,name.com,,,13/08/2026 18:57
 71482a08-3a36-4d26-83fa-b8884378ac11,gross.construction,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 13:05
 026824e7-2b9b-45d7-aee1-6e0af8860476,sisyphean.construction,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 08:58
 2be21665-dedf-4fde-bb53-47cd6a3c4059,ignoring.construction,available,38.99,38.99,medium,low,8,namesilo,,,28/09/2026 11:32
+d2c537bb-00ac-471f-9b36-2a7cccd4e367,dionysius.construction,available,31.25,31.25,medium,low,9,spaceship,,,29/09/2026 06:39
 44eb9dad-7983-4bf3-8dad-2de4c848142f,inexplicit.construction,available,15.99,50.99,medium,low,10,name.com,,,21/08/2026 22:39
 cdcb84c4-1fae-4355-80bd-11a2497855de,unprovable.construction,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 17:29
-37167979-bfeb-411c-a15a-d83a23eab945,default.construction,available,15.99,,high,low,7,name.com,,,
+37167979-bfeb-411c-a15a-d83a23eab945,default.construction,available,30.2,30.2,high,low,7,cloudflare,,,29/09/2026 13:30
 4ff9379a-8858-4bce-abde-45abc9598460,herbs.construction,available,38.99,38.99,high,low,5,namesilo,,,17/09/2026 01:23
 c671dc81-6b9f-4432-ac9b-88dd3af5d8fd,cushioned.construction,available,15.99,50.99,high,low,9,name.com,,,13/08/2026 11:53
 d0acdef7-ad08-49ee-8676-d4a1c1a203a2,crossly.construction,available,38.99,38.99,low,low,7,namesilo,,,14/09/2026 09:42
 90de0935-7e63-4ef6-83e6-2ab71dfeb8ef,berbers.construction,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 23:24
 820dcf24-5511-4b10-a885-f330db3ca124,sinai.construction,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 09:30
 7b8a1b3f-972a-4436-b07b-73f354a12204,lamentably.construction,available,38.99,38.99,low,low,10,namesilo,,,14/09/2026 11:50
+e147863d-d10a-45fc-a76b-624b0d203e94,tempted.construction,available,40.98,50.98,medium,low,7,namecheap,,,29/09/2026 16:59
+ab0d2e7e-ad54-4295-91e9-6633817c0420,acad.construction,available,38.99,38.99,high,low,4,namesilo,,,29/09/2026 10:57
 a422641e-cd7d-4bfa-b146-0e90e0fef35c,acre.construction,available,31.25,31.25,high,low,4,spaceship,,,28/09/2026 17:21
+a274a962-5a6a-4254-91ea-76a5ba7fa88b,sultan.construction,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 12:57
 7198df60-f886-4d86-bcdc-10b92894965f,citibank.construction,available,,,high,medium,8,,,,
-294d71b4-0732-43d8-ae3d-45965aea6c7b,condolence.construction,available,15.99,,high,low,10,name.com,,,
+294d71b4-0732-43d8-ae3d-45965aea6c7b,condolence.construction,available,38.99,38.99,high,low,10,namesilo,,,29/09/2026 10:42
 23a436e1-8c91-475e-a1be-6fc4c92752b7,cantaloup.construction,available,38.99,38.99,high,low,9,namesilo,,,24/09/2026 12:08
+4b9121b0-42ed-46f6-aa8c-004e0558794c,fulfilling.construction,available,40.98,50.98,high,low,10,namecheap,,,29/09/2026 21:22
 764c4f10-4c3a-4f66-b828-3b4b83c8d3dc,separation.construction,available,15.99,,high,low,10,name.com,,,
 ce90fd25-d4e7-4606-a16b-eb50107654af,trillionaire.construction,available,15.99,,high,low,12,name.com,,,
 823a445f-ec8d-4947-9984-392fdffb6044,pressure.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 23:12
@@ -515,7 +567,7 @@ c33b3c3b-6430-4f61-9293-c94fbbd1f170,hostesses.construction,available,38.99,38.9
 23174c9f-f3b6-4d08-a1a6-1e7c22969cc5,holly.construction,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 05:03
 2d5a7607-6cab-4243-8535-97fa02bb2d16,mobile.construction,premium,128.7,128.7,high,medium,6,namecheap,,,25/09/2026 21:00
 3dd155b1-1f11-4770-9544-8c210ac0520b,blither.construction,available,38.99,38.99,medium,low,7,namesilo,,,24/09/2026 04:54
-0b3acc86-a9d0-4b57-a1e9-816980c7946e,airworthy.construction,available,15.99,50.99,medium,low,9,name.com,,,
+0b3acc86-a9d0-4b57-a1e9-816980c7946e,airworthy.construction,available,15.99,50.99,high,low,9,name.com,,,
 d9756f09-1acb-4935-b44e-3cd243d1324a,marching.construction,available,59.99,59.99,high,low,8,godaddy,,,28/09/2026 02:19
 72d6858b-963f-4793-b327-eadeaa7bb540,continuously.construction,available,15.99,,medium,low,12,name.com,,,
 9713b120-c5cd-45e8-8f0c-5c440df941eb,delighted.construction,available,15.99,50.99,high,low,9,name.com,,,09/08/2026 10:01
@@ -524,12 +576,12 @@ d9756f09-1acb-4935-b44e-3cd243d1324a,marching.construction,available,59.99,59.99
 250f378f-531e-4a35-9c28-2eb7959d6262,lane.construction,available,15.99,,high,low,4,name.com,,,
 bb4088a9-6a59-4608-96d6-48bf26b22aa1,genial.construction,available,38.99,38.99,high,low,6,namesilo,,,21/09/2026 21:42
 18f0c2dd-402c-4922-a88e-6da6b9d92313,diluted.construction,available,15.99,50.99,medium,low,7,name.com,,,14/08/2026 07:45
-b8247dc7-f551-4a43-872c-25cc092e5e49,jupiter.construction,available,,,high,low,7,,,,
-3526cba5-58ca-43b9-9d27-27c2f6cd589e,gratuitous.construction,available,15.99,50.99,medium,low,10,name.com,,,13/08/2026 03:14
+3526cba5-58ca-43b9-9d27-27c2f6cd589e,gratuitous.construction,available,15.99,50.99,high,low,10,name.com,,,13/08/2026 03:14
+eedfd5a8-3c91-4aae-9cd1-99b48b7acb32,lytton.construction,available,38.99,38.99,medium,low,6,namesilo,,,30/09/2026 00:54
 482f6e5b-60cf-4959-9a06-90e0766bd355,auction.construction,resell,,,high,low,7,"GoDaddy.com, LLC",20/02/2014 07:25,20/02/2027 07:25,26/09/2026 04:07
 cd38d0ee-e0b7-462d-9f50-b173d30d64f9,scandal.construction,available,15.99,,high,low,7,name.com,,,
 c21baeb3-f3d0-4911-a6f3-6e7536b07e10,cosigner.construction,available,15.99,50.99,medium,low,8,name.com,,,13/08/2026 02:49
-8c64e8ed-e2eb-46d8-9a9d-ba0a16318902,passion.construction,available,15.99,,high,low,7,name.com,,,
+8c64e8ed-e2eb-46d8-9a9d-ba0a16318902,passion.construction,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 05:44
 f791fa4e-e2c1-4706-a06f-314ad3a963c0,feathered.construction,available,15.99,50.99,high,low,9,name.com,,,18/08/2026 00:19
 b9bbb95a-2f8d-4ade-80b2-5827b9219f6a,asphodel.construction,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 15:08
 18dd5674-ef79-46c0-b032-ac0fc02e83de,zoftig.construction,available,38.99,38.99,medium,low,6,namesilo,,,13/09/2026 14:58
@@ -555,7 +607,7 @@ d72760e7-cc85-4ceb-917f-15ac1559485b,prodromal.construction,available,38.99,38.9
 b0cb5f72-210c-4daf-8fe5-125f4fa8e57c,barky.construction,available,15.99,50.99,medium,low,5,name.com,,,08/08/2026 19:46
 eff856b0-e564-400a-bbb8-4da656cccbb8,elapsed.construction,available,15.99,50.99,medium,low,7,name.com,,,16/08/2026 00:41
 7866af42-882b-49b2-87db-1c22dbe465a2,unsuitable.construction,available,15.99,50.99,medium,low,10,name.com,,,22/08/2026 00:19
-41a0ce37-b109-41d2-825f-1c6d36034073,dickens.construction,available,15.99,,high,low,7,name.com,,,
+41a0ce37-b109-41d2-825f-1c6d36034073,dickens.construction,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 08:15
 89bfa324-3d28-45cd-9ee0-a29bdefd0b48,rotate.construction,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 02:43
 c89cb7d2-f16f-4434-8aaa-34e499278644,sear.construction,available,15.99,50.99,medium,low,4,name.com,,,14/08/2026 19:05
 62c7befd-b286-427a-ad71-b7ceadeb02f1,scurvy.construction,available,15.99,50.99,medium,low,6,name.com,,,
@@ -568,6 +620,8 @@ e4a5478c-3abb-4ec8-8b80-23f03bdade5e,pick.construction,available,38.99,38.99,hig
 4202cfa4-4c91-4e14-9b10-d46e43dccee9,nike.construction,available,,,high,high,4,,,,
 a4306cee-94ff-47fe-a76d-5c68de24c9ea,inspiration.construction,available,15.99,,high,low,11,name.com,,,
 31918e92-9013-4c83-8f63-c79f2c85342b,aberdonian.construction,available,15.99,50.99,medium,low,10,name.com,,,
+ac2e8344-6c83-4dba-946f-da2da6cafbb6,depended.construction,available,38.99,38.99,medium,low,8,namesilo,,,29/09/2026 17:13
+4af61848-3688-4a8e-8f25-557833df71f3,presidency.construction,available,38.99,38.99,high,low,10,namesilo,,,29/09/2026 13:43
 e491f1b0-d0ba-4509-93ae-cab1196fe2a8,evince.construction,available,15.99,50.99,high,low,6,name.com,,,17/08/2026 18:43
 5574cda7-9e83-47b1-84c9-c4149b3ce74d,cultured.construction,available,38.99,38.99,high,low,8,namesilo,,,08/09/2026 09:18
 9244c0c5-78af-49c5-81a7-a4ed02d41c7d,bead.construction,available,31.25,31.25,high,low,4,spaceship,,,29/09/2026 01:38
@@ -586,14 +640,16 @@ efd94f7e-3ced-4cb7-9bf8-afe1e78235f7,underway.construction,available,38.99,38.99
 61ab04bb-1aa0-4a1a-a5a8-8ef8e6457948,disks.construction,available,40.98,50.98,medium,low,5,namecheap,,,18/09/2026 11:49
 8ba0ed48-1803-4ae8-bb96-74b28cec5904,cadge.construction,available,15.99,50.99,medium,low,5,name.com,,,11/08/2026 09:28
 da06ba55-9e5c-4bad-bc8f-1389dd02a5e7,hooved.construction,available,15.99,50.99,medium,low,6,name.com,,,21/08/2026 13:42
+ea38114a-e211-4d5c-813a-afd41b6b5157,dea.construction,available,8.78,32.21,high,low,3,dynadot,,,30/09/2026 01:16
 35b23349-3825-491e-9347-175fb4f6d9dc,hinder.construction,available,38.99,38.99,high,low,6,namesilo,,,24/09/2026 23:48
 af6d40f6-f65e-4cd4-b4a8-40f7a782830d,synovial.construction,available,15.99,50.99,medium,low,8,name.com,,,11/09/2026 06:37
+28e14aa2-8b62-44c5-810a-67f9a55e32d8,overload.construction,available,8.78,32.21,high,low,8,dynadot,,,29/09/2026 13:38
 e43726db-4702-4cf8-8973-fa2cde3a7d27,martini.construction,available,30.2,30.2,high,low,7,cloudflare,,,28/09/2026 14:50
 c7ac3850-f174-48de-9e7b-3c940074c4b7,rotten.construction,available,38.99,38.99,high,low,6,namesilo,,,24/09/2026 01:35
 84cc16b2-9a8d-4de5-90bb-90d1118a69d1,fax.construction,premium,,,high,low,3,,,,28/09/2026 14:07
 40221993-eb84-46ca-bf38-cf96ddd0969d,biotech.construction,available,40.98,50.98,high,low,7,namecheap,,,23/09/2026 19:06
 fa740778-1169-4d01-8d6e-c6fa7789c6a2,atlantis.construction,premium,118.8,118.8,high,low,8,namesilo,,,20/09/2026 21:45
-49b13b1b-bd0a-448f-b150-c48231446ae6,fridge.construction,available,15.99,,high,low,6,name.com,,,
+49b13b1b-bd0a-448f-b150-c48231446ae6,fridge.construction,available,8.78,32.21,high,low,6,dynadot,,,29/09/2026 17:57
 6454acaf-727e-4b8c-93ae-4abab1947ffc,rim.construction,premium,118.8,118.8,high,low,3,namesilo,,,24/09/2026 10:31
 230e61d8-f7b0-465c-bfc6-946cc9f82811,beefeater.construction,available,38.99,38.99,medium,low,9,namesilo,,,23/09/2026 01:09
 938c44ba-a526-47d5-8f6c-b229707f60f2,mutter.construction,available,38.99,38.99,high,low,6,namesilo,,,03/09/2026 11:12
@@ -611,13 +667,14 @@ dcfe8ed2-f702-4ece-b78b-7ca980c0e6c1,achievement.construction,available,31.25,31
 819474ee-79b8-413f-a8bd-9d5be81467f6,initiative.construction,available,40.98,50.98,high,low,10,namecheap,,,19/09/2026 04:32
 aa5e72c9-e5e2-4248-adf3-97290b7ef7c5,aeschylus.construction,available,38.99,38.99,medium,low,9,namesilo,,,17/09/2026 13:19
 22a052ad-ab89-45d1-8ede-869c8937cecb,clog.construction,available,40.98,50.98,high,low,4,namecheap,,,24/09/2026 15:50
-5040caa9-5fa5-43fd-bb5c-c4447d9c015f,legged.construction,available,15.99,50.99,medium,low,6,name.com,,,22/08/2026 22:55
+5040caa9-5fa5-43fd-bb5c-c4447d9c015f,legged.construction,available,15.99,50.99,high,low,6,name.com,,,22/08/2026 22:55
 287053df-8741-4bce-8332-caa19b478b5e,eta.construction,premium,85.8,85.8,high,low,3,namecheap,,,22/09/2026 11:43
+d871face-bde5-4b97-90e4-969cbfcdd53a,billions.construction,available,8.78,32.21,medium,low,8,dynadot,,,29/09/2026 06:04
 2d4d07fb-a1a0-4ee2-9e37-318085dcd7c5,diseased.construction,available,15.99,50.99,medium,low,8,name.com,,,14/08/2026 10:08
 f72db2ca-a289-4d6b-920d-40a2a6d342bc,indoaryan.construction,available,15.99,50.99,medium,low,10,name.com,,,06/08/2026 23:56
 52a9a795-e1f0-4f8f-8d50-af796b736c84,begins.construction,available,40.98,50.98,medium,low,6,namecheap,,,25/09/2026 20:45
-4d14daba-a18f-44f7-a28a-9673ea72be8f,hug.construction,premium,78.54,78.54,high,low,3,namesilo,,,
-5819b21a-d5b4-4bbf-9850-68f68139794a,cincinnati.construction,premium,118.8,118.8,high,low,10,namesilo,,,
+4d14daba-a18f-44f7-a28a-9673ea72be8f,hug.construction,premium,72.6,72.6,high,low,3,dynadot,,,29/09/2026 23:17
+5819b21a-d5b4-4bbf-9850-68f68139794a,cincinnati.construction,premium,118.8,118.8,high,low,10,namesilo,,,29/09/2026 09:12
 c497cc17-a9d5-4de6-9235-4cb90a1a328c,outspoken.construction,available,15.99,50.99,high,low,9,name.com,,,11/08/2026 16:45
 fbdf704b-4048-4cf3-88e3-efd97425b717,shrine.construction,available,38.99,38.99,high,low,6,namesilo,,,28/09/2026 10:54
 b7128751-d5fe-445e-b699-d8b2a2cf5ca0,tied.construction,available,15.99,50.99,high,low,4,name.com,,,22/08/2026 17:45
@@ -635,12 +692,15 @@ bc343715-9935-4894-8af2-e06aa0244469,kuwaiti.construction,available,15.99,50.99,
 16b1ff06-4c29-4d5d-84b5-14442a3ca3b6,waxy.construction,available,15.99,50.99,medium,low,4,name.com,,,09/08/2026 14:13
 677f3636-4332-4a71-b046-0c56fbff43bc,easter.construction,available,38.99,38.99,high,low,6,namesilo,,,24/09/2026 13:11
 48caae07-f968-40d6-9327-9ea6c010d274,smiths.construction,premium,85.8,85.8,medium,low,6,namecheap,,,19/09/2026 22:24
+a6ff7a6f-014b-4e80-88bb-a2f7e60962a1,isomers.construction,available,30.2,30.2,medium,low,7,cloudflare,,,29/09/2026 11:02
 2337094b-6dc0-498b-a1f0-b5e19a68027f,recap.construction,available,15.99,,high,low,5,name.com,,,
 86b620e4-c1c1-4638-8c35-dd2e98dccb4f,arming.construction,available,38.99,38.99,high,low,6,namesilo,,,20/09/2026 07:11
 8b39e140-f24a-4371-b739-5302bcb7c5a4,avowal.construction,available,38.99,38.99,medium,low,6,namesilo,,,17/09/2026 14:26
 d7891226-4483-4122-814f-ce0684c2e678,spiritous.construction,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 16:00
 96f62c90-54f0-4615-808f-8e9ceae49868,seedless.construction,available,38.99,38.99,high,low,8,namesilo,,,10/09/2026 01:45
-efc9b362-59e3-47c8-9658-0ae546b21619,peterborough.construction,premium,78.54,78.54,medium,low,12,namesilo,,,28/09/2026 07:36
+1f1f9360-e02d-44ae-b074-140ba0e02bc8,derrida.construction,available,8.78,32.21,medium,low,7,dynadot,,,29/09/2026 18:37
+a5338097-7f37-48fa-a005-58a358d02776,emmy.construction,available,8.78,32.21,high,low,4,dynadot,,,29/09/2026 06:46
+efc9b362-59e3-47c8-9658-0ae546b21619,peterborough.construction,premium,78.54,78.54,high,low,12,namesilo,,,28/09/2026 07:36
 30062751-f10f-4d7a-8790-1854fed0c848,kenneth.construction,premium,85.8,85.8,high,low,7,namecheap,,,25/09/2026 19:13
 ac50c71c-d353-4965-860f-c2038eb3637e,claus.construction,available,38.99,38.99,medium,low,5,namesilo,,,27/09/2026 02:28
 d08b06c8-2a7e-4ab3-b6cb-f1752ca28d2b,scanning.construction,available,38.99,38.99,high,low,8,namesilo,,,28/09/2026 15:18
@@ -649,6 +709,7 @@ f2f55703-32c7-452c-af8d-b96d47a4ef4c,volition.construction,available,38.99,38.99
 48ca4eb6-d23d-4000-9b01-95210c758a03,osman.construction,available,8.78,32.21,medium,low,5,dynadot,,,28/09/2026 22:06
 add3815b-1315-4ce7-bec0-ac3594aae15b,unbolted.construction,available,38.99,38.99,medium,low,8,namesilo,,,12/09/2026 01:36
 acccedbb-d536-49d5-9f45-d0bef4ff2741,broadleaf.construction,available,15.99,50.99,high,low,9,name.com,,,11/08/2026 04:57
+d83b69e5-0754-418f-944f-fdf6200ec3a8,bader.construction,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 21:34
 a26b7d7f-5a12-42ce-b7d9-4f380effd463,jared.construction,available,40.98,50.98,high,low,5,namecheap,,,27/09/2026 11:10
 c57cfe9d-201f-4a2b-a56a-b36f1d29c99b,intertidal.construction,available,15.99,50.99,high,low,10,name.com,,,22/08/2026 08:21
 a53d73d1-e0ce-497c-a4e2-b460fb396225,serbs.construction,available,38.99,38.99,medium,low,5,namesilo,,,20/09/2026 12:11
@@ -661,15 +722,16 @@ fa636be7-28a7-4eb6-abe7-ddd782c2f277,biplane.construction,available,,,high,low,7
 f9c554cb-4959-4008-908e-24f857c8f3d7,ashtray.construction,available,38.99,38.99,high,low,7,namesilo,,,20/09/2026 14:02
 37111876-a391-4a4b-81ac-00b9304860ff,ones.construction,available,15.99,,high,low,4,name.com,,,
 c1f59873-e774-4dae-b26f-55a7e5ed656f,misguided.construction,available,15.99,50.99,medium,low,9,name.com,,,21/08/2026 18:57
-38392096-6389-44f5-ace4-15314fea4078,hater.construction,available,15.99,,medium,low,5,name.com,,,
+38392096-6389-44f5-ace4-15314fea4078,hater.construction,available,38.99,38.99,medium,low,5,namesilo,,,29/09/2026 22:19
 484b7a2f-6987-40c4-b263-421aa7b99b80,wednesday.construction,available,38.99,38.99,high,low,9,namesilo,,,13/09/2026 09:32
 24a05400-e88c-4d1c-8bcf-548a2e34dd4e,generously.construction,available,15.99,50.99,high,low,10,name.com,,,14/09/2026 21:14
 018f2a5a-c6e6-4b49-85fa-aee03c2ac233,catastrophe.construction,available,8.75,31.41,medium,low,11,porkbun,,,28/09/2026 22:54
 08acbb84-648f-46f7-ae60-d5d5d61ae737,bunco.construction,available,38.99,38.99,medium,low,5,namesilo,,,14/09/2026 07:59
 d41ff94c-6998-4b7b-944f-3a111658a188,glued.construction,available,15.99,50.99,high,low,5,name.com,,,20/08/2026 15:12
+074f0f9f-877e-406b-8137-f0e3365a27bc,vinyl.construction,available,8.75,31.41,high,low,5,porkbun,,,29/09/2026 20:35
 5250ff61-63c4-4642-ae0b-c6ec9d3e74b8,variables.construction,available,15.99,,medium,low,9,name.com,,,
 ea371935-3b73-4b53-b919-603dae623b28,acts.construction,available,30.2,30.2,high,low,4,cloudflare,,,28/09/2026 18:10
-33be589f-c15f-47f4-aa86-8e6d8e2a485a,idiomatic.construction,available,15.99,50.99,medium,low,9,name.com,,,21/08/2026 18:07
+33be589f-c15f-47f4-aa86-8e6d8e2a485a,idiomatic.construction,available,15.99,50.99,high,low,9,name.com,,,21/08/2026 18:07
 607afcba-b0ea-4c1b-af5e-be033359d0cd,epos.construction,available,15.99,50.99,high,low,4,name.com,,,17/08/2026 10:28
 713f5d00-1b37-4f7a-aa4c-624e6e7bf84e,squatting.construction,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 17:35
 98ebd2c7-7729-4bb3-9c41-b1d9ef913c2d,beagle.construction,available,40.98,50.98,high,low,6,namecheap,,,22/09/2026 19:37
@@ -681,15 +743,16 @@ fe68daa1-f9f8-403c-8a51-581964ced20b,sheriff.construction,available,38.99,38.99,
 8ed09cc3-9c36-412f-8dbb-880c589228e9,acrylic.construction,available,15.99,50.99,high,low,7,name.com,,,17/09/2026 04:05
 5980f89a-904e-46a6-bab9-430f37d20c70,fatten.construction,available,15.99,50.99,medium,low,6,name.com,,,17/08/2026 23:09
 fbe9f3b8-53ac-4f29-a1cb-360fd62e90cf,comparison.construction,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 16:42
-abb6c839-60cc-46bc-95ae-48695fb62e5e,earliest.construction,available,40.98,50.98,medium,low,8,namecheap,,,24/09/2026 12:55
+abb6c839-60cc-46bc-95ae-48695fb62e5e,earliest.construction,available,40.98,50.98,high,low,8,namecheap,,,24/09/2026 12:55
 1ff0de1f-d382-4b3a-99d2-08e6080a078f,gushing.construction,available,15.99,50.99,high,low,7,name.com,,,11/08/2026 10:18
 2a881ab4-8f21-4732-946c-111cd4c61733,instructed.construction,available,30.2,30.2,medium,low,10,cloudflare,,,28/09/2026 04:56
+a6cdd80f-597f-484d-bf53-5e61482a6059,gravitational.construction,available,40.98,50.98,medium,low,13,namecheap,,,29/09/2026 10:18
 b5b79f36-176b-4e29-8870-9eaf20214bad,babble.construction,available,38.99,38.99,high,low,6,namesilo,,,21/09/2026 12:19
 ee23984a-d63a-4950-9640-7482fa19cdee,bloomfield.construction,available,38.99,38.99,high,low,10,namesilo,,,25/09/2026 21:57
 a474bf00-27d9-4465-b6ea-d79ae8ef646e,overblown.construction,available,40.98,50.98,medium,low,9,namecheap,,,04/09/2026 20:19
 714a7ffe-6ba6-49f8-b1ee-82fd5fbae472,variant.construction,available,38.99,38.99,high,low,7,namesilo,,,13/09/2026 01:15
 66d6d152-b141-4ab1-b27e-8bd418fb07d0,mortified.construction,available,15.99,50.99,medium,low,9,name.com,,,18/08/2026 20:17
-be7226a9-5cfa-4652-bac0-440758ccb6cb,crystal.construction,premium,123.75,,high,low,7,name.com,,,
+be7226a9-5cfa-4652-bac0-440758ccb6cb,crystal.construction,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 12:25
 085b7aec-93b6-4b40-a87e-66fdaa6e888a,patches.construction,available,38.99,38.99,high,low,7,namesilo,,,17/09/2026 08:45
 755cf3d7-8956-4979-ae94-3eb04006c719,suggested.construction,available,38.99,38.99,medium,low,9,namesilo,,,18/09/2026 13:48
 f94ba13f-9720-4389-872c-d31de9773b97,unsavory.construction,available,15.99,50.99,medium,low,8,name.com,,,14/08/2026 13:05
@@ -698,40 +761,43 @@ f94ba13f-9720-4389-872c-d31de9773b97,unsavory.construction,available,15.99,50.99
 1a16bb23-afd4-440b-a839-9ffbf9edb812,unparallel.construction,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 16:27
 d9054499-a318-4635-89ac-02321265875f,brockhouse.construction,available,38.99,38.99,medium,low,10,namesilo,,,23/09/2026 10:18
 a84eee11-7d9a-43b7-817f-86ea7cb59c44,unharmed.construction,available,38.99,38.99,high,low,8,namesilo,,,12/09/2026 12:00
-8c56a988-d58e-44e6-bba3-b0664e76b437,buyer.construction,available,15.99,,high,low,5,name.com,,,
+e71f322c-ee18-4abf-b059-470a28a8c7fc,origen.construction,available,8.78,32.21,high,low,6,dynadot,,,29/09/2026 13:37
+8c56a988-d58e-44e6-bba3-b0664e76b437,buyer.construction,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 05:39
 695362fe-04f3-4120-b0fb-95890595e2b6,promethium.construction,available,38.99,38.99,medium,low,10,namesilo,,,20/09/2026 23:23
 b84e2525-2532-494e-9f8b-deafb0b0244d,forbidding.construction,available,15.99,50.99,medium,low,10,name.com,,,18/08/2026 11:08
 38f88dab-7a83-464f-bc53-9a1d5a596250,dummy.construction,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 12:20
 c5149f35-d6f2-4f19-a4ae-4cc37148f858,darkened.construction,available,15.99,50.99,medium,low,8,name.com,,,13/08/2026 18:08
 5810508c-bd78-4506-b6dd-ba832adc1c45,annette.construction,available,8.78,32.21,medium,low,7,dynadot,,,28/09/2026 04:47
 a8d287f6-ecbc-4bb0-826c-ddb8a9654a5a,alain.construction,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 07:38
+b469e879-bfcc-4bc5-81af-3e704d360550,delaware.construction,premium,78.54,78.54,high,low,8,namesilo,,,29/09/2026 06:32
 a14e2db2-695d-4ba6-8ccd-b88e7282a7bd,wives.construction,available,15.99,,medium,low,5,name.com,,,
 b616699a-8671-442d-a0b5-3851bf8b8922,lurk.construction,available,38.99,38.99,high,low,4,namesilo,,,11/09/2026 08:38
-edb6171d-0d32-4af6-8678-cba6fe43fa73,rhymed.construction,available,15.99,50.99,medium,low,6,name.com,,,09/09/2026 16:51
+edb6171d-0d32-4af6-8678-cba6fe43fa73,rhymed.construction,available,15.99,50.99,high,low,6,name.com,,,09/09/2026 16:51
 13c342f9-867f-451c-aec4-a14d526062e6,accurately.construction,available,38.99,38.99,high,low,10,namesilo,,,28/09/2026 11:42
 42ca39b2-3d36-4bdf-bf3a-67356f9ae7ff,valueable.construction,available,15.99,,medium,low,9,name.com,,,
 b2abc990-e285-407c-92a5-2ed9765e6880,passionate.construction,available,38.99,38.99,high,low,10,namesilo,,,27/09/2026 02:53
 bc2f9254-e690-4104-a559-257218ddb8e7,nobelium.construction,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 21:58
-05e000c9-e63b-47df-a6a3-b973a79e4bf7,probation.construction,available,8.75,31.41,medium,low,9,porkbun,,,28/09/2026 10:46
+05e000c9-e63b-47df-a6a3-b973a79e4bf7,probation.construction,available,8.75,31.41,high,low,9,porkbun,,,28/09/2026 10:46
 7c36f637-5071-41a0-b792-9281eda4f595,heels.construction,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 10:19
 6077ce95-6265-47ff-a025-e5488fd0ee9d,zealously.construction,available,38.99,38.99,medium,low,9,namesilo,,,16/09/2026 11:50
 c063ad93-50aa-4c37-8bb4-688b5539adda,ninefold.construction,available,38.99,38.99,medium,low,8,namesilo,,,03/09/2026 17:31
 b3f7a7fb-59a8-45c2-b325-fc22df645eca,voluntary.construction,available,38.99,38.99,high,low,9,namesilo,,,13/09/2026 07:07
 062058a6-23ab-455b-8aa4-f13a45e3aa7a,reasonless.construction,available,15.99,50.99,medium,low,10,name.com,,,11/08/2026 22:42
+c047ade7-c738-454d-a177-866ae411ff69,heroine.construction,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 07:16
 6a4bbad9-f14d-475a-944a-1f03772f832a,braless.construction,available,15.99,50.99,low,low,7,name.com,,,08/08/2026 18:29
 a051cd93-93ab-4758-a7fb-e662b2163dc3,usb.construction,available,40.98,50.98,high,low,3,namecheap,,,28/09/2026 03:21
 dce50488-2ea3-49d1-9ad7-8aa9f66bd84f,visibly.construction,available,38.99,38.99,medium,low,7,namesilo,,,16/09/2026 11:04
-ac9e9673-1a99-4a9a-9fd8-40ca4c71b0c8,hanukah.construction,available,15.99,,high,low,7,name.com,,,
+41174bbc-83e7-41ce-9d4e-decd32e9efb1,sponsors.construction,available,38.99,38.99,medium,low,8,namesilo,,,29/09/2026 11:40
 94bc80ee-c545-444f-80d9-76daaa15fe17,takes.construction,available,15.99,,medium,low,5,name.com,,,
 3c551809-643c-486e-9688-6eac2430c5f6,injection.construction,available,30.2,30.2,high,low,9,cloudflare,,,28/09/2026 06:02
 3f5a8cd1-3769-41d9-a5ae-2a6178dcb629,pitt.construction,available,40.98,50.98,high,low,4,namecheap,,,25/09/2026 06:04
 8fa1dcfd-8995-4405-a575-2641c3e91788,looker.construction,available,15.99,50.99,high,low,6,name.com,,,22/08/2026 16:48
 6517abba-de74-4f32-8c68-b6b0013efd62,daddy.construction,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 04:35
-50864027-06a3-4d91-a838-ba0691f0de9d,ably.construction,available,15.99,50.99,medium,low,4,name.com,,,13/09/2026 16:20
+50864027-06a3-4d91-a838-ba0691f0de9d,ably.construction,available,15.99,50.99,high,low,4,name.com,,,13/09/2026 16:20
 60f174ef-3a61-46dd-a0ac-740c00d506b4,restructure.construction,available,15.99,,high,low,11,name.com,,,
 c709d6d1-5495-45c4-83b3-09dcca3bb234,advantages.construction,available,40.98,50.98,medium,low,10,namecheap,,,17/09/2026 07:07
 aebf23d3-7c98-4a5e-8bd4-ed2635e607ef,molto.construction,available,38.99,38.99,medium,low,5,namesilo,,,15/09/2026 15:19
-22d707d5-543e-47f5-af22-170a7beb0cc9,hedge.construction,available,15.99,,high,low,5,name.com,,,
+22d707d5-543e-47f5-af22-170a7beb0cc9,hedge.construction,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 22:33
 b79cb904-035b-4c4e-a531-40f322b78fb3,locations.construction,available,30.2,30.2,medium,low,9,cloudflare,,,28/09/2026 17:11
 ff21bd9f-bb41-4b8a-a70d-c228e56ef95e,insult.construction,available,40.98,50.98,high,low,6,namecheap,,,17/09/2026 14:53
 277105c4-522a-4de1-8c1a-33626c5e132d,hardy.construction,available,38.99,38.99,high,low,5,namesilo,,,22/09/2026 12:21
@@ -740,17 +806,18 @@ c2c88776-0537-48ab-b00b-88f8c37c4e12,lingually.construction,available,38.99,38.9
 6fa4fb6d-7cd6-463f-88c7-21e84bceeccd,splurge.construction,available,40.98,50.98,high,low,7,namecheap,,,23/09/2026 17:20
 86071b5b-02c6-44a1-87f7-433752db2036,absorber.construction,available,40.98,50.98,high,low,8,namecheap,,,16/09/2026 18:17
 b464e6e2-ff60-4e70-9d53-0f4d7e7cf670,lap.construction,premium,78.54,78.54,high,low,3,namesilo,,,28/09/2026 02:11
-6390c391-e3da-4197-b899-0e5f7d042521,spirit.construction,available,15.99,,high,low,6,name.com,,,
+6390c391-e3da-4197-b899-0e5f7d042521,spirit.construction,available,38.99,38.99,high,medium,6,namesilo,,,29/09/2026 15:41
 d3f36d14-af9e-42fb-9828-1b20fa10de37,oblige.construction,available,38.99,38.99,high,low,6,namesilo,,,03/09/2026 23:41
 128bf189-f32a-43fb-b793-dc47dec02fc6,julien.construction,available,31.25,31.25,high,low,6,spaceship,,,28/09/2026 03:56
 379038ae-cdb3-4ce0-8bd3-a6a175353e6d,scholarship.construction,available,38.99,38.99,high,low,11,namesilo,,,28/09/2026 03:18
-53bc527f-7f2c-47ac-81d4-3842784e5dad,mincing.construction,available,15.99,50.99,medium,low,7,name.com,,,13/08/2026 15:43
+53bc527f-7f2c-47ac-81d4-3842784e5dad,mincing.construction,available,15.99,50.99,high,low,7,name.com,,,13/08/2026 15:43
 e2d33c8c-378e-43bc-9877-808e07b45ea5,eased.construction,available,15.99,50.99,high,low,5,name.com,,,
 846544ab-4866-4378-bd91-b7a42bca1067,twisting.construction,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 21:52
 6b6433a9-4183-4b53-bcb4-9b9ffc6b7a7b,barbary.construction,available,38.99,38.99,medium,low,7,namesilo,,,22/09/2026 04:32
 ab6154a1-50d2-448c-a4ad-6b5cb92e591b,foldaway.construction,available,15.99,50.99,high,low,8,name.com,,,18/08/2026 10:07
-d580e338-f513-445b-bd47-badea6d9fa23,bagpiper.construction,available,40.98,50.98,medium,low,8,namecheap,,,21/09/2026 18:28
+d580e338-f513-445b-bd47-badea6d9fa23,bagpiper.construction,available,40.98,50.98,high,low,8,namecheap,,,21/09/2026 18:28
 be54b59f-75ea-4889-a157-2be09a4c72ce,tartaric.construction,available,38.99,38.99,medium,low,8,namesilo,,,11/09/2026 08:48
+43df27df-a7e9-47ec-b113-eb755487c9f7,honours.construction,available,38.99,38.99,high,low,7,namesilo,,,30/09/2026 01:53
 d6b6739e-3880-4497-b6d3-17348679804d,hiatus.construction,available,38.99,38.99,high,low,6,namesilo,,,16/09/2026 14:09
 1407357c-ee34-4761-aee8-a35cd942c27b,heady.construction,available,15.99,50.99,medium,low,5,name.com,,,18/08/2026 10:29
 da702c3d-feba-4c55-94ea-566ee5a95dd9,febrile.construction,available,15.99,50.99,medium,low,7,name.com,,,18/08/2026 00:27
@@ -758,6 +825,7 @@ da702c3d-feba-4c55-94ea-566ee5a95dd9,febrile.construction,available,15.99,50.99,
 86fe740b-5620-46be-ac50-bd0afc021e92,weigh.construction,available,31.25,31.25,high,low,5,spaceship,,,28/09/2026 02:22
 a28c08ef-4c46-4de2-b47c-933ad66f9c0f,astronaut.construction,available,40.98,50.98,high,low,9,namecheap,,,20/09/2026 17:56
 a6071d73-127b-4037-941a-3533a3a8d2c8,baleen.construction,available,38.99,38.99,medium,low,6,namesilo,,,21/09/2026 21:51
+5f11a7fe-f0f2-427c-a276-8ca7b5c25fdf,sinatra.construction,available,30.2,30.2,high,low,7,cloudflare,,,29/09/2026 18:57
 203d2def-7503-4a74-8a28-4930549a8be2,langdon.construction,available,38.99,38.99,medium,low,7,namesilo,,,28/09/2026 16:35
 c46bca21-cc42-4dd6-bc98-5d05e9e25132,queenlike.construction,available,38.99,38.99,medium,low,9,namesilo,,,09/09/2026 07:54
 63dc8fdd-2862-4647-b7d8-435dac9fd00c,latter.construction,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 13:08
@@ -766,7 +834,7 @@ da3cf907-ad87-414b-8a42-af04709a3831,incisively.construction,available,38.99,38.
 ecc828f7-d8d9-443e-aa9d-78db2e565447,piddle.construction,available,38.99,38.99,low,low,6,namesilo,,,13/09/2026 08:06
 056a533b-7b3b-4b0c-8495-b19110ce3329,empowering.construction,available,15.99,,high,low,10,name.com,,,
 358e0527-b836-460d-842a-0baefc0809b2,crusted.construction,available,15.99,50.99,medium,low,7,name.com,,,13/08/2026 09:22
-e540b2d3-c750-459c-b6fa-2cc0b04bd1e0,santa.construction,available,15.99,,high,low,5,name.com,,,
+e540b2d3-c750-459c-b6fa-2cc0b04bd1e0,santa.construction,available,30.2,30.2,high,low,5,cloudflare,,,29/09/2026 19:01
 25635866-c2e0-44d0-b636-199f08c22ce1,tandem.construction,available,38.99,38.99,high,low,6,namesilo,,,15/09/2026 06:56
 9f7158e4-557c-45f3-a2af-7d2657f20369,yates.construction,available,40.98,50.98,high,low,5,namecheap,,,25/09/2026 16:03
 7d24db43-3158-4be6-be53-3f18edd1a2b1,dark.construction,available,40.98,50.98,high,medium,4,namecheap,,,24/09/2026 04:29
@@ -784,7 +852,7 @@ a3436d12-22af-452f-bf37-203c117587d0,animalism.construction,available,38.99,38.9
 188f9536-0f1b-4d5b-96fb-afec8d0468f6,cresson.construction,available,15.99,50.99,medium,low,7,name.com,,,13/08/2026 06:16
 7c6328a0-2a98-4927-a9b4-b728b9039b18,unconscious.construction,available,38.99,38.99,medium,low,11,namesilo,,,26/09/2026 03:06
 b998282a-146e-44f2-ad7f-0e8bc3f9fb17,processed.construction,available,8.78,32.21,medium,low,9,dynadot,,,28/09/2026 08:40
-1175703c-aca0-4cb2-98a5-baf796381106,sandals.construction,available,40.98,50.98,medium,low,7,namecheap,,,20/09/2026 14:52
+1175703c-aca0-4cb2-98a5-baf796381106,sandals.construction,available,40.98,50.98,high,low,7,namecheap,,,20/09/2026 14:52
 3638169c-1b7d-4d42-9c4e-ffc57ba137c1,spontaneity.construction,available,15.99,,high,low,11,name.com,,,
 25488e2c-7a78-4e59-be39-e397b7043082,lavoisier.construction,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 15:25
 a76d3b36-eabe-4715-b2c4-722e9995f0ad,stratified.construction,available,15.99,50.99,medium,low,10,name.com,,,09/08/2026 06:36
@@ -795,25 +863,29 @@ a3a01874-1ae9-4ba0-b62e-4e2964271cd3,absolutism.construction,available,40.98,50.
 64b2fae6-e7b0-44dc-acd2-bb50405b4485,huffy.construction,available,15.99,50.99,medium,low,5,name.com,,,21/08/2026 14:40
 09338027-72ec-4e3a-a289-ada5c0ad6195,reilly.construction,available,38.99,38.99,high,low,6,namesilo,,,27/09/2026 02:49
 a49378b2-f2af-4042-b85c-8bc2683fff7b,offstage.construction,available,15.99,50.99,high,low,8,name.com,,,08/08/2026 06:14
-a8b6829d-7f2a-420f-9bd5-bcf27ee67a4b,northerner.construction,available,38.99,38.99,medium,low,10,namesilo,,,13/09/2026 14:16
+a8b6829d-7f2a-420f-9bd5-bcf27ee67a4b,northerner.construction,available,38.99,38.99,high,low,10,namesilo,,,13/09/2026 14:16
+0978a790-a0cd-4808-bed3-fd9ecbfbac9d,dhaka.construction,available,38.99,38.99,medium,low,5,namesilo,,,29/09/2026 06:13
 5dfa2ca5-f922-4981-a24a-b88566da0110,ataraxia.construction,available,40.98,50.98,high,low,8,namecheap,,,20/09/2026 19:35
 28a1f254-3baa-4d25-b9c0-61d779002b5f,person.construction,available,40.98,50.98,high,low,6,namecheap,,,25/09/2026 09:11
 cd2f44a5-ea92-429b-b4c7-9628c2408607,amiens.construction,available,30.2,30.2,medium,low,6,cloudflare,,,29/09/2026 04:12
 0be90a40-a930-4fa6-a345-9ccbc6782945,stout.construction,available,15.99,50.99,high,low,5,name.com,,,21/08/2026 00:54
 f44baeac-811c-43e0-9af4-3da5ee24c522,disdain.construction,available,38.99,38.99,medium,low,7,namesilo,,,24/09/2026 17:41
-6b85f21e-6b8d-406c-9c4e-c765d6a40474,arrears.construction,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 08:55
+6b85f21e-6b8d-406c-9c4e-c765d6a40474,arrears.construction,available,38.99,38.99,high,low,7,namesilo,,,20/09/2026 08:55
 db5e1d11-f9bc-4acf-a27a-0bbb76126fa5,chinese.construction,available,15.99,50.99,high,low,7,name.com,,,12/08/2026 05:43
+eb0bff36-9ad0-4473-9c12-feb2c79a87df,displacement.construction,available,31.25,31.25,high,low,12,spaceship,,,29/09/2026 21:00
 ea71e632-406c-49ef-a09c-32b950109879,incitive.construction,available,15.99,50.99,medium,low,8,name.com,,,22/08/2026 01:27
 a31ebf14-c7a6-4a9c-b145-fbe13f63d001,necked.construction,available,38.99,38.99,medium,low,6,namesilo,,,03/09/2026 14:40
 bfe79bf8-18c6-4416-be75-8ea000065278,katharsis.construction,available,38.99,38.99,medium,low,9,namesilo,,,16/09/2026 17:05
 3813e770-3c3f-4034-aa3f-db9dd275e390,educated.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 13:27
 45ee95f5-fd0d-4975-8218-f3940f02a68c,yon.construction,premium,118.8,118.8,medium,low,3,namesilo,,,13/09/2026 14:47
 14d0dec8-fcdc-4edc-92bc-17e971412476,biomass.construction,available,40.98,50.98,high,low,7,namecheap,,,23/09/2026 18:29
-07183fbf-9421-4422-acda-004583d06497,aorta.construction,available,40.98,50.98,medium,low,5,namecheap,,,19/09/2026 16:04
+8298c790-cede-4dd6-bdf1-2a59c774b3dd,sighs.construction,available,30.2,30.2,medium,low,5,cloudflare,,,30/09/2026 00:18
+07183fbf-9421-4422-acda-004583d06497,aorta.construction,available,40.98,50.98,high,low,5,namecheap,,,19/09/2026 16:04
 0ff1b5da-9a84-4aba-9274-52deab261679,redress.construction,available,38.99,38.99,high,low,7,namesilo,,,09/09/2026 17:27
 3ba7c779-7c4b-4c13-88d4-b15396000680,capsule.construction,available,31.25,31.25,high,low,7,spaceship,,,28/09/2026 05:53
 f5eaa600-864a-48b8-ba44-84c9c8f2d2bf,nutty.construction,available,15.99,50.99,high,low,5,name.com,,,06/08/2026 21:27
-4ab9ef89-2f8b-4c47-b72d-29069160d55f,campaign.construction,available,15.99,,high,low,8,name.com,,,
+4ab9ef89-2f8b-4c47-b72d-29069160d55f,campaign.construction,available,40.98,50.98,high,low,8,namecheap,,,29/09/2026 06:11
+793c22b1-df13-4e30-88f9-2cc0406aea68,hebrides.construction,available,30.2,30.2,high,low,8,cloudflare,,,29/09/2026 13:01
 c2565585-afeb-43cc-9ce6-9dcab1524546,postmortal.construction,available,38.99,38.99,medium,low,10,namesilo,,,09/09/2026 00:33
 f9af7620-853e-4ce3-baa9-93c03d15a09f,seats.construction,available,15.99,,high,low,5,name.com,,,
 d91064b2-3211-4855-a546-46ceb2f02536,scoffing.construction,available,15.99,50.99,medium,low,8,name.com,,,22/08/2026 12:43
@@ -822,7 +894,8 @@ f9c0043e-7b2b-4793-b125-0186a4e53f42,coalescing.construction,available,15.99,50.
 a0ee4a43-4e9a-420a-9396-113bb52a3c41,monkish.construction,available,15.99,50.99,medium,low,7,name.com,,,25/08/2026 04:53
 a010ee5d-89f8-4aec-bf1f-4afb84f35fd4,scenario.construction,available,8.78,32.21,high,low,8,dynadot,,,28/09/2026 06:43
 3decddd9-cdfe-419e-9469-9564df6950ef,assay.construction,available,38.99,38.99,high,low,5,namesilo,,,20/09/2026 15:54
-4b105f7a-93db-43b2-9328-976361e2c51e,irene.construction,premium,68.51,68.51,medium,low,5,spaceship,,,28/09/2026 21:21
+4b105f7a-93db-43b2-9328-976361e2c51e,irene.construction,premium,68.51,68.51,high,low,5,spaceship,,,28/09/2026 21:21
+d11fb5ea-8ed7-4afa-a746-dfa3a04ec899,consequently.construction,available,40.98,50.98,medium,low,12,namecheap,,,29/09/2026 10:11
 2ffe4f24-47cf-4b42-a88e-9ab635866082,agendum.construction,available,38.99,38.99,medium,low,7,namesilo,,,17/09/2026 17:05
 8665a43f-b367-4b35-bb41-8325bc0a6a43,pusher.construction,available,38.99,38.99,high,low,6,namesilo,,,21/09/2026 13:22
 3d42055b-52d8-4a85-a924-951fd535e520,hunchback.construction,available,15.99,50.99,medium,low,9,name.com,,,13/08/2026 07:49
@@ -850,7 +923,8 @@ fa2a0ebb-5a79-4b5d-889b-fa0260f7710a,photographic.construction,available,31.25,3
 217477b5-253b-49c1-8ca5-7faa635d3817,kidding.construction,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 03:02
 66ddd7d4-1178-47e3-b934-be6fe13c359b,acyl.construction,available,38.99,38.99,medium,low,4,namesilo,,,17/09/2026 05:49
 11f8224d-cc01-4c61-8fe2-9c792dfbeb8d,send.construction,available,30.2,30.2,high,medium,4,cloudflare,,,29/09/2026 04:28
-196e719b-7631-4e13-bf8b-d4592a3f96ee,triennial.construction,available,38.99,38.99,medium,low,9,namesilo,,,11/09/2026 19:31
+2733d973-9fa9-4556-b8d5-a801171cbeab,vapor.construction,available,30.2,30.2,high,low,5,cloudflare,,,29/09/2026 18:48
+196e719b-7631-4e13-bf8b-d4592a3f96ee,triennial.construction,available,38.99,38.99,high,low,9,namesilo,,,11/09/2026 19:31
 bcd132a7-382d-43a9-9b47-1868a847199c,balaena.construction,available,40.98,50.98,medium,low,7,namecheap,,,21/09/2026 20:30
 accccdc9-0ff7-4a35-9701-41265d78cb3f,hadrian.construction,available,38.99,38.99,high,low,7,namesilo,,,17/09/2026 09:58
 46b3de0a-da9d-4a62-9869-17fc5f00a51f,swiftly.construction,available,31.25,31.25,high,low,7,spaceship,,,28/09/2026 14:53
@@ -869,6 +943,7 @@ ae2c92d3-ca4f-4cbc-91b8-1e854622fb66,mislaid.construction,available,15.99,50.99,
 478994af-2c14-4e53-afcf-bed6989ef237,modesty.construction,available,15.99,,high,low,7,name.com,,,
 b85bfc7e-0257-49ea-9947-1845fbcdd294,hewn.construction,available,15.99,50.99,medium,low,4,name.com,,,20/08/2026 23:16
 e8dbaa89-7044-4d60-96fe-397e808685d5,genitive.construction,available,15.99,50.99,medium,low,8,name.com,,,18/08/2026 21:46
+af55de22-f03b-438d-b6ab-c1f1f62690bc,snail.construction,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 06:48
 95996e4c-7d9e-4d7a-8622-b46e58bc27dd,evoked.construction,available,15.99,50.99,medium,low,6,name.com,,,16/08/2026 04:33
 00245a74-eacb-4e0f-aea3-fb5102fd4ff8,soigne.construction,available,38.99,38.99,medium,low,6,namesilo,,,10/09/2026 13:28
 c5dfa7d8-22ee-4393-8daa-56449d97b6fb,unfathomed.construction,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 09:57
@@ -881,121 +956,46 @@ c5dfa7d8-22ee-4393-8daa-56449d97b6fb,unfathomed.construction,available,38.99,38.
 2bd254a9-ce93-4312-8357-e6348c0f4caf,bobby.construction,premium,207.2,207.2,high,low,5,spaceship,,,28/09/2026 13:33
 d0f6ad82-90aa-4fc1-952b-d4db5e37ee78,ramp.construction,available,38.99,38.99,high,low,4,namesilo,,,18/09/2026 11:33
 629236b9-a451-47fe-b694-70a8b6500187,persisting.construction,available,15.99,50.99,high,low,10,name.com,,,14/08/2026 15:05
-0198225b-6287-48de-9239-0f16af6c5359,compel.construction,available,38.99,38.99,medium,low,6,namesilo,,,03/09/2026 23:39
+0198225b-6287-48de-9239-0f16af6c5359,compel.construction,available,38.99,38.99,high,low,6,namesilo,,,03/09/2026 23:39
 452f0fe3-6563-478e-bb5c-2b0c718fd876,sterilised.construction,available,40.98,50.98,medium,low,10,namecheap,,,10/09/2026 20:13
 de19980a-a789-4a60-a18a-6f5d9010e08e,bulimic.construction,available,15.99,50.99,medium,low,7,name.com,,,11/08/2026 08:26
-3c5da462-7424-4bfe-af7f-1f9b879c387a,farsighted.construction,available,15.99,50.99,medium,low,10,name.com,,,17/08/2026 22:41
-aeccc7a5-bd53-463b-9606-f631c5067520,index.construction,available,15.99,,high,medium,5,name.com,,,
+3c5da462-7424-4bfe-af7f-1f9b879c387a,farsighted.construction,available,15.99,50.99,high,low,10,name.com,,,17/08/2026 22:41
+aeccc7a5-bd53-463b-9606-f631c5067520,index.construction,available,31.25,31.25,high,medium,5,spaceship,,,29/09/2026 19:51
 86b2d122-65b0-4d8d-87c7-993e9585149f,barkeeper.construction,available,38.99,38.99,medium,low,10,namesilo,,,22/09/2026 06:23
 1b233ff7-2d7a-469b-858e-17c0506d89f0,effluent.construction,available,15.99,50.99,medium,low,8,name.com,,,15/08/2026 14:47
 c4a86b2e-fd3a-4ef0-b9d1-80dae87762a6,studio.construction,resell,,,high,medium,6,Dynadot Inc,16/09/2026 17:01,16/09/2027 17:01,26/09/2026 09:21
 2d27c95e-42bd-4bfe-badf-8217347a7339,complain.construction,available,38.99,38.99,high,low,8,namesilo,,,27/09/2026 03:57
 d1e0f82a-cfc3-434a-b00c-55d74a4e3b90,fierce.construction,available,40.98,50.98,high,low,6,namecheap,,,23/09/2026 01:48
-08889361-e343-4d32-a62f-e4b5375db141,novelty.construction,available,40.98,50.98,medium,low,7,namecheap,,,29/09/2026 02:33
+08889361-e343-4d32-a62f-e4b5375db141,novelty.construction,available,40.98,50.98,high,low,7,namecheap,,,29/09/2026 02:33
 441c537f-c7e4-4be9-9e3c-2b769ca2c7b9,perky.construction,available,38.99,38.99,high,low,5,namesilo,,,08/09/2026 17:33
 001da8e2-4315-4254-9204-958754fb2e61,attractor.construction,available,38.99,38.99,high,low,9,namesilo,,,21/09/2026 02:12
-8932f571-9bf2-4cf1-b1f4-16c23b599f26,extensive.construction,available,15.99,50.99,medium,low,9,name.com,,,
+8932f571-9bf2-4cf1-b1f4-16c23b599f26,extensive.construction,available,15.99,50.99,high,low,9,name.com,,,
 5e10d992-1376-49f5-bbf3-9a373b3a1cd9,cries.construction,available,8.78,32.21,low,low,5,dynadot,,,28/09/2026 08:31
-354f61ef-3122-4253-a6bc-0b3f10d605ea,rhapsodic.construction,available,15.99,50.99,medium,low,9,name.com,,,14/08/2026 23:52
+354f61ef-3122-4253-a6bc-0b3f10d605ea,rhapsodic.construction,available,15.99,50.99,high,low,9,name.com,,,14/08/2026 23:52
 a874daf6-c77e-4c5a-8aff-a574e3a11872,offprint.construction,available,38.99,38.99,medium,low,8,namesilo,,,10/09/2026 03:57
+29508444-1308-4f02-86f8-1901bcf17cb8,flashlight.construction,available,38.99,38.99,high,low,10,namesilo,,,29/09/2026 06:57
+85709f49-30d9-4fc1-b3e5-94209c946a49,exposing.construction,available,30.2,30.2,medium,low,8,cloudflare,,,29/09/2026 10:25
 ff2504b9-d608-49fc-9c76-05ad6b7afc03,said.construction,available,15.99,,high,low,4,name.com,,,
 f6929c34-5dce-47e4-b483-a248f51b98f2,binturong.construction,available,40.98,50.98,medium,low,9,namecheap,,,20/09/2026 02:47
 a4e833c3-1e5c-495e-880a-7a6837f7f095,professionals.construction,available,31.25,31.25,high,low,13,spaceship,,,28/09/2026 12:40
 ddb8afe4-dea2-4ceb-ac03-bfb72f21b6c5,declared.construction,available,15.99,50.99,medium,low,8,name.com,,,13/08/2026 21:46
 2ba847c6-b0c8-4897-8472-42118811a072,atp.construction,available,30.2,30.2,high,low,3,cloudflare,,,28/09/2026 18:27
-c807ce42-7455-40b2-b146-82a41b003972,israelite.construction,available,31.25,31.25,medium,low,9,spaceship,,,29/09/2026 01:21
+c807ce42-7455-40b2-b146-82a41b003972,israelite.construction,available,31.25,31.25,high,low,9,spaceship,,,29/09/2026 01:21
 6eec4740-783c-4854-97c7-e036e3cf9b3d,abide.construction,available,30.2,30.2,high,low,5,cloudflare,,,29/09/2026 04:34
+90905853-cec2-462c-8dbf-45c12e43090c,empathy.construction,available,59.99,59.99,high,low,7,godaddy,,,30/09/2026 01:30
 805992c2-d3fc-401a-af38-b4b448162c8f,furthest.construction,available,40.98,50.98,medium,low,8,namecheap,,,24/09/2026 17:07
 00d78bb3-b2e8-4622-9c0a-f4182dbee038,rurally.construction,available,38.99,38.99,medium,low,7,namesilo,,,16/09/2026 00:20
 e05f071e-81cf-4b80-b4fa-68f4a015b06c,astatic.construction,available,15.99,50.99,medium,low,7,name.com,,,07/08/2026 08:36
 dbb8c612-f67e-4e9c-906c-3a3c08263148,declaration.construction,available,31.25,31.25,high,low,11,spaceship,,,28/09/2026 12:33
+927ee6ac-54e5-4732-a1aa-290f27ca2b57,bitten.construction,available,40.98,50.98,low,low,6,namecheap,,,29/09/2026 10:18
 6e28b0be-27c8-447b-8452-f51867857d60,irani.construction,available,15.99,50.99,high,low,5,name.com,,,22/08/2026 09:42
 f2701198-efb9-4fd4-9bd7-c81d99a79414,vanzetti.construction,available,38.99,38.99,medium,low,8,namesilo,,,22/09/2026 09:26
 189a06a4-dab0-488c-b472-386b701df3bb,archeology.construction,available,40.98,50.98,high,low,10,namecheap,,,20/09/2026 01:43
-29db81cd-242e-4dda-bd5b-ca2bdad47e4a,glitter.construction,available,15.99,,high,low,7,name.com,,,
-5f1021ca-7570-4204-80d1-c435d1e472a5,natchez.construction,available,40.98,50.98,medium,low,7,namecheap,,,28/09/2026 14:57
+29db81cd-242e-4dda-bd5b-ca2bdad47e4a,glitter.construction,available,8.78,32.21,high,low,7,dynadot,,,29/09/2026 11:42
+5f1021ca-7570-4204-80d1-c435d1e472a5,natchez.construction,available,40.98,50.98,high,low,7,namecheap,,,28/09/2026 14:57
 31af456a-8357-4918-85d0-4c6380aabe17,decorative.construction,available,15.99,50.99,high,low,10,name.com,,,13/08/2026 02:51
 dedc5050-db1f-4003-bed1-2a419afa36dc,leased.construction,available,15.99,50.99,high,low,6,name.com,,,12/08/2026 02:50
 1639bf1a-b74a-47dd-8f15-9593f11ffd2c,formalise.construction,available,15.99,,high,low,9,name.com,,,
 8cb40e41-a3e3-4295-b363-c3243ded5b43,demoralize.construction,available,15.99,50.99,medium,low,10,name.com,,,13/08/2026 02:16
 bd804f55-59c0-4f5a-a6c5-794089f60662,inmates.construction,available,8.75,31.41,low,low,7,porkbun,,,28/09/2026 18:12
 5518dbc2-da6c-4b9e-b10c-cbbc51eabfa5,durango.construction,available,31.25,31.25,medium,low,7,spaceship,,,28/09/2026 18:59
-08672c0f-a083-4635-9cdc-1a42abd42093,zack.construction,available,31.25,31.25,high,low,4,spaceship,,,27/09/2026 18:11
-fb76dd35-6d81-48f8-b69b-acef7061f511,shocking.construction,available,38.99,38.99,medium,low,8,namesilo,,,24/09/2026 11:12
-c87b6f3f-12e1-4385-8475-91049233e2e6,measurement.construction,available,38.99,38.99,high,low,11,namesilo,,,28/09/2026 05:47
-e67db2ca-ef91-40f8-bea6-95107a4d6f72,avoiding.construction,available,38.99,38.99,high,low,8,namesilo,,,28/09/2026 03:32
-22fba007-efc9-4c82-995f-bccf0c6bb122,escape.construction,available,38.99,38.99,high,low,6,namesilo,,,24/09/2026 23:22
-d6e2b5ab-4205-4db6-86e2-00f8e65662e7,spencer.construction,available,8.78,32.21,high,low,7,dynadot,,,27/09/2026 14:02
-5af73b67-160a-4ccd-b921-3f4262281b40,swimmer.construction,available,38.99,38.99,high,low,7,namesilo,,,22/09/2026 13:29
-332ece6a-177e-40cc-af9c-afb1e9f310f9,orchis.construction,available,38.99,38.99,medium,low,6,namesilo,,,21/09/2026 23:07
-bf2f0385-b01e-40e8-9805-888ca5da23fc,knitted.construction,available,15.99,50.99,medium,low,7,name.com,,,22/08/2026 16:27
-76ce72dd-244c-410e-93a9-94698a02c339,sounded.construction,available,15.99,,medium,low,7,name.com,,,
-06573ba7-35cb-4527-a4d6-cb56a358d9fa,snowstorms.construction,available,38.99,38.99,low,low,10,namesilo,,,19/09/2026 21:56
-2802ba67-a14d-41d8-a411-75ed01a89fd8,lucidly.construction,available,38.99,38.99,medium,low,7,namesilo,,,15/09/2026 12:12
-326c5e98-1dc1-4a52-9233-d6119f6ffbda,nobble.construction,available,38.99,38.99,medium,low,6,namesilo,,,14/09/2026 07:56
-20911775-20f0-48ee-978b-c999bfb3c628,foursome.construction,available,15.99,50.99,high,low,8,name.com,,,
-b74a857d-d5af-429c-912c-31395474efd0,phones.construction,available,38.99,38.99,high,low,6,namesilo,,,20/09/2026 09:31
-105b89b5-6f4e-44f0-b056-53091d2a3b96,lives.construction,available,38.99,38.99,high,low,5,namesilo,,,18/09/2026 05:57
-4cdbd826-fe47-4428-9201-cc8c03e44c40,null.construction,available,38.99,38.99,high,medium,4,namesilo,,,03/09/2026 22:27
-0774ecbe-b0ae-4529-a3cb-2d639156c1c0,banshee.construction,available,38.99,38.99,high,low,7,namesilo,,,22/09/2026 03:09
-2ba75265-36ef-4322-918d-72613d299804,cooperate.construction,available,38.99,38.99,high,low,9,namesilo,,,28/09/2026 17:32
-07f617d4-4e5a-492b-ac12-1cb7f6a017c0,movement.construction,available,31.25,31.25,high,low,8,spaceship,,,28/09/2026 21:51
-fed3ba1a-c225-4995-8ee0-fa9978015b2c,raped.construction,available,15.99,50.99,medium,low,5,name.com,,,14/08/2026 04:27
-b4c51276-694a-49f8-8654-baeae79460de,clubable.construction,available,15.99,50.99,medium,low,8,name.com,,,12/08/2026 12:57
-de94b2d9-8f47-4318-aae5-0a9070f247c5,incurious.construction,available,15.99,50.99,medium,low,9,name.com,,,22/08/2026 02:08
-e6f8a49c-4721-4aa6-8fc8-ec063f043dd8,charts.construction,available,38.99,38.99,high,low,6,namesilo,,,18/09/2026 23:12
-efebdc3c-f5f4-41c3-bb9b-a42ee182131e,faith.construction,available,15.99,,high,low,5,name.com,,,
-e2effab7-e8aa-4693-9627-a09696dc3540,lofty.construction,available,15.99,50.99,high,low,5,name.com,,,17/08/2026 15:42
-faec707e-f170-4ca3-8d33-4898e6c223d7,poignant.construction,available,15.99,50.99,high,low,8,name.com,,,
-a36af5e0-a748-4623-9022-372b8e4acd11,agency.construction,available,38.99,38.99,high,medium,6,namesilo,,,17/09/2026 16:59
-1b8186c8-e9af-4adf-a508-67263d32b1bb,futile.construction,available,40.98,50.98,medium,low,6,namecheap,,,22/09/2026 23:49
-8c433357-a602-46f2-9b49-5ed4ee1c886c,matchless.construction,available,15.99,50.99,high,low,9,name.com,,,24/08/2026 17:00
-62400c0a-5ce5-4373-bc47-25268f4fff7c,interrupt.construction,available,15.99,50.99,high,low,9,name.com,,,13/08/2026 12:38
-5a17a729-b126-4871-b76d-cfa3d51dc8e7,corpses.construction,available,38.99,38.99,low,low,7,namesilo,,,28/09/2026 23:15
-36b802fc-a2c1-4aba-84b3-fa104dba779b,bambino.construction,available,38.99,38.99,high,low,7,namesilo,,,22/09/2026 00:39
-ff505621-cf56-4c0d-bf65-8635e4da9a0d,sweetly.construction,available,38.99,38.99,high,low,7,namesilo,,,11/09/2026 05:33
-70f61138-4ddc-49ad-934e-da715c14bf4d,mom.construction,premium,118.8,118.8,high,low,3,namesilo,,,
-0660216a-f31a-4049-bc69-663b971875c9,payoff.construction,available,15.99,,high,low,7,name.com,,,
-0b909173-b993-47dc-8e7b-b2b1e9f7b5fb,marston.construction,available,8.75,31.41,medium,low,7,porkbun,,,28/09/2026 16:09
-c7fb6130-5c06-4ba6-bf71-766cc9901c45,warrington.construction,available,38.99,38.99,medium,low,10,namesilo,,,28/09/2026 07:51
-53a72c8e-11bf-440e-99ea-c6d49d488b86,cheesecake.construction,available,40.98,50.98,high,low,10,namecheap,,,24/09/2026 14:12
-67eef42d-d7c0-4bd8-9841-14690ba5aa73,khartoum.construction,available,38.99,38.99,medium,low,8,namesilo,,,24/09/2026 12:25
-62b2dacf-a6b3-4ca2-9a69-12f538078af4,backbeat.construction,available,38.99,38.99,high,low,8,namesilo,,,21/09/2026 14:59
-2946f98a-df95-4f0b-802a-ff2c30ddb7bf,gustave.construction,available,38.99,38.99,medium,low,7,namesilo,,,28/09/2026 09:09
-ec97b55e-93f7-4e6c-91cc-d581fc00242b,atresia.construction,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 00:42
-3271d1e4-9f9e-434d-a00f-41fcc42cb977,magnetic.construction,available,15.99,50.99,high,low,8,name.com,,,12/08/2026 02:32
-07bde1ea-28ff-420f-b725-d71d13849f4f,alonso.construction,available,38.99,38.99,high,low,6,namesilo,,,18/09/2026 07:29
-4aa98264-ef89-4eef-9c56-83168df98832,advances.construction,available,38.99,38.99,medium,low,8,namesilo,,,28/09/2026 23:36
-4a0d2801-00e6-4e58-b664-7d1c7a738649,warmer.construction,available,40.98,50.98,high,low,6,namecheap,,,28/09/2026 05:58
-5a203d82-98f6-4e5f-8228-aec80aac42fe,carols.construction,available,40.98,50.98,medium,low,6,namecheap,,,17/09/2026 18:54
-17a6b367-3a93-4db3-abd9-195f1c52ec87,robbers.construction,available,8.78,32.21,low,low,7,dynadot,,,28/09/2026 23:38
-10742de1-b699-4ae9-bd75-54455c176e01,northmost.construction,available,38.99,38.99,medium,low,9,namesilo,,,03/09/2026 21:38
-56b89fc0-928e-421a-9fb7-9c5039ff81f0,diligent.construction,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 08:25
-3ca00d1d-7757-4772-a73b-51dc174b2219,penniless.construction,available,15.99,50.99,medium,low,9,name.com,,,21/08/2026 00:34
-2916aadf-4df4-45c8-897a-b1785a4da3bd,lyrics.construction,available,15.99,,high,low,6,name.com,,,
-40529088-e387-47a6-adb5-c259abe38bdf,grayish.construction,available,15.99,50.99,medium,low,7,name.com,,,20/08/2026 18:56
-4cd9a4a8-29a8-4bf0-88b1-9c2d533e8484,untrusty.construction,available,15.99,50.99,medium,low,8,name.com,,,12/09/2026 21:46
-2de4645d-919c-459f-a184-85ecd309dedf,bilateral.construction,available,15.99,50.99,high,low,9,name.com,,,09/08/2026 21:14
-a37df984-94cd-4333-a5df-f3c82781ab15,lashings.construction,available,38.99,38.99,high,low,8,namesilo,,,14/09/2026 23:38
-c9e72d8e-f165-40b9-afd6-0177686ae356,kidney.construction,available,15.99,,high,low,6,name.com,,,
-5c7497c9-bf80-4d57-a91b-f86de4d141b1,survived.construction,available,40.98,50.98,medium,low,8,namecheap,,,19/09/2026 19:18
-844cee5f-48bb-4889-ba0f-e4e32bbc45ad,trumpian.construction,available,15.99,,medium,low,8,name.com,,,
-3c0b852e-2245-485f-b9a9-57ebc7400b6e,obvious.construction,available,38.99,38.99,high,low,7,namesilo,,,25/09/2026 23:50
-f4df4efe-30c8-4324-8f6f-12889ddc2592,kurds.construction,available,31.25,31.25,medium,low,5,spaceship,,,28/09/2026 05:10
-f2bb3690-3f13-422a-b75d-fd335ac797ac,hemal.construction,available,15.99,50.99,medium,low,5,name.com,,,20/08/2026 21:41
-bd438c01-701c-4ada-a509-c4f6e61ad6bd,gratuity.construction,available,15.99,50.99,high,low,8,name.com,,,21/09/2026 15:50
-c36f5257-93ed-4c1e-8b61-04d1c310858b,curl.construction,available,15.99,,high,low,4,name.com,,,
-a15194e2-e45c-4406-a659-6079ca16a627,rotation.construction,available,15.99,,high,low,8,name.com,,,
-e7ad0a5e-2f69-42b4-9ae0-ac033ae8cf22,superlunar.construction,available,38.99,38.99,medium,low,10,namesilo,,,11/09/2026 02:21
-655288d4-c7a2-4c63-b435-9c5d3060865d,alca.construction,available,38.99,38.99,high,low,4,namesilo,,,18/09/2026 03:36
-56cf33bb-38e6-4198-be88-54230efa4503,hiram.construction,available,8.78,32.21,medium,low,5,dynadot,,,27/09/2026 19:47
-1330967d-0128-442c-ba4b-4ecdc9289474,sumbody.construction,available,15.99,,low,low,7,name.com,,,
-1e918217-9ecf-4b45-9824-b2d6fc29322c,reid.construction,available,38.99,38.99,high,low,4,namesilo,,,25/09/2026 10:17
-1d7ad94c-59c2-48a5-8c59-81dc2068bbf1,downfield.construction,available,15.99,50.99,medium,low,9,name.com,,,14/08/2026 17:39
-5a5aab0d-371d-4670-84e8-c0c89a389c2f,hop.construction,premium,118.8,118.8,high,low,3,namesilo,,,25/09/2026 07:30
-deebe622-c0b2-41ab-b3e1-d1f4b9de8bdc,accidental.construction,available,15.99,50.99,high,low,10,name.com,,,
-49fdaf0e-b971-4aae-80b9-07833eb545c2,informer.construction,available,38.99,38.99,medium,low,8,namesilo,,,23/09/2026 11:26
-cb06ebe5-2c98-49e5-bbb5-43124f20de1e,tobias.construction,available,38.99,38.99,high,low,6,namesilo,,,27/09/2026 07:33
-3eca9a6a-52fe-4350-8ad9-1d5e04668ec5,peacefully.construction,available,15.99,50.99,high,low,10,name.com,,,15/09/2026 19:23
-4c41afd5-99ab-4580-9009-095f323da0cc,deciders.construction,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 23:38
-a1ce0b5c-55a0-4b63-956f-679d8f1cf27a,fat.construction,premium,118.8,118.8,high,low,3,namesilo,,,24/09/2026 17:19
